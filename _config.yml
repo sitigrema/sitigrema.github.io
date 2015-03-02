@@ -4,21 +4,21 @@
 
 # url without trailing slash
 
-url:            http://grema.imm.cz
+url:            http://sitigrema.cz
 
 name:           Grema
-title:          Šití Grema
+title:          Zakázkové šití Grema
 description:    Výroba chovatelských potřeb pro koně, pejsky a jiné zvířecí miláčky.
-keywords:       Grema, Koně, Šití
+keywords:       Grema, Koně, Šití, chovatelské potřeby, nylonové popruhy, otěže, uzdečky, podbřišníky, vodítka
 language:       cs
 
 contact:
-    email:      Grema
+    name:       Grema
+    email:      chovatelskepotrebygrema@seznam.cz
     phone:      +420 775 696 902
     facebook:   https://www.facebook.com/chovateskepotrebyGrema
-    twitter:    https://twitter.com/exampleinc
 
-author: 
+author:
     name:       imm studios, z.s.
     email:      produkce@imm.cz
     url:        http://imm.cz
