@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="{{ site.language }}">
+      
+<head>
+    <meta charset="utf-8" />
+    <title>{{ page.title }} - {{ site.title }}</title>
+    
+    <meta name="description" content="{{ site.description }}" />
+    <meta name="keywords" content="{{ site.keywords }}" />
+    <meta name="author" content="{{ site.author.name }}" />
+
+    <link rel="stylesheet" href="/static/css/bootstrap.css" />
+
+    {% for sheet in site.css %}<link rel="stylesheet" href="{{ sheet }}" />
+    {% endfor %}
+    {% for sheet in page.css %}<link rel="stylesheet" href="{{ sheet }}" />
+    {% endfor %}
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+    <link rel="canonical" href="{{ site.url }}" />
+    <link rel="alternate" href="{{ site.url }}/atom.xml" type="application/atom+xml"  title="{{ site.name }} ATOM Feed">
+    <link rel="alternate" href="{{ site.url }}/rss.xml" type="application/rss+xml"  title="{{ site.name }} RSS Feed">
+</head>
+
+
+<body>
+{{ content }}
+
+    <script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,21 @@
+---
+layout: base
+css:
+ - /static/css/default.css
+---
+
+{% include navbar.html %}
+
+<div class="container">
+    <div class="row">
+{% include sidebar.html %}
+        <div class="col-md-9">
+{{ content }}
+        </div> <!-- main column -->
+    </div> <!-- row -->
+</div> <!-- container -->
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+<script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+<script src="/static/js/social.js"></script>

@@ -1,0 +1,34 @@
+<div class="col-md-3">
+
+
+<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+{% for cat in site.data.products %}
+    <div class="panel panel-default">
+        <div class="panel-heading" role="tab" id="cat-{{ cat.slug }}">
+            <h4 class="panel-title">
+                <a data-toggle="collapse" data-parent="#accordion" href="#collapse-{{ cat.slug }}" aria-expanded="false" aria-controls="collapse-{{ cat.slug }}">{{ cat.title }}</a>
+            </h4>
+        </div>
+        <div id="collapse-{{ cat.slug }}" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="cat-{{ cat.slug }}">
+
+            <div class="list-group">
+            {% for group in cat.groups %}
+                <a href="/{{ cat.slug }}/{{ group.slug }}.html" class="list-group-item{% if group.slug == page.slug %} active{% endif %}">{{ group.title }}</a>
+            {% endfor %}
+            </div>
+
+        </div>
+    </div>
+{% endfor %}
+</div>
+
+
+Sdílejte stránku
+<div id="social">
+    <button class="btn color_facebook"   onClick="social('facebook',   '{{ site.url }}{{ page.url }}', '{{ page.title }} - {{ site.title }}' )"><i class="fa fa-facebook"></i></button>
+    <button class="btn color_twitter"    onClick="social('twitter',    '{{ site.url }}{{ page.url }}', '{{ page.title }} - {{ site.title }}' )"><i class="fa fa-twitter"></i></button>
+    <button class="btn color_googleplus" onClick="social('googleplus', '{{ site.url }}{{ page.url }}', '{{ page.title }} - {{ site.title }}' )"><i class="fa fa-google-plus"></i></button>
+</div>
+
+
+</div>

@@ -1,0 +1,44 @@
+#
+# Descriptive metadata
+#
+
+# url without trailing slash
+
+url:            http://grema.imm.cz
+
+name:           Grema
+title:          Šití Grema
+description:    Výroba chovatelských potřeb pro koně, pejsky a jiné zvířecí miláčky.
+keywords:       Grema, Koně, Šití
+language:       cs
+
+contact:
+    email:      Grema
+    phone:      +420 775 696 902
+    facebook:   https://www.facebook.com/chovateskepotrebyGrema
+    twitter:    https://twitter.com/exampleinc
+
+author: 
+    name:       imm studios, z.s.
+    email:      produkce@imm.cz
+    url:        http://imm.cz
+    facebook:   https://www.facebook.com/immstudios
+    twitter:    https://twitter.com/immstudios
+
+#
+# Build options
+#
+
+
+# Additional CSS
+css:
+                - //maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css
+                - http://fonts.googleapis.com/css?family=Lobster
+
+
+include:        ["robots.txt"]
+exclude:        ["_doc", "LICENSE", "README.md"]
+markdown:       redcarpet
+sass:
+    sass_dir:   _sass
+    style:      compressed

@@ -1,0 +1,73 @@
+html {
+    overflow-y: scroll; 
+}
+
+body {
+    padding-top: 70px;
+}
+
+.slide-image {
+    width: 100%;
+}
+
+.carousel-holder {
+    margin-bottom: 30px;
+}
+
+.carousel-control,
+.item {
+    border-radius: 4px;
+}
+
+
+
+
+.caption {
+    height: 140px;
+    overflow: hidden;
+}
+
+.caption-product {
+    height: 56px;
+}
+
+
+.caption h4 {
+    white-space: nowrap;
+}
+
+
+
+
+.thumbnail img {
+    width: 100%;
+}
+
+.thumbnail {
+    background-color: #d28b59;
+    padding: 0;
+}
+
+.thumbnail .caption-full {
+    padding: 9px;
+    color: #333;
+}
+
+footer {
+    margin: 50px 0;
+}
+
+#social {
+
+}
+
+#social button {
+    width : 32px;
+    height :32px;
+    color : #eee;
+}
+
+
+.color_facebook {background-color: #425695;}
+.color_twitter {background-color: #55ACEE;}
+.color_googleplus {background-color: #DD4B39;}
