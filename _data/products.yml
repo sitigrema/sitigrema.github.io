@@ -43,7 +43,7 @@
           title: Bederní deka nepromokavá
           slug : bederni-deka-nepromokava
         - id   : 3002
-          title: Deka fleesová - odpocovací
+          title: Deka  fleesová - odpocovací
           slug : deka-fleesova-odpocovaci
         - id   : 3003
           title: Deka nepromokavá
@@ -51,9 +51,6 @@
         - id   : 3004
           title: Deka softshell
           slug : deka-softshell
-        - id   : 3005
-          title: Deka stájová
-          slug : deka-stajova
 
     - id    : 4
       title : Lonžovací potřeby
@@ -75,7 +72,7 @@
           title: Lonžovací obřišníky
           slug : lonzovaci-obrisniky
         - id   : 4005
-          title: Vyvazovací otěže s gumou
+          title: Vyvazovací otěže s gumou
           slug : vyvazovaci-oteze-s-gumou
         - id   : 4006
           title: Vyvazovací otěže pevné
@@ -95,7 +92,7 @@
           title: Martingalová vidlice k poprsáku
           slug : martingalova-vidlice-k-poprsaku
         - id   : 5003
-          title: Očko k podbřišníku
+          title: Očko k podbřišníku
           slug : ocko-k-podbrisniku
         - id   : 5004
           title: Poprsák anglický
@@ -141,17 +138,17 @@
           title: Fleesové bandáže
           slug : fleesove-bandaze
         - id   : 7001
-          title: Podložky pod bandáže
-          slug : podlozky-pod-bandaze
-        - id   : 7002
           title: Reflexní bandáže
           slug : reflexni-bandaze
+        - id   : 7002
+          title: Reflexní pásky pro jezdce
+          slug : reflexni-pasky-pro-jezdce
         - id   : 7003
-          title: Rexlexní pásky pro jezdce
-          slug : rexlexni-pasky-pro-jezdce
-        - id   : 7004
           title: Reflexní pásky pro koně
           slug : reflexni-pasky-pro-kone
+        - id   : 7004
+          title: Reflexní bandáže
+          slug : reflexni-bandaze
         - id   : 7005
           title: Transportní kamaše
           slug : transportni-kamase
@@ -161,14 +158,14 @@
       slug  : oteze-a-pomocne-oteze
       products :
         - id   : 8000
-          title: Otěže ploché
-          slug : oteze-ploche
+          title: Otěže anglické
+          slug : oteze-anglicke
         - id   : 8001
-          title: Otěže lanové
-          slug : oteze-lanove
-        - id   : 8002
           title: Otěže protiskluzové
           slug : oteze-protiskluzove
+        - id   : 8002
+          title: Otěže westernové
+          slug : oteze-westernove
         - id   : 8003
           title: Průvlečky
           slug : pruvlecky
@@ -192,44 +189,37 @@
       slug  : podsedlove-a-jine-decky
       products :
         - id   : 10000
-          title: Dečka barokní
-          slug : decka-barokni
+          title: Dečka obdélníková
+          slug : decka-obdelnikova
         - id   : 10001
           title: Dečka drezurní
           slug : decka-drezurni
         - id   : 10002
-          title: Dečka dostihová
-          slug : decka-dostihova
-        - id   : 10003
-          title: Dečka obdélníková
-          slug : decka-obdelnikova
-        - id   : 10004
           title: Dečka pod lonžovací obřišník
           slug : decka-pod-lonzovaci-obrisnik
-        - id   : 10005
-          title: Dečka s cípem
+        - id   : 10003
+          title: Dečka s cípem
           slug : decka-s-cipem
-        - id   : 10006
+        - id   : 10004
           title: Dečka vykrojená
           slug : decka-vykrojena
-        - id   : 10007
+        - id   : 10005
           title: Dečka westernová
           slug : decka-westernova
+        - id   : 10006
+          title: Podsedlová dečka dostihová
+          slug : podsedlova-decka-dostihova
+        - id   : 10007
+          title: Podsedlová dečka barokní
+          slug : podsedlova-decka-barokni
 
     - id    : 11
       title : Třmenové řemeny
       slug  : trmenove-remeny
-      products :
-        - id   : 11000
-          title: Třmenové řemeny klasické
-          slug : trmenove-remeny-klasicke
-        - id   : 11001
-          title: Třmenové řemeny jednořemenné
-          slug : trmenove-remeny-jednoremenne
 
     - id    : 12
-      title : Uzdečky a bezudidlovky
-      slug  : uzdecky-a-bezudidlovky
+      title : Uzdečky
+      slug  : uzdecky
       products :
         - id   : 12000
           title: Bezudidlová uzdečka
@@ -256,10 +246,10 @@
           title: Uzdečka jednořemínková
           slug : uzdecka-jednoreminkova
         - id   : 12008
-          title: Uzdečka s Hackamore
+          title: Uzdečka s Hackamore
           slug : uzdecka-s-hackamore
         - id   : 12009
-          title: Uzdečka v kombinaci s ohlávkou
+          title: Uzdečka v kombinaci s ohlávkou
           slug : uzdecka-v-kombinaci-s-ohlavkou
         - id   : 12010
           title: Uzdečka westernová

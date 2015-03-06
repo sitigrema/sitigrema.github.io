@@ -13,7 +13,7 @@
 
             <div class="list-group">
             {% for group in cat.groups %}
-                <a href="/{{ cat.slug }}/{{ group.slug }}.html" class="list-group-item{% if group.slug == page.slug %} active{% endif %}">{{ group.title }}</a>
+                <a href="/{{ cat.slug }}/{{ group.slug }}" class="list-group-item{% if group.slug == page.slug %} active{% endif %}">{{ group.title }}</a>
             {% endfor %}
             </div>
 
