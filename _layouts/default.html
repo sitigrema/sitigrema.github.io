@@ -8,10 +8,22 @@ css:
 
 <div class="container">
     <div class="row">
-{% include sidebar.html %}
+
+        <div class="col-md-3">
+        {% include sidebar.html %}
+        </div>
+
+
         <div class="col-md-9">
-{{ content }}
+
+            <div class="page-header">
+                <h1>{{ page.title }}</h1>
+            </div>
+
+        {{ content }}
         </div> <!-- main column -->
+
+
     </div> <!-- row -->
 </div> <!-- container -->
 

@@ -6,6 +6,8 @@ body {
     padding-top: 70px;
 }
 
+
+
 .slide-image {
     width: 100%;
 }
@@ -22,19 +24,6 @@ body {
 
 
 
-.caption {
-    height: 140px;
-    overflow: hidden;
-}
-
-.caption-product {
-    height: 56px;
-}
-
-
-.caption h4 {
-    white-space: nowrap;
-}
 
 
 
@@ -53,9 +42,42 @@ body {
     color: #333;
 }
 
+
+
+.caption {
+    min-height: 140px;
+}
+
+.caption-product {
+    min-height: 72px;
+}
+
+.caption h4 {
+    font-size: 16px;
+ }
+
+.caption > .btn{
+    color: #000;
+}
+
+.caption a {
+    color: #FFEADB;
+}
+
+
+
+
+
+
+
+
+
+
+
 footer {
     margin: 50px 0;
 }
+
 
 #social {
 
@@ -66,7 +88,6 @@ footer {
     height :32px;
     color : #eee;
 }
-
 
 .color_facebook {background-color: #425695;}
 .color_twitter {background-color: #55ACEE;}
