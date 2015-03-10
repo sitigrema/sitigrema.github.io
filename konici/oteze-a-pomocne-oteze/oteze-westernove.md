@@ -1,0 +1,10 @@
+---
+layout: product
+title: Otěže westernové
+cat_slug : konici
+group_slug: oteze-a-pomocne-oteze
+slug: oteze-westernove
+---
+
+
+

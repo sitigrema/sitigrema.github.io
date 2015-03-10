@@ -4,5 +4,22 @@ css:
  - /static/css/default.css
 ---
 
+<div class="media">
+  <div class="media-body">
+    {{ content}}
+  </div>
+  <div class="media-right media-top">
+    <a href="#">
+        <img class="media-object" src="/{{ page.cat_slug }}/{{ page.group_slug }}/{{ page.slug }}_tn.jpg">
+    </a>
+  </div>
+</div>
 
-{{ content | markdownify }}
+
+{%if page.pricing %}
+<table id="pricelist" class='table'>
+<tr><th>Varianta</th><th>Cena</th></tr>
+{% for p in page.pricing %}<tr><td>{{ p.variant }}</td><td>{{ p.price}}&nbsp;Kč</td></tr>
+{% endfor %}
+</table>
+{%endif%}

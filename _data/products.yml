@@ -43,12 +43,15 @@
           title: Bederní deka nepromokavá
           slug : bederni-deka-nepromokava
         - id   : 3002
+          title: Dečka dostihová
+          slug : decka-dostihova
+        - id   : 3003
           title: Deka  fleesová - odpocovací
           slug : deka-fleesova-odpocovaci
-        - id   : 3003
+        - id   : 3004
           title: Deka nepromokavá
           slug : deka-nepromokava
-        - id   : 3004
+        - id   : 3005
           title: Deka softshell
           slug : deka-softshell
 
@@ -147,8 +150,8 @@
           title: Reflexní pásky pro koně
           slug : reflexni-pasky-pro-kone
         - id   : 7004
-          title: Reflexní bandáže
-          slug : reflexni-bandaze
+          title: Podložky pod bandáže
+          slug : podlozky-pod-bandaze
         - id   : 7005
           title: Transportní kamaše
           slug : transportni-kamase
@@ -216,6 +219,13 @@
     - id    : 11
       title : Třmenové řemeny
       slug  : trmenove-remeny
+      products :
+        - id   : 11000
+          title: Třmenové řemeny klasické
+          slug : trmenove-remeny-klasicke
+        - id   : 11001
+          title: Třmenové řemeny jednořemenné
+          slug : trmenove-remeny-jednoremenne
 
     - id    : 12
       title : Uzdečky
