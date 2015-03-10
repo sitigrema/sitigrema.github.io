@@ -1,6 +1,6 @@
 ---
 layout: product
-title: Deka  fleesová - odpocovací
+title: Deka fleesová - odpocovací
 cat_slug : konici
 group_slug: deky-a-bederni-deky-na-kone
 slug: deka-fleesova-odpocovaci

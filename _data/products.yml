@@ -46,14 +46,20 @@
           title: Dečka dostihová
           slug : decka-dostihova
         - id   : 3003
-          title: Deka  fleesová - odpocovací
-          slug : deka-fleesova-odpocovaci
+          title: Dečka barokní
+          slug : decka-barokni
         - id   : 3004
+          title: Deka fleesová - odpocovací
+          slug : deka-fleesova-odpocovaci
+        - id   : 3005
           title: Deka nepromokavá
           slug : deka-nepromokava
-        - id   : 3005
+        - id   : 3006
           title: Deka softshell
           slug : deka-softshell
+        - id   : 3007
+          title: Deka stájová
+          slug : deka-stajova
 
     - id    : 4
       title : Lonžovací potřeby
@@ -161,14 +167,14 @@
       slug  : oteze-a-pomocne-oteze
       products :
         - id   : 8000
-          title: Otěže anglické
-          slug : oteze-anglicke
+          title: Otěže ploché
+          slug : oteze-ploche
         - id   : 8001
+          title: Otěže lanové
+          slug : oteze-lanove
+        - id   : 8002
           title: Otěže protiskluzové
           slug : oteze-protiskluzove
-        - id   : 8002
-          title: Otěže westernové
-          slug : oteze-westernove
         - id   : 8003
           title: Průvlečky
           slug : pruvlecky
