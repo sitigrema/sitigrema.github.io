@@ -21,7 +21,7 @@ pricing:
 
 Ohlávka je vyrobena z pevných nylonových popruhů s kováním.
 Podložená fleesem může a nemusí být na nátylníku a nánosníku.
-Podložení na lícnicích je za příplatek 50,-Kč. 
+Podložení na lícnicích je za příplatek 50&nbsp;Kč. 
 Ohlávka je nastavitelná.
 Možnost objednání různých barev a barevných kombinací.
 

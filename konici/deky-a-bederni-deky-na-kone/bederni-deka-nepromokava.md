@@ -20,7 +20,7 @@ pricing:
 ---
 
 Bederní deka nepromokavá je vyráběna z nepromokavé tkaniny na lícní straně, rubová strana může být podšitá fleesem, popřípadě za příplatek nukubou či jiným materiálem.
-Cena bederních dek je uvedená za zakladní provedení s výkrojí na nohu jezdce, v případě zájmu o deku bez výkroje je příplatek 100,-Kč. 
+Cena bederních dek je uvedená za zakladní provedení s výkrojí na nohu jezdce, v případě zájmu o deku bez výkroje je příplatek 100&nbsp;Kč. 
 Zdobení deky například nášivkami, kostičkami, pruhy, ozdobnými šnůrami atd je cena dle spotřeby materiálu a práce.
 Možnost objednání různých barev.
 

@@ -17,7 +17,7 @@ Podložená může být fleesem na nátylníku.
 Uzdečka může sloužit i jako řemen k štajgru.
 Uzdečka je vyráběna ve velikostech pony, cob, full, XLfull. 
 V případě že si nejste jisti, jakou máte velikost zhotovím vám jí na míru dle zaslaných rozměrů podle vaší uzdečky.
-Uzdečky jsou běžně zakončeny u udidla přezkami v případě zájmu o zakončení karabinkami je příplatek 60,-Kč.
+Uzdečky jsou běžně zakončeny u udidla přezkami v případě zájmu o zakončení karabinkami je příplatek 60&nbsp;Kč.
 K uzdečkám mohu dodat i ,,náhradní díly‘‘.
 Možnost objednání různých barevných kombinací.
 

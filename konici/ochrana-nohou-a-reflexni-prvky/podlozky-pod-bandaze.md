@@ -17,7 +17,8 @@ pricing:
 
 Podložky jsou vyrobeny z látky. Výplň podložek je molitan. 
 Mohou a nemusí být se zapínáním na suchý zip. 
-V případě zájmu o zapínání na suchý zip je příplatek 30,-Kč za jednu podložku.
+V případě zájmu o zapínání na suchý zip je příplatek 30&nbsp;Kč za jednu podložku.
+
 Tloušťka podložek může být 0,5cm a nebo 1cm. V případě zájmu mohu za příplatek vyrobit i silnější.
 Při objednávce prosím specifikujte rozměry.
 Možnost objednání různých barev.

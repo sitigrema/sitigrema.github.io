@@ -1,0 +1,12 @@
+Vyvazovaní otěže jsou vyrobeny z nylonových popruhů s kováním, proložené gumou pro pružnost otěží.
+Otěže jsou nastavitelné a můžete je objednat v různých barvách.
+
+Vyvazovací otěže s gumou, zakončení přezky, pony : 300
+Vyvazovací otěže s gumou, zakončení přezky, cob : 350
+Vyvazovací otěže s gumou, zakončení přezky, full : 400
+Vyvazovací otěže s gumou, zakončení přezky, XLfull : 450
+
+Vyvazovací otěže s gumou, zakončení karabinky, pony : 360
+Vyvazovací otěže s gumou, zakončení karabinky, cob : 410
+Vyvazovací otěže s gumou, zakončení karabinky, full : 460
+Vyvazovací otěže s gumou, zakončení karabinky, XLfull : 510

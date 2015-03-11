@@ -19,14 +19,16 @@ pricing:
     price   : 810
 ---
 
-Uzdečka je vyrobena z kvalitních pevných nylonových popruhů s kováním.
 Uzdečka s ohlávkou obsahuje kombinaci uzdečky a ohlávky.
-Uzdečka může být podložená fleesem v oblasti nátylníku, čelenky, nánosníku.
-Uzdečka s ohlávkou je vyráběna ve velikostech pony, cob, full, XLfull.
+Je vyrobena z kvalitních pevných nylonových popruhů s kováním a 
+může být podložená fleesem v oblasti nátylníku, čelenky, nánosníku.
+
+Uzdečky jsou běžně zakončeny u udidla přezkami v nebo v případě zájmu za příplatek 60&nbsp;Kč karabinkami
+
+Uzdečky jsou vyráběny v různých barevných kombinacích ve velikostech pony, cob, full, XLfull.
 V případě že si nejste jisti, jakou máte velikost zhotovím vám jí na míru dle zaslaných rozměrů podle vaší uzdečky.
-K uzdečkám mohu dodat i ,,náhradní díly‘‘.
-Uzdečky jsou běžně zakončeny u udidla přezkami v případě zájmu o zakončení karabinkami je příplatek 60,-Kč.
-Možnost objednání různých barevných kombinací.
+
+K uzdečkám mohu dodat i "náhradní díly".
 
 
 

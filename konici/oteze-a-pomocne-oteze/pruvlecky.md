@@ -21,6 +21,6 @@ pricing:
 
 Průvlečky jsou vyráběny z pevných nylonových popruhů.
 Doporučuji si průvlečky při objednávce přeměřit, případně přeměřit koníka, aby jste si neobjednali zbytečně krátké nebo dlouhé.
-Samostatné očko na podbřišník pro rychlé odepínání průvleček stojí 50,-Kč.
+Samostatné očko na podbřišník pro rychlé odepínání průvleček stojí 50&nbsp;Kč.
 Možnost objednání různých barev.
 

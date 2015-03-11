@@ -20,7 +20,7 @@ pricing:
 ---
 
 Deka nepromokavá je vyráběna z nepromokavé tkaniny na lícní straně, rubová strana může být podšitá fleesem, popřípadě za příplatek nukubou či jiným materiálem.
-Cena dek je uvedená za zakladní provedení bez zapínání pod břichem, v případě zajmu o křížové zapínání je příplatek 150,-Kč.
+Cena dek je uvedená za zakladní provedení bez zapínání pod břichem, v případě zajmu o křížové zapínání je příplatek 150&nbsp;Kč.
 Zdobení deky například nášivkami, kostičkami, pruhy, ozdobnými šnůrami atd je cena dle spotřeby materiálu a práce.
 Možnost objednání různých barev.
 

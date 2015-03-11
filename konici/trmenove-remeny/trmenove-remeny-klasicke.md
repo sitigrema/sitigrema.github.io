@@ -15,6 +15,7 @@ pricing:
 Možnost objednání různých barevných kombinací.
 
 Velikost, uvedena je celková délka:
-Dětské 1,2m
-Dospělé 1,5m
+
+ - Dětské 1,2m
+ - Dospělé 1,5m
 

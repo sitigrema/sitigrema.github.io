@@ -23,55 +23,40 @@ pricing:
     price   : 250
 ---
 
-Uzdečka bez nánosníku
+Všechny uzdečky jsou vyrobeny z kvalitních pevných nylonových popruhů s kováním.
+Uzdečky jsou běžně zakončeny u udidla přezkami v nebo v případě zájmu za příplatek 60&nbsp;Kč karabinkami.
+K uzdečkám mohu dodat i "náhradní díly".
 
-Uzdečka je vyrobena z kvalitních pevných nylonových popruhů s kováním. 
+Uzdečky jsou vyráběny v různých barevných kombinacích ve velikostech pony, cob, full, XLfull.
+V případě že si nejste jisti, jakou máte velikost zhotovím vám jí na míru dle zaslaných rozměrů podle vaší uzdečky.
+
+
+Uzdečka bez nánosníku
+---------------------
+
 Uzdečka obsahuje tyto části - nátylník, lícnice, čelenku, podhrdelník.
 Podložená může být fleesem na nátylníku a čelence.
-Uzdečka je vyráběna ve velikostech pony, cob, full, XLfull. 
-V případě že si nejste jisti, jakou máte velikost zhotovím vám jí na míru dle zaslaných rozměrů podle vaší uzdečky.
-Uzdečky jsou běžně zakončeny u udidla přezkami v případě zájmu o zakončení karabinkami je příplatek 60,-Kč.
-K uzdečkám mohu dodat i ,,náhradní díly‘‘.
-Možnost objednání různých barevných kombinací.
 
 
 Uzdečka dvouuška
+----------------
 
-Uzdečka je vyrobena z kvalitních pevných nylonových popruhů s kováním. 
 Uzdečka obsahuje tyto části – nátylník, lícnice, očko na ouška.
 Podložená může být fleesem na nátylníku.
-Uzdečka je vyráběna ve velikostech pony, cob, full, XLfull. 
-V případě že si nejste jisti, jakou máte velikost zhotovím vám jí na míru dle zaslaných rozměrů podle vaší uzdečky.
-Uzdečky jsou běžně zakončeny u udidla přezkami v případě zájmu o zakončení karabinkami je příplatek 60,-Kč.
-K uzdečkám mohu dodat i ,,náhradní díly‘‘.
-Možnost objednání různých barevných kombinací.
 
 
 Uzdečka jednouška
+-----------------
 
-Uzdečka je vyrobena z kvalitních pevných nylonových popruhů s kováním. 
 Uzdečka obsahuje tyto části – nátylník, lícnice, očko na ouško.
 Podložená může být fleesem na nátylníku.
-Uzdečka je vyráběna ve velikostech pony, cob, full, XLfull. 
-V případě že si nejste jisti, jakou máte velikost zhotovím vám jí na míru dle zaslaných rozměrů podle vaší uzdečky.
-Uzdečky jsou běžně zakončeny u udidla přezkami v případě zájmu o zakončení karabinkami je příplatek 60,-Kč.
-K uzdečkám mohu dodat i ,,náhradní díly‘‘.
-Možnost objednání různých barevných kombinací.
 
 
 Uzdečka jednořemínková
+----------------------
 
-Uzdečka je vyrobena z kvalitních pevných nylonových popruhů s kováním. 
 Uzdečka obsahuje tyto části – nátylník, lícnice.
-Podložená může být fleesem na nátylníku.
-Uzdečka může sloužit i jako řemen k štajgru.
-Uzdečka je vyráběna ve velikostech pony, cob, full, XLfull. 
-V případě že si nejste jisti, jakou máte velikost zhotovím vám jí na míru dle zaslaných rozměrů podle vaší uzdečky.
-Uzdečky jsou běžně zakončeny u udidla přezkami v případě zájmu o zakončení karabinkami je příplatek 60,-Kč.
-K uzdečkám mohu dodat i ,,náhradní díly‘‘.
-Možnost objednání různých barevných kombinací.
+Podložená může být fleesem na nátylníku a může sloužit i jako řemen k štajgru.
 
-
-
-V PŘÍPADĚ ZÁJMU O JINÝ TYP UZDEČKY NEBO O ZDOBENOU UZDEČKU JE CENA DLE SPOTŘEBY MATERIÁLU A PRÁCE
+V případě zájmu o jiný typ uzdečky nebo o zdobenou uzdečku je cena dle spotřeby materiálu a práce
 

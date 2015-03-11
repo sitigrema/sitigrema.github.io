@@ -14,6 +14,6 @@ pricing:
 ---
 
 Vodítko je vyrobeno z pevného lana.
-Panik karabinka je za příplatek 50,-Kč. 
+Panik karabinka je za příplatek 50&nbsp;Kč. 
 Možnost objednání různých barev a barevných kombinací.
 
