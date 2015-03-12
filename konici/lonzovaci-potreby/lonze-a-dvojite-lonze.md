@@ -6,8 +6,5 @@ group_slug: lonzovaci-potreby
 slug: lonze-a-dvojite-lonze
 ---
 
-Lonž nebo dvojitá lonž.
-Možnost objednání různých barev.
-
-Cena dle délky a typu materiálu.
+Možnost objednání různých barev. Cena dle délky a typu materiálu.
 

@@ -9,6 +9,8 @@ pricing:
     price   : 790
 ---
 
-Lonžovací obnosek je vyráběn z nylonu s kováním, na nánosníku komfortně podložen fleesem popřípadě neoprenem.
+Lonžovací obnosek je vyráběn z nylonového popruhu s kováním, 
+na nátylníku a nánosníku je komfortně podložen fleesem. 
+
 Možnost objednání různých barev.
 

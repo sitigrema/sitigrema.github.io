@@ -30,7 +30,5 @@ V případě že si nejste jisti, jakou máte velikost zhotovím vám jí na mí
 
 K uzdečkám mohu dodat i "náhradní díly".
 
-
-
-V PŘÍPADĚ ZÁJMU O JINÝ TYP UZDEČKY NEBO O ZDOBENOU UZDEČKU JE CENA DLE SPOTŘEBY MATERIÁLU A PRÁCE
+V případě zájmu o jiný typ uzdečky nebo o zdobenou uzdečku je cena dle spotřeby materiálu a práce.
 

@@ -23,5 +23,5 @@ K uzdečkám mohu dodat i "náhradní díly".
 Možnost objednání různých barevných kombinací.
 
 
-V případě zájmu o jiný typ uzdečky nebo o zdobenou uzdečku je cena dle spotřeby materiálu a práce
+V případě zájmu o jiný typ uzdečky nebo o zdobenou uzdečku je cena dle spotřeby materiálu a práce.
 

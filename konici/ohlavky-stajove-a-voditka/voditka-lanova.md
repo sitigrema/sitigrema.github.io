@@ -5,11 +5,11 @@ cat_slug : konici
 group_slug: ohlavky-stajove-a-voditka
 slug: voditka-lanova
 pricing:
-  - variant : Vodítko 1,5m s karabinkou
+  - variant : Vodítko 1,5m s klasickou karabinkou
     price   : 200
-  - variant : Vodítko 2m s karabinkou
+  - variant : Vodítko 2m s klasickou karabinkou
     price   : 250
-  - variant : Vodítko 2,5m s karabinkou
+  - variant : Vodítko 2,5m s klasickou karabinkou
     price   : 300
 ---
 

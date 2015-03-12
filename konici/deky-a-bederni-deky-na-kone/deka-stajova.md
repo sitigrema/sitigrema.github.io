@@ -25,7 +25,8 @@ Zdobení deky například nášivkami, kostičkami, pruhy, ozdobnými šnůrami 
 Možnost objednání různých barev.
 
 Velikost deky je dle zádové míry koně od kohoutku po kořen ocasu.
-Pony do 90cm
-Cob, full od 95cm do 140cm
-XLfull od 140cm
+
+- Pony do 90cm
+- Cob, full od 95cm do 140cm
+- XLfull od 140cm
 

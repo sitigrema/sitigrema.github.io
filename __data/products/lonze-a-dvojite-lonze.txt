@@ -1,5 +1,2 @@
-Lonž nebo dvojitá lonž.
-Možnost objednání různých barev.
-
-Cena dle délky a typu materiálu.
+Možnost objednání různých barev. Cena dle délky a typu materiálu.
  

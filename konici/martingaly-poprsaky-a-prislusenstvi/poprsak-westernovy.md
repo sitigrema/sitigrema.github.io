@@ -23,9 +23,10 @@ pricing:
     price   : 200
 ---
 
-Poprsák je vyroben z pevných nylonových popruhů s kováním. Je nastavitelný, ale doporučuji si koníka přeměřit.
+Poprsák je vyroben z pevných nylonových popruhů s kováním. 
+Je nastavitelný, ale doporučuji si koníka přeměřit.
 
-Poprsák je standartně vyráběn s okem na podbříšník, v případě, 
+Poprsák je standardně vyráběn s okem na podbříšník, v případě, 
 že chcete přidat na část vedoucí k podbřišníku karabinku k připnutí 
 na očko k podbřišníku, je příplatek 30&nbsp;Kč.
 
@@ -33,6 +34,6 @@ Samostatné očko na podbřišník pro rychlé odepínání poprsáku stojí 50&
 Připnutí poprsáku k sedlu je zakončeno přezkami, v případě, že chcete přidat na část vedoucí k sedlu karabinky, je příplatek 60&nbsp;Kč.
 V případě zájmu o podložení poprsáku vám poprsák podložíme fleesem.
 
-Šířka popruhů na poprsák je 2 = 2,5cm v případě zájmu o šiřší poprsák nebo o výrobu elastického poprsáku je cena dohodou dle spotřebovaného materiálu a práce.
+Šířka popruhů na poprsák je 2 - 2,5cm v případě zájmu o šiřší poprsák nebo o výrobu elastického poprsáku je cena dohodou dle spotřebovaného materiálu a práce.
 Možnost objednání různých barev a barevných kombinací.
 

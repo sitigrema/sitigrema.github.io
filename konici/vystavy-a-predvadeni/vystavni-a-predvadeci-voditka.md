@@ -5,29 +5,29 @@ cat_slug : konici
 group_slug: vystavy-a-predvadeni
 slug: vystavni-a-predvadeci-voditka
 pricing:
-  - variant : Vodítko 1,5m s karabinkou
+  - variant : Vodítko 1,5m s klasickou karabinkou
     price   : 200
-  - variant : Vodítko 2m s karabinkou
+  - variant : Vodítko 2m s klasickou karabinkou
     price   : 250
-  - variant : Vodítko 2,5m s karabinkou
+  - variant : Vodítko 2,5m s klasickou karabinkou
     price   : 300
-  - variant : Vodítko 1,5m s karabinkou
+  - variant : Vodítko 1,5m s klasickou karabinkou
     price   : 150
-  - variant : Vodítko 2m s karabinkou
+  - variant : Vodítko 2m s klasickou karabinkou
     price   : 200
-  - variant : Vodítko 2,5m s karabinkou
+  - variant : Vodítko 2,5m s klasickou karabinkou
     price   : 250
-  - variant : Vodítko ploché 1,5m s karabinkou a řetízkem
+  - variant : Vodítko ploché 1,5m s klasickou karabinkou a řetízkem
     price   : 350
-  - variant : Vodítko ploché 2m s karabinkou a řetízkem
+  - variant : Vodítko ploché 2m s klasickou karabinkou a řetízkem
     price   : 400
-  - variant : Vodítko ploché 2,5m s karabinkou a řetízkem
+  - variant : Vodítko ploché 2,5m s klasickou karabinkou a řetízkem
     price   : 450
-  - variant : Vodítko lanové 1,5m s karabinkou a řetízkem
+  - variant : Vodítko lanové 1,5m s klasickou karabinkou a řetízkem
     price   : 450
-  - variant : Vodítko lanové 2m s karabinkou a řetízkem
+  - variant : Vodítko lanové 2m s klasickou karabinkou a řetízkem
     price   : 500
-  - variant : Vodítko lanové 2,5m s karabinkou a řetízkem
+  - variant : Vodítko lanové 2,5m s klasickou karabinkou a řetízkem
     price   : 550
 ---
 
