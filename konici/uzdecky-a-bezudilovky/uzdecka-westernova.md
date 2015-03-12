@@ -2,7 +2,7 @@
 layout: product
 title: Uzdečka westernová
 cat_slug : konici
-group_slug: uzdecky
+group_slug: uzdecky-a-bezudilovky
 slug: uzdecka-westernova
 pricing:
   - variant : Uzdečka bez nánosníku, nepodložená

@@ -1,3 +1,16 @@
+---
+layout: product
+title: Uzdečka jednořemínková
+cat_slug : konici
+group_slug: uzdecky-a-bezudilovky
+slug: uzdecka-jednoreminkova
+pricing:
+  - variant : Uzdečka jednořemínková, nepodložená
+    price   : 190
+  - variant : Uzdečka jednořemínková, podložená
+    price   : 250
+---
+
 Uzdečka je vyrobena z kvalitních pevných nylonových popruhů s kováním. 
 Uzdečka obsahuje tyto části – nátylník, lícnice.
 
@@ -11,7 +24,4 @@ K uzdečkám mohu dodat i "náhradní díly".
 Možnost objednání různých barevných kombinací.
 
 V případě zájmu o jiný typ uzdečky nebo o zdobenou uzdečku je cena dle spotřeby materiálu a práce.
-
-Uzdečka jednořemínková, nepodložená : 190
-Uzdečka jednořemínková, podložená : 250
 

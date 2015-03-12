@@ -2,7 +2,7 @@
 layout: product
 title: Bezudidlová uzdečka Bitless Bridle
 cat_slug : konici
-group_slug: uzdecky
+group_slug: uzdecky-a-bezudilovky
 slug: bezudidlova-uzdecka-bitless-bridle
 pricing:
   - variant : Bezudidlová uzdečka Bitless Bridle nepodložená

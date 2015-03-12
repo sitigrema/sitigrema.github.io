@@ -2,7 +2,7 @@
 layout: product
 title: Uzdečka anglická
 cat_slug : konici
-group_slug: uzdecky
+group_slug: uzdecky-a-bezudilovky
 slug: uzdecka-anglicka
 pricing:
   - variant : Uzdečka kompletní, nepodložená

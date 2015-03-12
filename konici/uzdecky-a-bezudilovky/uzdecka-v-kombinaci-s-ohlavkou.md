@@ -2,7 +2,7 @@
 layout: product
 title: Uzdečka v kombinaci s ohlávkou
 cat_slug : konici
-group_slug: uzdecky
+group_slug: uzdecky-a-bezudilovky
 slug: uzdecka-v-kombinaci-s-ohlavkou
 pricing:
   - variant : Uzdečka v kombinaci s ohlávkou, nepodložená, pony

@@ -1,27 +1,25 @@
 ---
 layout: product
-title: Uzdečka jednořemínková
+title: Uzdečka jednouška
 cat_slug : konici
-group_slug: uzdecky
-slug: uzdecka-jednoreminkova
+group_slug: uzdecky-a-bezudilovky
+slug: uzdecka-jednouska
 pricing:
-  - variant : Uzdečka jednořemínková, nepodložená
-    price   : 190
-  - variant : Uzdečka jednořemínková, podložená
+  - variant : Uzdečka jednouška, nepodložená
     price   : 250
+  - variant : Uzdečka jednouška, podložená
+    price   : 300
 ---
 
-Uzdečka je vyrobena z kvalitních pevných nylonových popruhů s kováním. 
-Uzdečka obsahuje tyto části – nátylník, lícnice.
-
-Podložená může být fleesem na nátylníku.
-Uzdečka může sloužit i jako řemen k štajgru a je vyráběna ve velikostech pony, cob, full, XLfull. 
+Uzdečka je vyrobena z kvalitních pevných nylonových popruhů s kováním a obsahuje tyto části – nátylník, lícnice, očko na ouško.
+Podložená může být fleesem na nátylník a je vyráběna ve velikostech pony, cob, full, XLfull. 
 
 V případě že si nejste jisti, jakou máte velikost zhotovím vám jí na míru dle zaslaných rozměrů podle vaší uzdečky.
 Uzdečky jsou běžně zakončeny u udidla přezkami v případě zájmu o zakončení karabinkami je příplatek 60&nbsp;Kč.
 
 K uzdečkám mohu dodat i "náhradní díly".
 Možnost objednání různých barevných kombinací.
+
 
 V případě zájmu o jiný typ uzdečky nebo o zdobenou uzdečku je cena dle spotřeby materiálu a práce.
 

@@ -2,7 +2,7 @@
 layout: product
 title: Bezudidlová uzdečka
 cat_slug : konici
-group_slug: uzdecky
+group_slug: uzdecky-a-bezudilovky
 slug: bezudidlova-uzdecka
 pricing:
   - variant : Bezudidlová uzdečka – s kroužky na nánosníku, nepodložená
