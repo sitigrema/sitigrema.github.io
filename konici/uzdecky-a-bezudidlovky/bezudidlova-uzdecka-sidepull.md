@@ -2,7 +2,7 @@
 layout: product
 title: Bezudidlová uzdečka Sidepull
 cat_slug : konici
-group_slug: uzdecky-a-bezudilovky
+group_slug: uzdecky-a-bezudidlovky
 slug: bezudidlova-uzdecka-sidepull
 pricing:
   - variant : Bezudidlová uzdečka Sidepull nepodložená

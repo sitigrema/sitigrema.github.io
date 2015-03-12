@@ -1,23 +1,25 @@
 ---
 layout: product
-title: Uzdečka bez nánosníku
+title: Uzdečka anglická
 cat_slug : konici
-group_slug: uzdecky-a-bezudilovky
-slug: uzdecka-bez-nanosniku
+group_slug: uzdecky-a-bezudidlovky
+slug: uzdecka-anglicka
 pricing:
-  - variant : Uzdečka bez nánosníku, nepodložená
-    price   : 350
-  - variant : Uzdečka bez nánosníku, podložená
-    price   : 450
+  - variant : Uzdečka kompletní, nepodložená
+    price   : 490
+  - variant : Uzdečka kompletní, podložená
+    price   : 590
 ---
 
 Uzdečka je vyrobena z kvalitních pevných nylonových popruhů s kováním. 
-Uzdečka obsahuje tyto části - nátylník, lícnice, čelenku, podhrdelník.
-Podložená může být fleesem na nátylníku a čelence.
+Uzdečka obsahuje tyto části – nátylník, lícnice, podhrdelník, čelenku, nánosník.
+Podložená může být fleesem na nátylníku, čelence a na nánosníku.
+
 Uzdečka je vyráběna ve velikostech pony, cob, full, XLfull. 
 V případě že si nejste jisti, jakou máte velikost zhotovím vám jí na míru dle zaslaných rozměrů podle vaší uzdečky.
+
 Uzdečky jsou běžně zakončeny u udidla přezkami v případě zájmu o zakončení karabinkami je příplatek 60&nbsp;Kč.
-K uzdečkám mohu dodat i ,,náhradní díly‘‘.
+K uzdečkám mohu dodat i "náhradní díly".
 Možnost objednání různých barevných kombinací.
 
 

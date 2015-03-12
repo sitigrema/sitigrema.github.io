@@ -2,7 +2,7 @@
 layout: product
 title: Uzdečka s Hackamore
 cat_slug : konici
-group_slug: uzdecky-a-bezudilovky
+group_slug: uzdecky-a-bezudidlovky
 slug: uzdecka-s-hackamore
 pricing:
   - variant : Uzdečka s Hackamore, nepodložená, pony

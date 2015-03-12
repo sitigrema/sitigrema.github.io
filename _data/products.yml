@@ -228,8 +228,8 @@
           slug : trmenove-remeny-jednoremenne
 
     - id    : 12
-      title : Uzdečky a bezudilovky
-      slug  : uzdecky-a-bezudilovky
+      title : Uzdečky a bezudidlovky
+      slug  : uzdecky-a-bezudidlovky
       products :
         - id   : 12000
           title: Bezudidlová uzdečka

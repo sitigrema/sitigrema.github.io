@@ -2,7 +2,7 @@
 layout: product
 title: Uzdečka jednořemínková
 cat_slug : konici
-group_slug: uzdecky-a-bezudilovky
+group_slug: uzdecky-a-bezudidlovky
 slug: uzdecka-jednoreminkova
 pricing:
   - variant : Uzdečka jednořemínková, nepodložená
