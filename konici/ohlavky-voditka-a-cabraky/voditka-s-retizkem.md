@@ -2,7 +2,7 @@
 layout: product
 title: Vodítka s řetízkem
 cat_slug : konici
-group_slug: ohlavky-stajove-a-voditka
+group_slug: ohlavky-voditka-a-cabraky
 slug: voditka-s-retizkem
 pricing:
   - variant : Vodítko ploché 1,5m s klasickou karabinkou a řetízkem

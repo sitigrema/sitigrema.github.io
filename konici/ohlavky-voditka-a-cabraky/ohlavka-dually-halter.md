@@ -2,7 +2,7 @@
 layout: product
 title: Ohlávka Dually Halter
 cat_slug : konici
-group_slug: ohlavky-stajove-a-voditka
+group_slug: ohlavky-voditka-a-cabraky
 slug: ohlavka-dually-halter
 pricing:
   - variant : Ohlávka Dually Halter nepodložená, pony

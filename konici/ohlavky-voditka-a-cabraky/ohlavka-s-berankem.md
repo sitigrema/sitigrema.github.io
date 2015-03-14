@@ -2,7 +2,7 @@
 layout: product
 title: Ohlávka s beránkem
 cat_slug : konici
-group_slug: ohlavky-stajove-a-voditka
+group_slug: ohlavky-voditka-a-cabraky
 slug: ohlavka-s-berankem
 pricing:
   - variant : Ohlávka podložená beránkem, pony

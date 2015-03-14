@@ -108,8 +108,8 @@
           slug : poprsak-westernovy
 
     - id    : 6
-      title : Ohlávky stájové a vodítka
-      slug  : ohlavky-stajove-a-voditka
+      title : Ohlávky, vodítka a čabraky
+      slug  : ohlavky-voditka-a-cabraky
       products :
         - id   : 6000
           title: Ohlávka
@@ -132,6 +132,12 @@
         - id   : 6006
           title: Vodítka s řetízkem
           slug : voditka-s-retizkem
+        - id   : 6007
+          title: Čabraky látkové
+          slug : cabraky-latkove
+        - id   : 6008
+          title: Čabraky háčkované a pletené
+          slug : cabraky-hackovane-a-pletene
 
     - id    : 7
       title : Ochrana nohou a reflexní prvky
@@ -155,6 +161,12 @@
         - id   : 7005
           title: Transportní kamaše
           slug : transportni-kamase
+        - id   : 7006
+          title: Chrániče neoprenové
+          slug : chranice-neoprenove
+        - id   : 7007
+          title: Chrániče kloubkové
+          slug : chranice-kloubkove
 
     - id    : 8
       title : Otěže a pomocné otěže

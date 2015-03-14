@@ -2,7 +2,7 @@
 layout: product
 title: Vodítka lanová
 cat_slug : konici
-group_slug: ohlavky-stajove-a-voditka
+group_slug: ohlavky-voditka-a-cabraky
 slug: voditka-lanova
 pricing:
   - variant : Vodítko 1,5m s klasickou karabinkou
