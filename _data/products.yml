@@ -124,18 +124,21 @@
           title: Ohlávka Dually Halter
           slug : ohlavka-dually-halter
         - id   : 6004
+          title: Ohlávka provazová
+          slug : ohlavka-provazova
+        - id   : 6005
           title: Vodítka plochá
           slug : voditka-plocha
-        - id   : 6005
+        - id   : 6006
           title: Vodítka lanová
           slug : voditka-lanova
-        - id   : 6006
+        - id   : 6007
           title: Vodítka s řetízkem
           slug : voditka-s-retizkem
-        - id   : 6007
+        - id   : 6008
           title: Čabraky látkové
           slug : cabraky-latkove
-        - id   : 6008
+        - id   : 6009
           title: Čabraky háčkované a pletené
           slug : cabraky-hackovane-a-pletene
 
@@ -271,9 +274,12 @@
           title: Uzdečka s Hackamore
           slug : uzdecka-s-hackamore
         - id   : 12009
-          title: Uzdečka v kombinaci s ohlávkou
-          slug : uzdecka-v-kombinaci-s-ohlavkou
+          title: Uzdečka v kombinaci s ohlávkou 3 v 1
+          slug : uzdecka-v-kombinaci-s-ohlavkou-3-v-1
         - id   : 12010
+          title: Uzdečka v kombinaci s provazovou ohlávkou
+          slug : uzdecka-v-kombinaci-s-provazovou-ohlavkou
+        - id   : 12011
           title: Uzdečka westernová
           slug : uzdecka-westernova
 
