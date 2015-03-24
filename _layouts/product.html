@@ -6,7 +6,7 @@ css:
 
 <div class="media">
   <div class="media-body">
-    {{ content}}
+    {{ content }}
   </div>
   <div class="media-right media-top">
     <a data-toggle="modal" data-target=".bs-modal-sm" >
@@ -27,10 +27,10 @@ css:
 </div>
 
 
-{%if page.pricing %}
+{% if page.pricing %}
 <table id="pricelist" class='table'>
 <tr><th>Varianta</th><th>Cena</th></tr>
-{% for p in page.pricing %}<tr><td>{{ p.variant }}</td><td>{{ p.price}}&nbsp;Kč</td></tr>
+{% for p in page.pricing %}<tr><td>{{ p.variant }}</td><td>{{ p.price }}&nbsp;Kč</td></tr>
 {% endfor %}
 </table>
-{%endif%}
+{% endif %}

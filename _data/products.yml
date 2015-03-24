@@ -185,6 +185,9 @@
           title: Otěže protiskluzové
           slug : oteze-protiskluzove
         - id   : 8003
+          title: Jednokarabinové otěže
+          slug : jednokarabinove-oteze
+        - id   : 8004
           title: Průvlečky
           slug : pruvlecky
 

@@ -9,7 +9,9 @@ pricing:
     price   : 390
 ---
 
-Obal na sedlo je vyráběn z látky, v okrajích je všitá guma, aby obal kopíroval tvar sedla a nepadal když se na sedlo navleče.
+Obal na sedlo je vyráběn z látky, v okrajích je všitá guma, 
+aby obal kopíroval tvar sedla a nepadal když se na sedlo navleče.
+
 U objednávky prosím upřesněte jaké sedlo máte a jeho velikost.
 Možnost objednání různých barev.
 
