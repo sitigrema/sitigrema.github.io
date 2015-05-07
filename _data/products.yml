@@ -170,6 +170,9 @@
         - id   : 7007
           title: Chrániče kloubkové
           slug : chranice-kloubkove
+        - id   : 7008
+          title: Zvlhčovací zvony
+          slug : zvlhcovaci-zvony
 
     - id    : 8
       title : Otěže a pomocné otěže
