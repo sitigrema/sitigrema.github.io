@@ -142,7 +142,7 @@ for id_cat, cat_title in enumerate(CATS):
 
             im = Image.open(ifile)
             im.save(iffile)
-            im.thumbnail((320,200), Image.ANTIALIAS)
+            im = im.resize((261,163), Image.ANTIALIAS)
             im.save(itfile)
 
             used_products.append(product.slug)

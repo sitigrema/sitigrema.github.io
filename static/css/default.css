@@ -29,7 +29,8 @@ body {
 
 
 .thumbnail img {
-    width: 100%;
+    width: 261px !important;
+    height: 163px !important;
 }
 
 .thumbnail {
