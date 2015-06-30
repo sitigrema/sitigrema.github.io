@@ -11,7 +11,7 @@ css:
 {% for product in page.products %}
     <div class="col-sm-4 col-lg-4 col-md-4">
         <div class="thumbnail">
-            <a href="/{{ page.cat_slug }}/{{ page.group_slug }}/{{ product.slug }}.html"><img src="/{{ page.cat_slug }}/{{ page.group_slug }}/{{ product.slug }}.jpg" alt=""></a>
+            <a href="/{{ page.cat_slug }}/{{ page.group_slug }}/{{ product.slug }}.html"><img src="/{{ page.cat_slug }}/{{ page.group_slug }}/{{ product.slug }}.jpg" alt="{{ product.title }}"></a>
             <div class="caption caption-product">
                 <h4><a href="/{{ page.cat_slug }}/{{ page.group_slug }}/{{ product.slug }}.html">{{ product.title }}</a></h4>
             </div>
