@@ -1,1 +1,1 @@
----layout: null---User-agent: *Disallow: /static/Sitemap: /sitemap.xml
+User-agent: *Disallow: /static/Sitemap: /sitemap.xml
