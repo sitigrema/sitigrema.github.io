@@ -35,11 +35,11 @@ Podložená může být fleesem na nátylníku a může sloužit i jako řemen k
 
 V případě zájmu o jiný typ uzdečky nebo o zdobenou uzdečku je cena dle spotřeby materiálu a práce
 
-Uzdečka bez nánosníku, nepodložená : 350
-Uzdečka bez nánosníku, podložená : 450
-Uzdečka dvouuška, nepodložená : 300
-Uzdečka dvouuška, podložená : 350
-Uzdečka jednouška, nepodložená : 250
-Uzdečka jednouška, podložená : 300
+Uzdečka bez nánosníku, nepodložená : 390
+Uzdečka bez nánosníku, podložená : 490
+Uzdečka dvouuška, nepodložená : 390
+Uzdečka dvouuška, podložená : 450
+Uzdečka jednouška, nepodložená : 330
+Uzdečka jednouška, podložená : 390
 Uzdečka jednořemínková, nepodložená : 190
 Uzdečka jednořemínková, podložená : 250
