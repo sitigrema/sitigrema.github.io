@@ -6,9 +6,9 @@ group_slug: uzdecky-a-bezudidlovky
 slug: uzdecka-jednouska
 pricing:
   - variant : Uzdečka jednouška, nepodložená
-    price   : 250
+    price   : 330
   - variant : Uzdečka jednouška, podložená
-    price   : 300
+    price   : 390
 ---
 
 Uzdečka je vyrobena z kvalitních pevných nylonových popruhů s kováním a obsahuje tyto části – nátylník, lícnice, očko na ouško.

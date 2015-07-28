@@ -7,7 +7,7 @@ slug: bezudidlova-uzdecka-sidepull
 pricing:
   - variant : Bezudidlová uzdečka Sidepull nepodložená
     price   : 590
-  - variant : Bezudidlová uzdečka Sidepull nepodložená
+  - variant : Bezudidlová uzdečka Sidepull podložená
     price   : 690
 ---
 

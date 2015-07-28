@@ -6,9 +6,9 @@ group_slug: uzdecky-a-bezudidlovky
 slug: uzdecka-bez-nanosniku
 pricing:
   - variant : Uzdečka bez nánosníku, nepodložená
-    price   : 350
+    price   : 390
   - variant : Uzdečka bez nánosníku, podložená
-    price   : 450
+    price   : 490
 ---
 
 Uzdečka je vyrobena z kvalitních pevných nylonových popruhů s kováním. 

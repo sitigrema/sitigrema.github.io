@@ -6,17 +6,17 @@ group_slug: uzdecky-a-bezudidlovky
 slug: uzdecka-westernova
 pricing:
   - variant : Uzdečka bez nánosníku, nepodložená
-    price   : 350
+    price   : 390
   - variant : Uzdečka bez nánosníku, podložená
-    price   : 450
+    price   : 490
   - variant : Uzdečka dvouuška, nepodložená
-    price   : 300
+    price   : 390
   - variant : Uzdečka dvouuška, podložená
-    price   : 350
+    price   : 450
   - variant : Uzdečka jednouška, nepodložená
-    price   : 250
+    price   : 330
   - variant : Uzdečka jednouška, podložená
-    price   : 300
+    price   : 390
   - variant : Uzdečka jednořemínková, nepodložená
     price   : 190
   - variant : Uzdečka jednořemínková, podložená
