@@ -277,15 +277,18 @@
           title: Uzdečka jednořemínková
           slug : uzdecka-jednoreminkova
         - id   : 12008
+          title: Uzdečka jednořemínková v kombinaci s provazovou ohlávkou
+          slug : uzdecka-jednoreminkova-v-kombinaci-s-provazovou-ohlavkou
+        - id   : 12009
           title: Uzdečka s Hackamore
           slug : uzdecka-s-hackamore
-        - id   : 12009
+        - id   : 12010
           title: Uzdečka 3 v 1 v kombinaci s bezudidlovkou a ohlávkou
           slug : uzdecka-3-v-1-v-kombinaci-s-bezudidlovkou-a-ohlavkou
-        - id   : 12010
+        - id   : 12011
           title: Uzdečka v kombinaci s provazovou ohlávkou
           slug : uzdecka-v-kombinaci-s-provazovou-ohlavkou
-        - id   : 12011
+        - id   : 12012
           title: Uzdečka westernová
           slug : uzdecka-westernova
 
