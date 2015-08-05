@@ -23,8 +23,6 @@
     <![endif]-->
 
     <link rel="canonical" href="{{ site.url }}" />
-    <link rel="alternate" href="{{ site.url }}/atom.xml" type="application/atom+xml"  title="{{ site.name }} ATOM Feed">
-    <link rel="alternate" href="{{ site.url }}/rss.xml" type="application/rss+xml"  title="{{ site.name }} RSS Feed">
 
 
     {% if site.analytics %}<script>
@@ -43,7 +41,9 @@
 <body>
 {{ content }}
 
-    <script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
-
+    {% for script in site.js %}<script src="{{ script }}"></script>
+    {% endfor %}
+    {% for script in page.js %}<script src="{{ script }}"></script>
+    {% endfor %}
 </body>
 </html>
