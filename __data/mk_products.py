@@ -140,9 +140,12 @@ for id_cat, cat_title in enumerate(CATS):
             iffile = cpath + product.slug + ".jpg"    
             itfile = cpath + product.slug + "_tn.jpg"
 
-            im = Image.open(ifile)
+            im_orig = Image.open(ifile)
+            
+            im = im_orig.resize((640,400), Image.ANTIALIAS)
             im.save(iffile)
-            im = im.resize((261,163), Image.ANTIALIAS)
+
+            im = im_orig.resize((261,163), Image.ANTIALIAS)
             im.save(itfile)
 
             used_products.append(product.slug)
