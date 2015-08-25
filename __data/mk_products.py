@@ -87,6 +87,29 @@ for id_cat, cat_title in enumerate(CATS):
         f.write("cat_slug : {}\n".format(cat_slug))
         f.write("group_slug: {}\n".format(group.slug))
 
+        
+        #
+        # Group thumbnail (barevne sady)
+        #
+
+        ifile = os.path.join("products", group.slug+".jpg")
+        if os.path.exists(ifile):
+            itgt = group.slug+".jpg"
+            itgt_tn = group.slug+"_tn.jpg"
+            f.write("group_image: {}\n".format(itgt))
+            im_orig = Image.open(ifile)
+            
+            im = im_orig.resize((640,400), Image.ANTIALIAS)
+            im.save(itgt)
+
+            im = im_orig.resize((261,163), Image.ANTIALIAS)
+            im.save(itgt_tn)
+
+        #
+        # Products
+        #
+
+
         if group.products:
             f.write("products:\n")
         
@@ -153,14 +176,16 @@ for id_cat, cat_title in enumerate(CATS):
 
         f.write("---\n")
 
+        #
+        # Group description
+        #
 
         pfile = os.path.join("products", group.slug+".txt")
-        ifile = os.path.join("products", group.slug+".jpg")
-
         if os.path.exists(pfile):
             pf = open(pfile).read()
             f.write(pf)
             f.close()
+
 
         result += "\n"
 

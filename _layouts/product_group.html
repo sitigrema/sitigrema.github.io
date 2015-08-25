@@ -4,7 +4,31 @@ css:
  - /static/css/default.css
 ---
 
-{{ content | markdownify }}
+{% if page.group_image %}
+
+<div class="media">
+  <div class="media-body">
+    {{ content | markdownify }}
+  </div>
+  <div class="media-right media-top">
+    <a data-toggle="modal" data-target=".bs-modal-sm" >
+        <img class="media-object" alt="{{ page.title }}" src="/{{ page.cat_slug }}/{{ page.group_slug }}/{{ page.group_slug }}_tn.jpg">
+    </a>
+  </div>
+</div>
+
+
+<div class="modal fade bs-modal-sm" tabindex="-1" role="dialog" aria-labelledby="Product photo" aria-hidden="true">
+  <div class="modal-dialog modal-sm">
+    <div class="modal-content">
+        <a data-dismiss="modal" data-target=".bs-modal-sm" >
+            <img class="media-object" alt="{{ page.title }}" src="/{{ page.cat_slug }}/{{ page.group_slug }}/{{ page.group_slug }}.jpg">
+        </a>
+    </div>
+  </div>
+</div>
+{% endif %}
+
 
 <div class="row">
 
