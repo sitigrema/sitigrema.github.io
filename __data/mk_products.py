@@ -94,9 +94,9 @@ for id_cat, cat_title in enumerate(CATS):
 
         ifile = os.path.join("products", group.slug+".jpg")
         if os.path.exists(ifile):
-            itgt = group.slug+".jpg"
-            itgt_tn = group.slug+"_tn.jpg"
-            f.write("group_image: {}\n".format(itgt))
+            itgt = cpath + group.slug + ".jpg"
+            itgt_tn = cpath + group.slug + "_tn.jpg"
+            f.write("group_image: {}\n".format(group.slug+".jpg"))
             im_orig = Image.open(ifile)
             
             im = im_orig.resize((640,400), Image.ANTIALIAS)
