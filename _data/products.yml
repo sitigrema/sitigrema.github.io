@@ -195,8 +195,8 @@
           slug : pruvlecky
 
     - id    : 9
-      title : Podbřišníky
-      slug  : podbrisniky
+      title : Podbřišníky a podocasníky
+      slug  : podbrisniky-a-podocasniky
       products :
         - id   : 9000
           title: Podbřišník anglický
@@ -207,6 +207,9 @@
         - id   : 9002
           title: Podbřišník westernový
           slug : podbrisnik-westernovy
+        - id   : 9003
+          title: Podocasník
+          slug : podocasnik
 
     - id    : 10
       title : Podsedlové a jiné dečky
