@@ -44,7 +44,7 @@ js:
 
 include:        ["robots.txt"]
 exclude:        ["_doc", "LICENSE", "README.md"]
-markdown:       redcarpet
+markdown:       kramdown
 sass:
     sass_dir:   _sass
     style:      compressed
