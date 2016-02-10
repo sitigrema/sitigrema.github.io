@@ -5,16 +5,8 @@ cat_slug : konici
 group_slug: podsedlove-a-jine-decky
 slug: decka-westernova
 pricing:
-  - variant : Westernová dečka s výplní 0,5cm, pony
-    price   : 800
-  - variant : Westernová dečka s výplní 0,5cm, cob, full
-    price   : 850
-  - variant : Westernová dečka s výplní 1cm, pony
-    price   : 850
-  - variant : Westernová dečka s výplní 1cm, cob, full
-    price   : 900
-  - variant : Zesílené posedlí
-    price   : 200
+  - variant : Westernová dečka
+    price   : 1200
 ---
 
 Westernová dečka v základním provedení je vyrobena z látky, s výplní - molitan v síle 0,5cm, 1cm nebo po domluvě i silnější.

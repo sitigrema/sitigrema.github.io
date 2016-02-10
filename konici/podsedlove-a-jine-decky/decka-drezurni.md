@@ -5,18 +5,8 @@ cat_slug : konici
 group_slug: podsedlove-a-jine-decky
 slug: decka-drezurni
 pricing:
-  - variant : Drezurní dečka s výplní 0,5cm, pony
-    price   : 550
-  - variant : Drezurní dečka s výplní 0,5cm, cob, full
-    price   : 600
-  - variant : Drezurní dečka s výplní 1cm, pony
-    price   : 600
-  - variant : Drezurní dečka s výplní 1cm, cob, full
-    price   : 650
-  - variant : Cíp u dečky
-    price   : 60
-  - variant : Zesílené posedlí
-    price   : 100
+  - variant : Drezurní dečka
+    price   : 890
 ---
 
 Drezurní dečka v základním provedení je vyrobena z látky, s výplní - molitan v síle 0,5cm, 1cm nebo po domluvě i silnější.

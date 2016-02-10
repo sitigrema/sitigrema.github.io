@@ -6,11 +6,4 @@ Při objednávce prosím definujte jak chcete, aby dečka vypadala, protože mo�
 Ceny u deček jsou za zakladní provedení, tedy pouze jednobarevná látka, která je prošitá a olemovaná.
 Dvou a více barevné dečky, našití ozdobných lemů, prýmek či ozdobných šnůř deček je cena dle spotřeby materiálu a práce.
 
-Dostihová dečka bez výplně, pony : 350
-Dostihová dečka bez výplně, cob, full : 400
-
-Dostihová dečka s výplní 0,5cm, pony : 400
-Dostihová dečka s výplní 0,5cm, cob, full : 450
-
-Dostihová dečka s výplní 1cm, pony : 450
-Dostihová dečka s výplní 1cm, cob, full : 500
+Dečka pod dostihové sedlo : 750

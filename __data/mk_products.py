@@ -6,7 +6,14 @@ import os
 from slugify import slugify
 from PIL import Image
 
-CATS = ["Koníci", "Pejsci a kočičky", "Jiná zvířátka", "Ostatní"]
+CATS = [
+    "Koníci",
+#    "Pejsci a kočičky",
+#    "Jiná zvířátka",
+#    "Lidičky a jezdci",
+#    "Bytový textil",
+#    "Potahy na autosedačky"
+]
 
 
 class BaseObject:
@@ -87,7 +94,7 @@ for id_cat, cat_title in enumerate(CATS):
         f.write("cat_slug : {}\n".format(cat_slug))
         f.write("group_slug: {}\n".format(group.slug))
 
-        
+
         #
         # Group thumbnail (barevne sady)
         #
@@ -98,7 +105,7 @@ for id_cat, cat_title in enumerate(CATS):
             itgt_tn = cpath + group.slug + "_tn.jpg"
             f.write("group_image: {}\n".format(group.slug+".jpg"))
             im_orig = Image.open(ifile)
-            
+
             im = im_orig.resize((640,400), Image.ANTIALIAS)
             im.save(itgt)
 
@@ -112,7 +119,7 @@ for id_cat, cat_title in enumerate(CATS):
 
         if group.products:
             f.write("products:\n")
-        
+
         for id_product, product in enumerate(group.products):
             id_product += 1000*id_group
             result += "        - id   : {}\n".format(id_product)
@@ -160,11 +167,11 @@ for id_cat, cat_title in enumerate(CATS):
             if not os.path.exists(ifile):
                 ifile = "default.jpg"
 
-            iffile = cpath + product.slug + ".jpg"    
+            iffile = cpath + product.slug + ".jpg"
             itfile = cpath + product.slug + "_tn.jpg"
 
             im_orig = Image.open(ifile)
-            
+
             im = im_orig.resize((640,400), Image.ANTIALIAS)
             im.save(iffile)
 
@@ -172,7 +179,7 @@ for id_cat, cat_title in enumerate(CATS):
             im.save(itfile)
 
             used_products.append(product.slug)
-           
+
 
         f.write("---\n")
 

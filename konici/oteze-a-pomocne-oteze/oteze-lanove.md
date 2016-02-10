@@ -5,13 +5,7 @@ cat_slug : konici
 group_slug: oteze-a-pomocne-oteze
 slug: oteze-lanove
 pricing:
-  - variant : Otěže s karabinkami, pony
-    price   : 350
-  - variant : Otěže s karabinkami, cob
-    price   : 360
-  - variant : Otěže s karabinkami, full
-    price   : 370
-  - variant : Otěže s karabinkami, XLfull
+  - variant : Otěže s karabinkami
     price   : 390
 ---
 

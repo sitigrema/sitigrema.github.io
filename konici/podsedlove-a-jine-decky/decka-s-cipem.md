@@ -5,16 +5,8 @@ cat_slug : konici
 group_slug: podsedlove-a-jine-decky
 slug: decka-s-cipem
 pricing:
-  - variant : Dečka s výplní 0,5cm, pony
-    price   : 550
-  - variant : Dečka s výplní 0,5cm, cob, full
-    price   : 600
-  - variant : Dečka s výplní 1cm, pony
-    price   : 600
-  - variant : Dečka s výplní 1cm, cob, full
-    price   : 650
-  - variant : Zesílené posedlí
-    price   : 100
+  - variant : Dečka s cípem
+    price   : 950
 ---
 
 Dečka s cípem je v základním provedení vyrobena z látky, s výplní - molitan v síle 0,5cm, 1cm nebo po domluvě i silnější.

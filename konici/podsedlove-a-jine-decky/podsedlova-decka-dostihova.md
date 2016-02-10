@@ -5,18 +5,8 @@ cat_slug : konici
 group_slug: podsedlove-a-jine-decky
 slug: podsedlova-decka-dostihova
 pricing:
-  - variant : Dostihová dečka bez výplně, pony
-    price   : 350
-  - variant : Dostihová dečka bez výplně, cob, full
-    price   : 400
-  - variant : Dostihová dečka s výplní 0,5cm, pony
-    price   : 400
-  - variant : Dostihová dečka s výplní 0,5cm, cob, full
-    price   : 450
-  - variant : Dostihová dečka s výplní 1cm, pony
-    price   : 450
-  - variant : Dostihová dečka s výplní 1cm, cob, full
-    price   : 500
+  - variant : Dečka pod dostihové sedlo
+    price   : 750
 ---
 
 Dostihová dečka v základním provedení je vyrobena pouze z látky, bez výplně.

@@ -5,8 +5,4 @@ Tvar dečky je většinou obdélníkový.
 Ceny u deček jsou za zakladní provedení, tedy pouze jednobarevná látka, která je prošitá a olemovaná.
 Dvou a více barevné dečky, našití ozdobných lemů, prýmek či ozdobných šnůř deček je cena dle spotřeby materiálu a práce.
 
-Drezurní dečka s výplní 0,5cm, pony : 350
-Drezurní dečka s výplní 0,5cm, cob, full : 400
-
-Drezurní dečka s výplní 1cm, pony : 400
-Drezurní dečka s výplní 1cm, cob, full : 450
+Dečka pod lonžovací obřišník : 450

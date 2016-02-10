@@ -5,10 +5,4 @@ Tvar dečky je většinou obdélníkový, který může a nemusí být s vyztuž
 Ceny u deček jsou za zakladní provedení, tedy pouze jednobarevná látka, která je prošitá a olemovaná.
 Dvou a více barevné dečky, našití ozdobných lemů, prýmek či ozdobných šnůř deček je cena dle spotřeby materiálu a práce.
 
-Dečka s výplní 0,5cm, pony : 550
-Dečka s výplní 0,5cm, cob, full : 600
-
-Dečka s výplní 1cm, pony : 600
-Dečka s výplní 1cm, cob, full : 650
-
-Zesílené posedlí : 100
+Dečka s cípem : 950

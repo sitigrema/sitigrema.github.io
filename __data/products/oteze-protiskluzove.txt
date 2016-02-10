@@ -10,12 +10,5 @@ Velikosti:
  - Full 2,8m
  - XLfull 3,2m
 
-Otěže s přezkami s protiskluzovou úpravou, pony : 330
-Otěže s přezkami s protiskluzovou úpravou, cob : 340
-Otěže s přezkami s protiskluzovou úpravou, full : 350
-Otěže s přezkami s protiskluzovou úpravou, XL full : 370
-
-Otěže s karabinkami s protiskluzovou úpravou, pony : 430
-Otěže s karabinkami s protiskluzovou úpravou, cob : 440
-Otěže s karabinkami s protiskluzovou úpravou full : 450
-Otěže s karabinkami s protiskluzovou úpravou XL full : 470
+Otěže s přezkami s protiskluzovou úpravou : 390
+Otěže s karabinkami s protiskluzovou úpravou : 490

@@ -5,22 +5,10 @@ cat_slug : konici
 group_slug: oteze-a-pomocne-oteze
 slug: oteze-protiskluzove
 pricing:
-  - variant : Otěže s přezkami s protiskluzovou úpravou, pony
-    price   : 330
-  - variant : Otěže s přezkami s protiskluzovou úpravou, cob
-    price   : 340
-  - variant : Otěže s přezkami s protiskluzovou úpravou, full
-    price   : 350
-  - variant : Otěže s přezkami s protiskluzovou úpravou, XL full
-    price   : 370
-  - variant : Otěže s karabinkami s protiskluzovou úpravou, pony
-    price   : 430
-  - variant : Otěže s karabinkami s protiskluzovou úpravou, cob
-    price   : 440
-  - variant : Otěže s karabinkami s protiskluzovou úpravou full
-    price   : 450
-  - variant : Otěže s karabinkami s protiskluzovou úpravou XL full
-    price   : 470
+  - variant : Otěže s přezkami s protiskluzovou úpravou
+    price   : 390
+  - variant : Otěže s karabinkami s protiskluzovou úpravou
+    price   : 490
 ---
 
 Otěže jsou vyráběny z pevných nylonových popruhů, které jsou protkány gumou.

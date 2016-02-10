@@ -10,16 +10,16 @@ pricing:
   - variant : Uzdečka anglická kompletní, podložená
     price   : 590
   - variant : Uzdečka bez nánosníku, nepodložená
-    price   : 350
+    price   : 390
   - variant : Uzdečka bez nánosníku, podložená
-    price   : 450
+    price   : 490
   - variant : Uzdečka jednořemínková, nepodložená
     price   : 190
   - variant : Uzdečka jednořemínková, podložená
     price   : 250
 ---
 
-Všechny uzdečky jsou vyrobeny z kvalitních pevných nylonových popruhů s kováním ve velikostech pony, cob, full, XLfull. 
+Všechny uzdečky jsou vyrobeny z kvalitních pevných nylonových popruhů s kováním ve velikostech pony, cob, full, XLfull.
 
 V případě že si nejste jisti, jakou máte velikost zhotovím vám jí na míru dle zaslaných rozměrů podle vaší uzdečky.
 Uzdečky jsou běžně zakončeny u udidla přezkami, nebo za příplatek 60&nbsp;Kč karabinkami.

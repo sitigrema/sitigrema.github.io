@@ -5,16 +5,8 @@ cat_slug : konici
 group_slug: podsedlove-a-jine-decky
 slug: decka-vykrojena
 pricing:
-  - variant : Drezurní dečka s výplní 0,5cm, pony
-    price   : 450
-  - variant : Drezurní dečka s výplní 0,5cm, cob, full
-    price   : 500
-  - variant : Drezurní dečka s výplní 1cm, pony
-    price   : 500
-  - variant : Drezurní dečka s výplní 1cm, cob, full
-    price   : 550
-  - variant : Zesílené posedlí
-    price   : 100
+  - variant : Dečka vykrojená
+    price   : 790
 ---
 
 Vykrojená dečka v základním provedení je vyrobena z látky, s výplní - molitan v síle 0,5cm, 1cm nebo po domluvě i silnější.

@@ -10,5 +10,4 @@ Velikost, uvedena je vždy maximální délka:
  - Dospělá 60cm, 70cm, 80cm
 
 
-Třmenové řemeny jednořemenné, dětské : 350
-Třmenové řemeny jednořemenné, dospělé : 380
+Třmenové řemeny jednořemenné : 490

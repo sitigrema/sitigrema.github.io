@@ -10,10 +10,7 @@ Velikosti:
  - Full 2,8m
  - XLfull 3,2m
 
-Otěže s karabinkami, pony : 350
-Otěže s karabinkami, cob : 360
-Otěže s karabinkami, full : 370
-Otěže s karabinkami, XLfull : 390
+Otěže s karabinkami : 390
 
 
 

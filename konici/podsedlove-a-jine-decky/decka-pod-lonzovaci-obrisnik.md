@@ -5,13 +5,7 @@ cat_slug : konici
 group_slug: podsedlove-a-jine-decky
 slug: decka-pod-lonzovaci-obrisnik
 pricing:
-  - variant : Drezurní dečka s výplní 0,5cm, pony
-    price   : 350
-  - variant : Drezurní dečka s výplní 0,5cm, cob, full
-    price   : 400
-  - variant : Drezurní dečka s výplní 1cm, pony
-    price   : 400
-  - variant : Drezurní dečka s výplní 1cm, cob, full
+  - variant : Dečka pod lonžovací obřišník
     price   : 450
 ---
 

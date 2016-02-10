@@ -5,10 +5,8 @@ cat_slug : konici
 group_slug: trmeny-a-trmenove-remeny
 slug: trmenove-remeny-jednoremenne
 pricing:
-  - variant : Třmenové řemeny jednořemenné, dětské
-    price   : 350
-  - variant : Třmenové řemeny jednořemenné, dospělé
-    price   : 380
+  - variant : Třmenové řemeny jednořemenné
+    price   : 490
 ---
 
 Řemeny jsou šité z kvalitních pevných popruhů.
