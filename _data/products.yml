@@ -2,10 +2,6 @@
   title : Koníci
   slug  : konici
   groups :
-    - id    : 1
-      title : Barevné sady
-      slug  : barevne-sady
-
     - id    : 2
       title : Beránci, obaly a potahy
       slug  : beranci-obaly-a-potahy
@@ -31,10 +27,6 @@
         - id   : 2006
           title: Potah na uzdečku či ohlávku
           slug : potah-na-uzdecku-ci-ohlavku
-
-    - id    : 3
-      title : Bezkostrová sedla a jezdecké pady
-      slug  : bezkostrova-sedla-a-jezdecke-pady
 
     - id    : 4
       title : Deky a bederní deky na koně
@@ -316,3 +308,141 @@
           title: Výstavní a předváděcí vodítka
           slug : vystavni-a-predvadeci-voditka
 
+- id    : 1
+  title : Pejsci a kočičky
+  slug  : pejsci-a-kocicky
+  groups :
+    - id    : 1
+      title : Cestování
+      slug  : cestovani
+      products :
+        - id   : 1000
+          title: Autopostroj eco
+          slug : autopostroj-eco
+        - id   : 1001
+          title: Autopostroj komfort
+          slug : autopostroj-komfort
+        - id   : 1002
+          title: Autovak
+          slug : autovak
+        - id   : 1003
+          title: Brašny
+          slug : brasny
+        - id   : 1004
+          title: Deky
+          slug : deky
+        - id   : 1005
+          title: Mříže a sítě do auta
+          slug : mrize-a-site-do-auta
+        - id   : 1006
+          title: Podložky a polštáře
+          slug : podlozky-a-polstare
+        - id   : 1007
+          title: Reflexní dečka
+          slug : reflexni-decka
+        - id   : 1008
+          title: Reflexní vesta
+          slug : reflexni-vesta
+        - id   : 1009
+          title: Spojka k autopásu
+          slug : spojka-k-autopasu
+
+    - id    : 2
+      title : Hračky
+      slug  : hracky
+      products :
+        - id   : 2000
+          title: Činka
+          slug : cinka
+        - id   : 2001
+          title: Bobík
+          slug : bobik
+        - id   : 2002
+          title: Bonbonek
+          slug : bonbonek
+        - id   : 2003
+          title: Pešek
+          slug : pesek
+        - id   : 2004
+          title: Pletené hračky
+          slug : pletene-hracky
+        - id   : 2005
+          title: Plyšový míček
+          slug : plysovy-micek
+        - id   : 2006
+          title: Přetahovadlo
+          slug : pretahovadlo
+
+    - id    : 4
+      title : Obojky a vodítka
+      slug  : obojky-a-voditka
+      products :
+        - id   : 4000
+          title: Obojek eko
+          slug : obojek-eko
+        - id   : 4001
+          title: Obojek posuvný
+          slug : obojek-posuvny
+        - id   : 4002
+          title: Obojek podložený
+          slug : obojek-podlozeny
+        - id   : 4003
+          title: Obojek zesílený
+          slug : obojek-zesileny
+        - id   : 4004
+          title: Stopovačka
+          slug : stopovacka
+        - id   : 4005
+          title: Vodítka klasik
+          slug : voditka-klasik
+        - id   : 4006
+          title: Vodítka zesílená
+          slug : voditka-zesilena
+        - id   : 4007
+          title: Vodítka výstavní
+          slug : voditka-vystavni
+        - id   : 4008
+          title: Vodítka pletená
+          slug : voditka-pletena
+        - id   : 4009
+          title: Vodítko nastavitelné
+          slug : voditko-nastavitelne
+
+    - id    : 5
+      title : Pelíšky a podložky
+      slug  : pelisky-a-podlozky
+      products :
+        - id   : 5000
+          title: Deka
+          slug : deka
+        - id   : 5001
+          title: Matrace
+          slug : matrace
+        - id   : 5002
+          title: Pelíšek eko
+          slug : pelisek-eko
+        - id   : 5003
+          title: Pelíšek komfort
+          slug : pelisek-komfort
+        - id   : 5004
+          title: Podložka či polštář
+          slug : podlozka-ci-polstar
+        - id   : 5005
+          title: Potah
+          slug : potah
+
+- id    : 2
+  title : Jiná zvířátka
+  slug  : jina-zviratka
+  groups :
+- id    : 3
+  title : Lidičky a jezdci
+  slug  : lidicky-a-jezdci
+  groups :
+- id    : 4
+  title : Bytový textil
+  slug  : bytovy-textil
+  groups :
+- id    : 5
+  title : Potahy na autosedačky
+  slug  : potahy-na-autosedacky
