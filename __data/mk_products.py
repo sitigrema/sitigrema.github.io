@@ -8,11 +8,11 @@ from PIL import Image
 
 CATS = [
     "Koníci",
-#    "Pejsci a kočičky",
-#    "Jiná zvířátka",
-#    "Lidičky a jezdci",
-#    "Bytový textil",
-#    "Potahy na autosedačky"
+    "Pejsci a kočičky",
+    "Jiná zvířátka",
+    "Lidičky a jezdci",
+    "Bytový textil",
+    "Potahy na autosedačky"
 ]
 
 
@@ -76,6 +76,8 @@ for id_cat, cat_title in enumerate(CATS):
 
 
     for id_group, group in enumerate(groups):
+        if not group.products:
+            continue
         id_group += 1
         result += "    - id    : {}\n".format(id_group)
         result += "      title : {}\n".format(group.title)
@@ -144,6 +146,8 @@ for id_cat, cat_title in enumerate(CATS):
                     ptext += pline
             else:
                 print (pfile, "does not exist")
+                pff = open(pfile,"w")
+                pff.close()
 
             ptfile = cpath + product.slug + ".md"
             pt = open(ptfile, "w")
