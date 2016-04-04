@@ -1,21 +1,25 @@
 <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
 {% for cat in site.data.products %}
+    {% if cat.groups %}
     <div class="panel panel-default">
         <div class="panel-heading" role="tab" id="cat-{{ cat.slug }}">
             <h4 class="panel-title">
                 <a data-toggle="collapse" data-parent="#accordion" href="#collapse-{{ cat.slug }}" aria-expanded="false" aria-controls="collapse-{{ cat.slug }}">{{ cat.title }}</a>
             </h4>
         </div>
-        <div id="collapse-{{ cat.slug }}" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="cat-{{ cat.slug }}">
+        <div id="collapse-{{ cat.slug }}" class="panel-collapse collapse{% if page.cat_slug == cat.slug %} in{% endif%}" role="tabpanel" aria-labelledby="cat-{{ cat.slug }}">
 
             <div class="list-group">
             {% for group in cat.groups %}
+                {% if group.products %}
                 <a href="/{{ cat.slug }}/{{ group.slug }}" class="list-group-item{% if group.slug == page.group_slug %} active{% endif %}">{{ group.title }}</a>
+                {% endif %}
             {% endfor %}
             </div>
 
         </div>
     </div>
+    {% endif %}
 {% endfor %}
 </div>
 
