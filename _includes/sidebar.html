@@ -11,7 +11,7 @@
 
             <div class="list-group">
             {% for group in cat.groups %}
-                {% if group.products %}
+                {% if group.products or group.has_index %}
                 <a href="/{{ cat.slug }}/{{ group.slug }}" class="list-group-item{% if group.slug == page.group_slug %} active{% endif %}">{{ group.title }}</a>
                 {% endif %}
             {% endfor %}

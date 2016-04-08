@@ -2,6 +2,11 @@
   title : Koníci
   slug  : konici
   groups :
+    - id    : 1
+      title : Barevné sady
+      slug  : barevne-sady
+      has_index: 1
+
     - id    : 2
       title : Beránci, obaly a potahy
       slug  : beranci-obaly-a-potahy
@@ -373,6 +378,39 @@
           title: Přetahovadlo
           slug : pretahovadlo
 
+    - id    : 3
+      title : Oblečky a botičky
+      slug  : oblecky-a-boticky
+      has_index: 1
+      products :
+        - id   : 3000
+          title: Botičky
+          slug : boticky
+        - id   : 3001
+          title: Dečka flees
+          slug : decka-flees
+        - id   : 3002
+          title: Dečka softshell
+          slug : decka-softshell
+        - id   : 3003
+          title: Dečka zimní
+          slug : decka-zimni
+        - id   : 3004
+          title: Hárací kalhotky
+          slug : haraci-kalhotky
+        - id   : 3005
+          title: Pláštěnka
+          slug : plastenka
+        - id   : 3006
+          title: Ponožky
+          slug : ponozky
+        - id   : 3007
+          title: Protiznačkovací pás
+          slug : protiznackovaci-pas
+        - id   : 3008
+          title: Reflexní program
+          slug : reflexni-program
+
     - id    : 4
       title : Obojky a vodítka
       slug  : obojky-a-voditka
@@ -431,6 +469,26 @@
           title: Potah
           slug : potah
 
+    - id    : 6
+      title : Výcvik
+      slug  : vycvik
+      products :
+        - id   : 6000
+          title: Náhubek "Popruh"
+          slug : nahubek-popruh
+        - id   : 6001
+          title: Náhubek "Trubička"
+          slug : nahubek-trubicka
+        - id   : 6002
+          title: Ohlávka halti s obojkem
+          slug : ohlavka-halti-s-obojkem
+        - id   : 6003
+          title: Pamlskovníky
+          slug : pamlskovniky
+        - id   : 6004
+          title: Výcviková ledvinka
+          slug : vycvikova-ledvinka
+
 - id    : 2
   title : Jiná zvířátka
   slug  : jina-zviratka
@@ -443,6 +501,31 @@
   title : Bytový textil
   slug  : bytovy-textil
   groups :
+    - id    : 1
+      title : Ložní prádlo
+      slug  : lozni-pradlo
+      has_index: 1
+
+    - id    : 2
+      title : Potahy na sedačky, křesla
+      slug  : potahy-na-sedacky-kresla
+      has_index: 1
+
+    - id    : 3
+      title : Záclony
+      slug  : zaclony
+      has_index: 1
+
+    - id    : 4
+      title : Závěsy
+      slug  : zavesy
+      has_index: 1
+
+    - id    : 5
+      title : Ubrusy
+      slug  : ubrusy
+      has_index: 1
+
 - id    : 5
   title : Potahy na autosedačky
   slug  : potahy-na-autosedacky

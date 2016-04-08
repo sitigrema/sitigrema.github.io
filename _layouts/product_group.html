@@ -4,20 +4,22 @@ css:
  - /static/css/default.css
 ---
 
-{% if page.group_image %}
+{% if page.has_index %}
 
 <div class="media">
   <div class="media-body">
     {{ content | markdownify }}
   </div>
+{% if page.group_image %}
   <div class="media-right media-top">
     <a data-toggle="modal" data-target=".bs-modal-sm" >
         <img class="media-object" alt="{{ page.title }}" src="/{{ page.cat_slug }}/{{ page.group_slug }}/{{ page.group_slug }}_tn.jpg">
     </a>
   </div>
+{% endif %}
 </div>
 
-
+{% if page.group_image %}
 <div class="modal fade bs-modal-sm" tabindex="-1" role="dialog" aria-labelledby="Product photo" aria-hidden="true">
   <div class="modal-dialog modal-sm">
     <div class="modal-content">
@@ -27,6 +29,7 @@ css:
     </div>
   </div>
 </div>
+{% endif %}
 {% endif %}
 
 

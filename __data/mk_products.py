@@ -76,12 +76,16 @@ for id_cat, cat_title in enumerate(CATS):
 
 
     for id_group, group in enumerate(groups):
-        if not group.products:
+        pfile = os.path.join("products", group.slug+".txt")
+        if not group.products and not os.path.exists(pfile):
             continue
+
         id_group += 1
         result += "    - id    : {}\n".format(id_group)
         result += "      title : {}\n".format(group.title)
         result += "      slug  : {}\n".format(group.slug)
+        if os.path.exists(pfile):
+            result += "      has_index: 1\n"
 
         if group.products:
             result += "      products :\n"
@@ -95,6 +99,10 @@ for id_cat, cat_title in enumerate(CATS):
         f.write("title: {}\n".format(group.title))
         f.write("cat_slug : {}\n".format(cat_slug))
         f.write("group_slug: {}\n".format(group.slug))
+        if os.path.exists(pfile):
+            f.write("has_index: 1\n")
+
+
 
 
         #
@@ -191,7 +199,6 @@ for id_cat, cat_title in enumerate(CATS):
         # Group description
         #
 
-        pfile = os.path.join("products", group.slug+".txt")
         if os.path.exists(pfile):
             pf = open(pfile).read()
             f.write(pf)
