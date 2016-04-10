@@ -489,6 +489,41 @@
           title: Výcviková ledvinka
           slug : vycvikova-ledvinka
 
+    - id    : 7
+      title : Postroje
+      slug  : postroje
+      products :
+        - id   : 7000
+          title: Dogtreking
+          slug : dogtreking
+        - id   : 7001
+          title: Opasky a pásy pro lidi
+          slug : opasky-a-pasy-pro-lidi
+        - id   : 7002
+          title: Postroj Active
+          slug : postroj-active
+        - id   : 7003
+          title: Postroj Cyklo a Ski
+          slug : postroj-cyklo-a-ski
+        - id   : 7004
+          title: Postroj Klasik
+          slug : postroj-klasik
+        - id   : 7005
+          title: Postroj Komfort
+          slug : postroj-komfort
+        - id   : 7006
+          title: Proti tahání Eco
+          slug : proti-tahani-eco
+        - id   : 7007
+          title: Proti tahání Pull
+          slug : proti-tahani-pull
+        - id   : 7008
+          title: Postroje na přání
+          slug : postroje-na-prani
+        - id   : 7009
+          title: Postroj s brašnami
+          slug : postroj-s-brasnami
+
 - id    : 2
   title : Jiná zvířátka
   slug  : jina-zviratka

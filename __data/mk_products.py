@@ -116,11 +116,12 @@ for id_cat, cat_title in enumerate(CATS):
             f.write("group_image: {}\n".format(group.slug+".jpg"))
             im_orig = Image.open(ifile)
 
-            im = im_orig.resize((640,400), Image.ANTIALIAS)
-            im.save(itgt)
-
-            im = im_orig.resize((261,163), Image.ANTIALIAS)
-            im.save(itgt_tn)
+            if not os.path.exists(itgt):
+                im = im_orig.resize((640,400), Image.ANTIALIAS)
+                im.save(itgt)
+            if not os.path.exists(itgt_tn):
+                im = im_orig.resize((261,163), Image.ANTIALIAS)
+                im.save(itgt_tn)
 
         #
         # Products
@@ -184,11 +185,13 @@ for id_cat, cat_title in enumerate(CATS):
 
             im_orig = Image.open(ifile)
 
-            im = im_orig.resize((640,400), Image.ANTIALIAS)
-            im.save(iffile)
+            if not os.path.exists(iffile):
+                im = im_orig.resize((640,400), Image.ANTIALIAS)
+                im.save(iffile)
 
-            im = im_orig.resize((261,163), Image.ANTIALIAS)
-            im.save(itfile)
+            if not os.path.exists(itfile):
+                im = im_orig.resize((261,163), Image.ANTIALIAS)
+                im.save(itfile)
 
             used_products.append(product.slug)
 
