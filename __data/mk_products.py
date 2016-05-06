@@ -144,6 +144,13 @@ for id_cat, cat_title in enumerate(CATS):
 
             pfile = os.path.join("products", product.slug+".txt")
             ifile = os.path.join("products", product.slug+".jpg")
+
+            if not os.path.exists(ifile):
+                f.write("    has_image: false\n")
+                ifile = False
+            else:
+                f.write("    has_image: true\n")
+
             ptext = ""
             pprices = []
             if os.path.exists(pfile):
@@ -166,9 +173,8 @@ for id_cat, cat_title in enumerate(CATS):
             pt.write("cat_slug : {}\n".format(cat_slug))
             pt.write("group_slug: {}\n".format(group.slug))
             pt.write("slug: {}\n".format(product.slug))
-            if not os.path.exists(ifile):
+            if not ifile:
                 pt.write("has_image: false\n")
-                ifile = "default.jpg"
             else:
                 pt.write("has_image: true\n")
             if pprices:
@@ -186,15 +192,22 @@ for id_cat, cat_title in enumerate(CATS):
             iffile = cpath + product.slug + ".jpg"
             itfile = cpath + product.slug + "_tn.jpg"
 
-            im_orig = Image.open(ifile)
+            if not ifile and os.path.exists(iffile):
+                os.remove(iffile)
+            if not ifile and os.path.exists(itfile):
+                os.remove(itfile)
 
-            if not os.path.exists(iffile):
-                im = im_orig.resize((640,400), Image.ANTIALIAS)
-                im.save(iffile)
+            if ifile:
 
-            if not os.path.exists(itfile):
-                im = im_orig.resize((261,163), Image.ANTIALIAS)
-                im.save(itfile)
+                im_orig = Image.open(ifile)
+
+                if not os.path.exists(iffile):
+                    im = im_orig.resize((640,400), Image.ANTIALIAS)
+                    im.save(iffile)
+
+                if not os.path.exists(itfile):
+                    im = im_orig.resize((261,163), Image.ANTIALIAS)
+                    im.save(itfile)
 
             used_products.append(product.slug)
 

@@ -38,7 +38,13 @@ css:
 {% for product in page.products %}
     <div class="col-sm-4 col-lg-4 col-md-4">
         <div class="thumbnail">
-            <a href="/{{ page.cat_slug }}/{{ page.group_slug }}/{{ product.slug }}.html"><img src="/{{ page.cat_slug }}/{{ page.group_slug }}/{{ product.slug }}.jpg" alt="{{ product.title }}"></a>
+            <a href="/{{ page.cat_slug }}/{{ page.group_slug }}/{{ product.slug }}.html">
+                {% if product.has_image %}
+                <img src="/{{ page.cat_slug }}/{{ page.group_slug }}/{{ product.slug }}.jpg" alt="{{ product.title }}">
+                {% else %}
+                <img src="/assets/default_tn.jpg" alt="{{ product.title }}">
+                {% endif %}
+            </a>
             <div class="caption caption-product">
                 <a href="/{{ page.cat_slug }}/{{ page.group_slug }}/{{ product.slug }}.html">{{ product.title }}</a>
             </div>
