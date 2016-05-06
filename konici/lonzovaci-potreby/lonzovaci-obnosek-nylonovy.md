@@ -4,6 +4,7 @@ title: Lonžovací obnosek nylonový
 cat_slug : konici
 group_slug: lonzovaci-potreby
 slug: lonzovaci-obnosek-nylonovy
+has_image: false
 pricing:
   - variant : Lonžovací obnosek nylonový
     price   : 790

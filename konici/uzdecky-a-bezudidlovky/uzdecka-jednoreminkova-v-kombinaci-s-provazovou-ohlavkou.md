@@ -4,6 +4,7 @@ title: Uzdečka jednořemínková v kombinaci s provazovou ohlávkou
 cat_slug : konici
 group_slug: uzdecky-a-bezudidlovky
 slug: uzdecka-jednoreminkova-v-kombinaci-s-provazovou-ohlavkou
+has_image: true
 pricing:
   - variant : Uzdečka jednořemínková v kombinaci s provazovou ohlávkou, nepodložená
     price   : 340

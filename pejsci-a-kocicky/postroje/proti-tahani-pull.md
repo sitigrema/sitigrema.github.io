@@ -4,6 +4,7 @@ title: Proti tahání Pull
 cat_slug : pejsci-a-kocicky
 group_slug: postroje
 slug: proti-tahani-pull
+has_image: false
 pricing:
   - variant : Postroj XS (obvod hrudníku 20-40cm)
     price   : 250

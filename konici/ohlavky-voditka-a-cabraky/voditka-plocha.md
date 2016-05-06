@@ -4,6 +4,7 @@ title: Vodítka plochá
 cat_slug : konici
 group_slug: ohlavky-voditka-a-cabraky
 slug: voditka-plocha
+has_image: true
 pricing:
   - variant : Vodítko 1,5m s klasickou karabinkou
     price   : 150

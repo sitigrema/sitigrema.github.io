@@ -4,6 +4,7 @@ title: Potah na posedlí
 cat_slug : konici
 group_slug: beranci-obaly-a-potahy
 slug: potah-na-posedli
+has_image: true
 pricing:
   - variant : Potah na posedlí - fleesový
     price   : 250

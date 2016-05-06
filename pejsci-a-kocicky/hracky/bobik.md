@@ -4,6 +4,7 @@ title: Bobík
 cat_slug : pejsci-a-kocicky
 group_slug: hracky
 slug: bobik
+has_image: false
 ---
 
 

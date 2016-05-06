@@ -4,6 +4,7 @@ title: Autovak
 cat_slug : pejsci-a-kocicky
 group_slug: cestovani
 slug: autovak
+has_image: false
 pricing:
   - variant : Vak malý (h. 0,65m, š. 1,2m, v.0,6m)
     price   : 1190

@@ -4,6 +4,7 @@ title: Dečka s cípem
 cat_slug : konici
 group_slug: podsedlove-a-jine-decky
 slug: decka-s-cipem
+has_image: true
 pricing:
   - variant : Dečka s cípem
     price   : 950

@@ -4,6 +4,7 @@ title: Podložky a polštáře
 cat_slug : pejsci-a-kocicky
 group_slug: cestovani
 slug: podlozky-a-polstare
+has_image: false
 pricing:
   - variant : Podložka 30 x 30cm
     price   : 190

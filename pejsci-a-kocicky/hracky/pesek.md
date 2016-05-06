@@ -4,6 +4,7 @@ title: Pešek
 cat_slug : pejsci-a-kocicky
 group_slug: hracky
 slug: pesek
+has_image: false
 pricing:
   - variant : Malý pes
     price   : 60

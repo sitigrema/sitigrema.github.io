@@ -4,6 +4,7 @@ title: Proti tahání Eco
 cat_slug : pejsci-a-kocicky
 group_slug: postroje
 slug: proti-tahani-eco
+has_image: false
 pricing:
   - variant : Postroj XS (obvod hrudníku 20-40cm)
     price   : 190

@@ -4,6 +4,7 @@ title: Uzdečka jednořemínková
 cat_slug : konici
 group_slug: uzdecky-a-bezudidlovky
 slug: uzdecka-jednoreminkova
+has_image: true
 pricing:
   - variant : Uzdečka jednořemínková, nepodložená
     price   : 190

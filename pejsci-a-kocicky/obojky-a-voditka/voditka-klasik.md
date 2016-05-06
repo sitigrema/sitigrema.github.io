@@ -4,6 +4,7 @@ title: Vodítka klasik
 cat_slug : pejsci-a-kocicky
 group_slug: obojky-a-voditka
 slug: voditka-klasik
+has_image: false
 pricing:
   - variant : Vodítko 1,5m
     price   : 140

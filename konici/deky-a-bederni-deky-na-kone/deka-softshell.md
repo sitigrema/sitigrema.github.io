@@ -4,6 +4,7 @@ title: Deka softshell
 cat_slug : konici
 group_slug: deky-a-bederni-deky-na-kone
 slug: deka-softshell
+has_image: false
 pricing:
   - variant : Deka softshell jednobarevná pony
     price   : 1290

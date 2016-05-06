@@ -4,6 +4,7 @@ title: Náhubek "Trubička"
 cat_slug : pejsci-a-kocicky
 group_slug: vycvik
 slug: nahubek-trubicka
+has_image: false
 pricing:
   - variant : Malý pes
     price   : 120

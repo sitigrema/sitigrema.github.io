@@ -4,6 +4,7 @@ title: Potah na uzdečku či ohlávku
 cat_slug : konici
 group_slug: beranci-obaly-a-potahy
 slug: potah-na-uzdecku-ci-ohlavku
+has_image: false
 ---
 
 Potah na uzdečku či ohlávku - fleesový

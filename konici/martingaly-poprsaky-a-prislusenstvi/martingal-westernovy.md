@@ -4,6 +4,7 @@ title: Martingal westernový
 cat_slug : konici
 group_slug: martingaly-poprsaky-a-prislusenstvi
 slug: martingal-westernovy
+has_image: true
 pricing:
   - variant : Martingal pony
     price   : 300

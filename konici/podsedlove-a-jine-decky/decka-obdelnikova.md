@@ -4,6 +4,7 @@ title: Dečka obdélníková
 cat_slug : konici
 group_slug: podsedlove-a-jine-decky
 slug: decka-obdelnikova
+has_image: true
 pricing:
   - variant : Dečka obdélníková
     price   : 890

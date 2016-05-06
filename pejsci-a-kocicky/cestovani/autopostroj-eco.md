@@ -4,6 +4,7 @@ title: Autopostroj eco
 cat_slug : pejsci-a-kocicky
 group_slug: cestovani
 slug: autopostroj-eco
+has_image: false
 pricing:
   - variant : Postroj XS (obvod hrudníku 20-40cm)
     price   : 190

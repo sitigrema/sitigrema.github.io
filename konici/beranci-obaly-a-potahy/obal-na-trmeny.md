@@ -4,6 +4,7 @@ title: Obal na třmeny
 cat_slug : konici
 group_slug: beranci-obaly-a-potahy
 slug: obal-na-trmeny
+has_image: true
 pricing:
   - variant : Obal na třmeny 2ks
     price   : 150

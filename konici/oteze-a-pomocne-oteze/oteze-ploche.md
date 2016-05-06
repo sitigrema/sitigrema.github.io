@@ -4,6 +4,7 @@ title: Otěže ploché
 cat_slug : konici
 group_slug: oteze-a-pomocne-oteze
 slug: oteze-ploche
+has_image: true
 pricing:
   - variant : Otěže s přezkami
     price   : 290

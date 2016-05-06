@@ -4,6 +4,7 @@ title: Martingalová vidlice k poprsáku
 cat_slug : konici
 group_slug: martingaly-poprsaky-a-prislusenstvi
 slug: martingalova-vidlice-k-poprsaku
+has_image: true
 pricing:
   - variant : Martingalová vidlice, pevná
     price   : 150

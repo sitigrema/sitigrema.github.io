@@ -4,6 +4,7 @@ title: Vyvazovací otěže pevné
 cat_slug : konici
 group_slug: lonzovaci-potreby
 slug: vyvazovaci-oteze-pevne
+has_image: false
 pricing:
   - variant : Vyvazovací otěže, zakončení přezky, pony
     price   : 250

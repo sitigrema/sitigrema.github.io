@@ -4,6 +4,7 @@ title: Očko k podbřišníku
 cat_slug : konici
 group_slug: martingaly-poprsaky-a-prislusenstvi
 slug: ocko-k-podbrisniku
+has_image: true
 pricing:
   - variant : Očko na podbřišník
     price   : 50

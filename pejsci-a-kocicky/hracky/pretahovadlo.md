@@ -4,6 +4,7 @@ title: Přetahovadlo
 cat_slug : pejsci-a-kocicky
 group_slug: hracky
 slug: pretahovadlo
+has_image: false
 pricing:
   - variant : Přetahovadlo 40cm
     price   : 40

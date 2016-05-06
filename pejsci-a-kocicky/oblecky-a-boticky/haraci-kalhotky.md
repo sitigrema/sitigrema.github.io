@@ -4,6 +4,7 @@ title: Hárací kalhotky
 cat_slug : pejsci-a-kocicky
 group_slug: oblecky-a-boticky
 slug: haraci-kalhotky
+has_image: false
 ---
 
 Hárací kalhotky máme pro fenky všech plemen. Při objednávce prosím změřte fenku přes slabiny a napište jakou chcete barvu kalhotek. Do kalhotek doporučujeme používat hárací vložky nebo popřípadě vložky pro ženy.

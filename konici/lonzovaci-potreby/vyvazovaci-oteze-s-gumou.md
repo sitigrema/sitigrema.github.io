@@ -4,6 +4,7 @@ title: Vyvazovací otěže s gumou
 cat_slug : konici
 group_slug: lonzovaci-potreby
 slug: vyvazovaci-oteze-s-gumou
+has_image: false
 pricing:
   - variant : Vyvazovací otěže s gumou, zakončení přezky, pony
     price   : 300

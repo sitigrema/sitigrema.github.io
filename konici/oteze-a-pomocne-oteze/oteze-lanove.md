@@ -4,6 +4,7 @@ title: Otěže lanové
 cat_slug : konici
 group_slug: oteze-a-pomocne-oteze
 slug: oteze-lanove
+has_image: true
 pricing:
   - variant : Otěže s karabinkami
     price   : 390

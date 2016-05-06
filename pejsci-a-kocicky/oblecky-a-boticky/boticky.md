@@ -4,6 +4,7 @@ title: Botičky
 cat_slug : pejsci-a-kocicky
 group_slug: oblecky-a-boticky
 slug: boticky
+has_image: false
 ---
 
 Botičky vyrábíme z neoprenu či jiných materiálů, dle toho jaké budou mít využití. Botičky jsou vhodné pro pejsky do zimního období nebo v případě poraněné tlapky.

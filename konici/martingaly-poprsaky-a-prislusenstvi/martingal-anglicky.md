@@ -4,6 +4,7 @@ title: Martingal anglický
 cat_slug : konici
 group_slug: martingaly-poprsaky-a-prislusenstvi
 slug: martingal-anglicky
+has_image: true
 pricing:
   - variant : Martingal pony
     price   : 350

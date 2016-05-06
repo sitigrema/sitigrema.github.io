@@ -4,6 +4,7 @@ title: Průvlečky
 cat_slug : konici
 group_slug: oteze-a-pomocne-oteze
 slug: pruvlecky
+has_image: false
 pricing:
   - variant : Průvlečky s karabinkami
     price   : 450

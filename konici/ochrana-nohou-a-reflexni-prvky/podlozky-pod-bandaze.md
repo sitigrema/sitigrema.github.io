@@ -4,6 +4,7 @@ title: Podložky pod bandáže
 cat_slug : konici
 group_slug: ochrana-nohou-a-reflexni-prvky
 slug: podlozky-pod-bandaze
+has_image: true
 pricing:
   - variant : Podložky, tlouštka 0,5cm, pony, 4ks
     price   : 400

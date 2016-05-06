@@ -4,6 +4,7 @@ title: Podsedlová dečka dostihová
 cat_slug : konici
 group_slug: podsedlove-a-jine-decky
 slug: podsedlova-decka-dostihova
+has_image: false
 pricing:
   - variant : Dečka pod dostihové sedlo
     price   : 750

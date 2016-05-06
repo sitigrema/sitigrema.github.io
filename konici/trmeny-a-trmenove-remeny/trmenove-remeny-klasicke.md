@@ -4,6 +4,7 @@ title: Třmenové řemeny klasické
 cat_slug : konici
 group_slug: trmeny-a-trmenove-remeny
 slug: trmenove-remeny-klasicke
+has_image: true
 pricing:
   - variant : Třmenové řemeny klasické
     price   : 390

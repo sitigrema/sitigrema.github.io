@@ -4,6 +4,7 @@ title: Činka
 cat_slug : pejsci-a-kocicky
 group_slug: hracky
 slug: cinka
+has_image: false
 pricing:
   - variant : Činka 20cm
     price   : 40

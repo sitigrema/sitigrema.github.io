@@ -4,6 +4,7 @@ title: Deka
 cat_slug : pejsci-a-kocicky
 group_slug: pelisky-a-podlozky
 slug: deka
+has_image: false
 pricing:
   - variant : Deka 100 x 100cm
     price   : 140

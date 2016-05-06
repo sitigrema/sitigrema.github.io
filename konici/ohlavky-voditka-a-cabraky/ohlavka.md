@@ -4,6 +4,7 @@ title: Ohlávka
 cat_slug : konici
 group_slug: ohlavky-voditka-a-cabraky
 slug: ohlavka
+has_image: true
 pricing:
   - variant : Ohlávka pony
     price   : 190

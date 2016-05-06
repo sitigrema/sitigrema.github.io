@@ -4,6 +4,7 @@ title: Podbřišník drezurní
 cat_slug : konici
 group_slug: podbrisniky-a-podocasniky
 slug: podbrisnik-drezurni
+has_image: true
 ---
 
 Podbřišník je v základním provedení bavlněný. 

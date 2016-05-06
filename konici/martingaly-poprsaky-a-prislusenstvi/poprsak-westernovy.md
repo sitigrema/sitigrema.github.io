@@ -4,6 +4,7 @@ title: Poprsák westernový
 cat_slug : konici
 group_slug: martingaly-poprsaky-a-prislusenstvi
 slug: poprsak-westernovy
+has_image: true
 pricing:
   - variant : Poprsák nepodložený pony
     price   : 350

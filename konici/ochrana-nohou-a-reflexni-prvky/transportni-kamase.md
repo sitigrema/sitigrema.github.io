@@ -4,6 +4,7 @@ title: Transportní kamaše
 cat_slug : konici
 group_slug: ochrana-nohou-a-reflexni-prvky
 slug: transportni-kamase
+has_image: false
 ---
 
 Transportní kamaše vám ušiji ve velikostech pony, cob, full.

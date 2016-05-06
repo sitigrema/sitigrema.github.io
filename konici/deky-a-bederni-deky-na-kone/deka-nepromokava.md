@@ -4,6 +4,7 @@ title: Deka nepromokavá
 cat_slug : konici
 group_slug: deky-a-bederni-deky-na-kone
 slug: deka-nepromokava
+has_image: false
 pricing:
   - variant : Deka nepromokavá jednobarevná pony
     price   : 1590

@@ -4,6 +4,7 @@ title: Poprsák anglický
 cat_slug : konici
 group_slug: martingaly-poprsaky-a-prislusenstvi
 slug: poprsak-anglicky
+has_image: true
 pricing:
   - variant : Poprsák nepodložený pony
     price   : 350

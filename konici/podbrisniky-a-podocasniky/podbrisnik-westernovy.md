@@ -4,6 +4,7 @@ title: Podbřišník westernový
 cat_slug : konici
 group_slug: podbrisniky-a-podocasniky
 slug: podbrisnik-westernovy
+has_image: true
 ---
 
 Podbřišník je v základním provedení bavlněný. 

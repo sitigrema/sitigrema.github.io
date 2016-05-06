@@ -4,6 +4,7 @@ title: Chambon
 cat_slug : konici
 group_slug: lonzovaci-potreby
 slug: chambon
+has_image: false
 pricing:
   - variant : Chambon
     price   : 400

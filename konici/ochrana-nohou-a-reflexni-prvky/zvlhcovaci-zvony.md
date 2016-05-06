@@ -4,6 +4,7 @@ title: Zvlhčovací zvony
 cat_slug : konici
 group_slug: ochrana-nohou-a-reflexni-prvky
 slug: zvlhcovaci-zvony
+has_image: true
 pricing:
   - variant : Zvlhčovací zvony, pár
     price   : 290

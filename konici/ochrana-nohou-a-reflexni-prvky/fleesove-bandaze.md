@@ -4,6 +4,7 @@ title: Fleesové bandáže
 cat_slug : konici
 group_slug: ochrana-nohou-a-reflexni-prvky
 slug: fleesove-bandaze
+has_image: true
 pricing:
   - variant : Fleesové bandáže 4ks
     price   : 490

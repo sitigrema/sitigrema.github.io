@@ -4,6 +4,7 @@ title: Deka stájová
 cat_slug : konici
 group_slug: deky-a-bederni-deky-na-kone
 slug: deka-stajova
+has_image: false
 pricing:
   - variant : Deka stájová jednobarevná pony
     price   : 1450

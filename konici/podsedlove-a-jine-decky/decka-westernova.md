@@ -4,6 +4,7 @@ title: Dečka westernová
 cat_slug : konici
 group_slug: podsedlove-a-jine-decky
 slug: decka-westernova
+has_image: true
 pricing:
   - variant : Westernová dečka
     price   : 1200

@@ -4,6 +4,7 @@ title: Čabraky látkové
 cat_slug : konici
 group_slug: ohlavky-voditka-a-cabraky
 slug: cabraky-latkove
+has_image: false
 pricing:
   - variant : Čabraka látková
     price   : 250

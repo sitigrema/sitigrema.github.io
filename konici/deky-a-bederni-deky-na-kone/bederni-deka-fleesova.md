@@ -4,6 +4,7 @@ title: Bederní deka fleesová
 cat_slug : konici
 group_slug: deky-a-bederni-deky-na-kone
 slug: bederni-deka-fleesova
+has_image: false
 pricing:
   - variant : Bederní deka fleesová jednobarevná pony
     price   : 490

@@ -4,6 +4,7 @@ title: Ohlávka s beránkem
 cat_slug : konici
 group_slug: ohlavky-voditka-a-cabraky
 slug: ohlavka-s-berankem
+has_image: false
 pricing:
   - variant : Ohlávka s beránkem, pony
     price   : 890

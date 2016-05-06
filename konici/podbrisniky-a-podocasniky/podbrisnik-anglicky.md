@@ -4,6 +4,7 @@ title: Podbřišník anglický
 cat_slug : konici
 group_slug: podbrisniky-a-podocasniky
 slug: podbrisnik-anglicky
+has_image: true
 ---
 
 Podbřišník je v základním provedení bavlněný. 

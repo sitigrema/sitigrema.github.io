@@ -4,6 +4,7 @@ title: Vodítka lanová
 cat_slug : konici
 group_slug: ohlavky-voditka-a-cabraky
 slug: voditka-lanova
+has_image: true
 pricing:
   - variant : Vodítko 1,5m s klasickou karabinkou
     price   : 200

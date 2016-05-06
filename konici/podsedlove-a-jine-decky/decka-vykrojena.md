@@ -4,6 +4,7 @@ title: Dečka vykrojená
 cat_slug : konici
 group_slug: podsedlove-a-jine-decky
 slug: decka-vykrojena
+has_image: false
 pricing:
   - variant : Dečka vykrojená
     price   : 790

@@ -4,6 +4,7 @@ title: Poprsák dostihový
 cat_slug : konici
 group_slug: martingaly-poprsaky-a-prislusenstvi
 slug: poprsak-dostihovy
+has_image: false
 pricing:
   - variant : Poprsák nepodložený pony
     price   : 400

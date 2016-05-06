@@ -4,6 +4,7 @@ title: Uzdečka anglická
 cat_slug : konici
 group_slug: uzdecky-a-bezudidlovky
 slug: uzdecka-anglicka
+has_image: true
 pricing:
   - variant : Uzdečka kompletní, nepodložená
     price   : 490

@@ -4,6 +4,7 @@ title: Reflexní bandáže
 cat_slug : konici
 group_slug: ochrana-nohou-a-reflexni-prvky
 slug: reflexni-bandaze
+has_image: true
 pricing:
   - variant : Reflexní bandáže, pony 4ks
     price   : 450

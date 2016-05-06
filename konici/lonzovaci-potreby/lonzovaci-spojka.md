@@ -4,6 +4,7 @@ title: Lonžovací spojka
 cat_slug : konici
 group_slug: lonzovaci-potreby
 slug: lonzovaci-spojka
+has_image: false
 pricing:
   - variant : Lonžovací spojka
     price   : 190

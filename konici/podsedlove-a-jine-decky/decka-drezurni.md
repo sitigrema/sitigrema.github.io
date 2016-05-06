@@ -4,6 +4,7 @@ title: Dečka drezurní
 cat_slug : konici
 group_slug: podsedlove-a-jine-decky
 slug: decka-drezurni
+has_image: true
 pricing:
   - variant : Drezurní dečka
     price   : 890

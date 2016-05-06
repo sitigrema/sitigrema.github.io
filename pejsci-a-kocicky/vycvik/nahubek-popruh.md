@@ -4,6 +4,7 @@ title: Náhubek "Popruh"
 cat_slug : pejsci-a-kocicky
 group_slug: vycvik
 slug: nahubek-popruh
+has_image: false
 pricing:
   - variant : Malý pes
     price   : 120

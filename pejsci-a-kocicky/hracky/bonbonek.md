@@ -4,6 +4,7 @@ title: Bonbonek
 cat_slug : pejsci-a-kocicky
 group_slug: hracky
 slug: bonbonek
+has_image: true
 pricing:
   - variant : Malý pes
     price   : 25

@@ -166,6 +166,11 @@ for id_cat, cat_title in enumerate(CATS):
             pt.write("cat_slug : {}\n".format(cat_slug))
             pt.write("group_slug: {}\n".format(group.slug))
             pt.write("slug: {}\n".format(product.slug))
+            if not os.path.exists(ifile):
+                pt.write("has_image: false\n")
+                ifile = "default.jpg"
+            else:
+                pt.write("has_image: true\n")
             if pprices:
                 pt.write("pricing:\n")
                 for v, c in pprices:
@@ -177,8 +182,6 @@ for id_cat, cat_title in enumerate(CATS):
 
 
 
-            if not os.path.exists(ifile):
-                ifile = "default.jpg"
 
             iffile = cpath + product.slug + ".jpg"
             itfile = cpath + product.slug + "_tn.jpg"
