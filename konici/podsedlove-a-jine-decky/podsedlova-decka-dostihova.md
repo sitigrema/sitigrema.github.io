@@ -7,7 +7,7 @@ slug: podsedlova-decka-dostihova
 has_image: false
 pricing:
   - variant : Dečka pod dostihové sedlo
-    price   : 750
+    price   : 600
 ---
 
 Dostihová dečka v základním provedení je vyrobena pouze z látky, bez výplně.

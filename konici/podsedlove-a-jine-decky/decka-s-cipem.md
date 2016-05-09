@@ -7,7 +7,7 @@ slug: decka-s-cipem
 has_image: true
 pricing:
   - variant : Dečka s cípem
-    price   : 950
+    price   : 750
 ---
 
 Dečka s cípem je v základním provedení vyrobena z látky, s výplní - molitan v síle 0,5cm, 1cm nebo po domluvě i silnější.

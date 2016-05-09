@@ -7,7 +7,7 @@ slug: decka-drezurni
 has_image: true
 pricing:
   - variant : Drezurní dečka
-    price   : 890
+    price   : 690
 ---
 
 Drezurní dečka v základním provedení je vyrobena z látky, s výplní - molitan v síle 0,5cm, 1cm nebo po domluvě i silnější.

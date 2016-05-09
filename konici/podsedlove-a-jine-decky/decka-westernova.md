@@ -7,7 +7,7 @@ slug: decka-westernova
 has_image: true
 pricing:
   - variant : Westernová dečka
-    price   : 1200
+    price   : 790
 ---
 
 Westernová dečka v základním provedení je vyrobena z látky, s výplní - molitan v síle 0,5cm, 1cm nebo po domluvě i silnější.

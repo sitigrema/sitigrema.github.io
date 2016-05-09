@@ -7,7 +7,7 @@ slug: decka-vykrojena
 has_image: false
 pricing:
   - variant : Dečka vykrojená
-    price   : 790
+    price   : 690
 ---
 
 Vykrojená dečka v základním provedení je vyrobena z látky, s výplní - molitan v síle 0,5cm, 1cm nebo po domluvě i silnější.

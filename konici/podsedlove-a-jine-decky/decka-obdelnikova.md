@@ -7,7 +7,7 @@ slug: decka-obdelnikova
 has_image: true
 pricing:
   - variant : Dečka obdélníková
-    price   : 890
+    price   : 690
 ---
 
 Obdélníková dečka v základním provedení je vyrobena z látky, s výplní - molitan v síle 0,5cm, 1cm nebo po domluvě i silnější.

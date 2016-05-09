@@ -7,7 +7,7 @@ slug: decka-pod-lonzovaci-obrisnik
 has_image: true
 pricing:
   - variant : Dečka pod lonžovací obřišník
-    price   : 450
+    price   : 390
 ---
 
 Dečka pod lonžovací obřišník je v základním provedení vyrobena z látky, s výplní - molitan v síle 0,5cm, 1cm nebo po domluvě i silnější.
