@@ -21,7 +21,7 @@ contact:
 
 author:
     name:       imm studios, z.s.
-    email:      produkce@imm.cz
+    email:      martas@imm.cz
     url:        http://imm.cz
     facebook:   https://www.facebook.com/immstudios
     twitter:    https://twitter.com/immstudios
@@ -30,20 +30,17 @@ author:
 # Build options
 #
 
-
 # Additional CSS
 css:
-                - /static/css/font-awesome.min.css
-                - http://fonts.googleapis.com/css?family=Lobster
+    - /static/css/style.css
 
 js:
-                - /static/js/jquery.min.js
-                - /static/js/bootstrap.min.js
-                - /static/js/social.js
-
+    - /static/js/jquery-2.1.4.min.js
+    - /static/js/bootstrap.min.js
+    - /static/js/social.js
 
 include:        ["robots.txt"]
-exclude:        ["_doc", "LICENSE", "README.md"]
+exclude:        ["_doc", "LICENSE", "README.md", "_sources", "build.py"]
 markdown:       kramdown
 sass:
     sass_dir:   _sass

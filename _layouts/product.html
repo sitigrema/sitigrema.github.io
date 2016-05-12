@@ -1,7 +1,5 @@
 ---
 layout: default
-css:
- - /static/css/default.css
 ---
 
 <div class="media">
@@ -11,9 +9,9 @@ css:
   <div class="media-right media-top">
     <a data-toggle="modal" data-target=".bs-modal-sm" >
         {% if page.has_image %}
-        <img class="media-object" alt="{{ page.title }}" src="/{{ page.cat_slug }}/{{ page.group_slug }}/{{ page.slug }}_tn.jpg">
+        <img class="media-object" alt="{{ page.title }}" src="/products/{{ page.cat_slug }}/{{ page.group_slug }}/{{ page.slug }}_tn.jpg">
         {% else %}
-        <img class="media-object" alt="{{ page.title }}" src="/assets/default_tn.jpg">
+        <img class="media-object" alt="{{ page.title }}" src="/static/img/default_tn.jpg">
         {% endif %}
     </a>
   </div>
@@ -25,15 +23,14 @@ css:
     <div class="modal-content">
         <a data-dismiss="modal" data-target=".bs-modal-sm" >
         {% if page.has_image %}
-            <img class="media-object" alt="{{ page.title }}" src="/{{ page.cat_slug }}/{{ page.group_slug }}/{{ page.slug }}.jpg">
+            <img class="media-object" alt="{{ page.title }}" src="/products/{{ page.cat_slug }}/{{ page.group_slug }}/{{ page.slug }}.jpg">
         {% else %}
-            <img class="media-object" alt="{{ page.title }}" src="/assets/default.jpg">
+            <img class="media-object" alt="{{ page.title }}" src="/static/img/default.jpg">
         {% endif %}
         </a>
     </div>
   </div>
 </div>
-
 
 {% if page.pricing %}
 <table id="pricelist" class='table'>

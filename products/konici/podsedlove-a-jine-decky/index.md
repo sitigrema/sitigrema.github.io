@@ -1,0 +1,38 @@
+---
+layout: product_group
+has_image : False
+cat_slug : konici
+title : Podsedlové a jiné dečky
+slug : podsedlove-a-jine-decky
+group_slug : podsedlove-a-jine-decky
+has_index : False
+products:
+  - slug: decka-obdelnikova
+    title: Dečka obdélníková
+    has_image: True
+  - slug: decka-drezurni
+    title: Dečka drezurní
+    has_image: True
+  - slug: decka-pod-lonzovaci-obrisnik
+    title: Dečka pod lonžovací obřišník
+    has_image: True
+  - slug: decka-s-cipem
+    title: Dečka s cípem
+    has_image: True
+  - slug: decka-vykrojena
+    title: Dečka vykrojená
+    has_image: False
+  - slug: decka-westernova
+    title: Dečka westernová
+    has_image: True
+  - slug: decka-skokova
+    title: Dečka skoková
+    has_image: False
+  - slug: podsedlova-decka-dostihova
+    title: Podsedlová dečka dostihová
+    has_image: False
+  - slug: podsedlova-decka-barokni
+    title: Podsedlová dečka barokní
+    has_image: False
+---
+

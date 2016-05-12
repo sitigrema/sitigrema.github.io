@@ -1,0 +1,139 @@
+---
+---
+
+$brand-primary: #ffeadb;
+$brand-primary-highlight: #ffd6b9;
+$panel-background: #ab6431;
+
+
+$body-bg: #f7eee6;
+$text-color: #423224;
+
+$navbar-inverse-bg: $panel-background;
+$navbar-inverse-brand-color: $brand-primary;
+
+$navbar-inverse-link-color: $brand-primary;
+$navbar-inverse-link-hover-color: $brand-primary-highlight;
+
+$list-group-active-color: $text-color;
+
+//
+// Fonts
+//
+
+@import url(/static/css/font-awesome.min.css);
+@import url(https://fonts.googleapis.com/css?family=Lobster);
+@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,700&subset=latin,latin-ext);
+
+//
+// Custom style
+//
+
+@import "_bootstrap";
+
+html {
+    overflow-y: scroll;
+}
+
+body {
+    font-family: "Source Sans Pro";
+    font-weight: 400;
+    padding-top: 70px;
+}
+
+
+a {
+    color: #435C8B;
+}
+
+a:hover {
+    color: #95A7C6;
+}
+
+
+p {
+    color: $text-color;
+}
+
+
+.navbar-brand {
+    font-family: 'Lobster', cursive;
+    font-size: 36px;
+    padding-top:12px;
+}
+
+.navbar-nav {
+    font-weight :600;
+    text-transform: uppercase;
+}
+
+
+.page-header {
+    margin : 0;
+}
+
+h1 {
+    margin-top : 0px;
+}
+
+
+footer {
+    margin: 50px 0;
+}
+
+
+.slide-image {
+    width: 100%;
+}
+
+.carousel-holder {
+    margin-bottom: 30px;
+}
+
+.carousel-control, .item {
+    border-radius: 4px;
+}
+
+
+.modal-content {
+    width:640px;
+    height:400px;
+}
+
+
+.thumbnail {
+    background-color: $panel-background;
+    padding: 0;
+    height: 220px;
+}
+
+
+.caption {
+    padding: 10px;
+    overflow-y: hidden;
+}
+
+
+.caption a {
+    font-size: 13px;
+    color: #FFEADB;
+ }
+
+#pricelist {
+    margin-top: 30px;
+}
+
+#social {
+
+}
+
+#social button {
+    width : 48px;
+    height :48px;
+    color : #eee;
+    font-size: 24px;;
+}
+
+.color_facebook {background-color: #425695;}
+.color_twitter {background-color: #55ACEE;}
+.color_googleplus {background-color: #DD4B39;}

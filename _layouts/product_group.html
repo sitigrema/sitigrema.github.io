@@ -1,7 +1,5 @@
 ---
 layout: default
-css:
- - /static/css/default.css
 ---
 
 {% if page.has_index %}
@@ -10,21 +8,21 @@ css:
   <div class="media-body">
     {{ content | markdownify }}
   </div>
-{% if page.group_image %}
+{% if page.has_image %}
   <div class="media-right media-top">
     <a data-toggle="modal" data-target=".bs-modal-sm" >
-        <img class="media-object" alt="{{ page.title }}" src="/{{ page.cat_slug }}/{{ page.group_slug }}/{{ page.group_slug }}_tn.jpg">
+        <img class="media-object" alt="{{ page.title }}" src="/products/{{ page.cat_slug }}/{{ page.slug }}/index_tn.jpg">
     </a>
   </div>
 {% endif %}
 </div>
 
-{% if page.group_image %}
+{% if page.has_image %}
 <div class="modal fade bs-modal-sm" tabindex="-1" role="dialog" aria-labelledby="Product photo" aria-hidden="true">
   <div class="modal-dialog modal-sm">
     <div class="modal-content">
         <a data-dismiss="modal" data-target=".bs-modal-sm" >
-            <img class="media-object" alt="{{ page.title }}" src="/{{ page.cat_slug }}/{{ page.group_slug }}/{{ page.group_slug }}.jpg">
+            <img class="media-object" alt="{{ page.title }}" src="/products/{{ page.cat_slug }}/{{ page.slug }}/index.jpg">
         </a>
     </div>
   </div>
@@ -34,21 +32,19 @@ css:
 
 
 <div class="row">
-
 {% for product in page.products %}
     <div class="col-sm-4 col-lg-4 col-md-4">
         <div class="thumbnail">
-            <a href="/{{ page.cat_slug }}/{{ page.group_slug }}/{{ product.slug }}.html">
+            <a href="/products/{{ page.cat_slug }}/{{ page.slug }}/{{ product.slug }}.html">
                 {% if product.has_image %}
-                <img src="/{{ page.cat_slug }}/{{ page.group_slug }}/{{ product.slug }}.jpg" alt="{{ product.title }}">
+                <img src="/products/{{ page.cat_slug }}/{{ page.slug }}/{{ product.slug }}.jpg" alt="{{ product.title }}">
                 {% else %}
-                <img src="/assets/default_tn.jpg" alt="{{ product.title }}">
+                <img src="/static/img/default_tn.jpg" alt="{{ product.title }}">
                 {% endif %}
             </a>
             <div class="caption caption-product">
-                <a href="/{{ page.cat_slug }}/{{ page.group_slug }}/{{ product.slug }}.html">{{ product.title }}</a>
+                <a href="/products/{{ page.cat_slug }}/{{ page.slug }}/{{ product.slug }}.html">{{ product.title }}</a>
             </div>
         </div>
-    </div>
-{% endfor %}
+    </div>{% endfor %}
 </div>

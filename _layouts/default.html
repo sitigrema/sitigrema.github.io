@@ -1,29 +1,20 @@
 ---
 layout: base
-css:
- - /static/css/default.css
 ---
 
 {% include navbar.html %}
 
 <div class="container">
     <div class="row">
-
         <div class="col-md-3">
         {% include sidebar.html %}
         </div>
-
-
         <div class="col-md-9">
-
             <div class="page-header">
                 <h1>{{ page.title }}</h1>
             </div>
-
         {{ content }}
         </div> <!-- main column -->
-
-
     </div> <!-- row -->
 </div> <!-- container -->
 

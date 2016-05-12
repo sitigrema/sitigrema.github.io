@@ -1,0 +1,11 @@
+<div class="well">
+    <address>
+        <p>
+        <strong>{{ site.title }}</strong>
+        </p><p>
+        <a href="mailto:{{ site.contact.email }}">{{ site.contact.email }}</a>
+        </p><p>
+        <a href="tel:{{ site.contact.phone | replace: ' ', '' }}">{{ site.contact.phone }}</a>
+        </p>
+    </address>
+</div>

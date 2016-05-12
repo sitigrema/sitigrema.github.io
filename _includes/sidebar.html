@@ -1,19 +1,17 @@
 <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
-{% for cat in site.data.products %}
-    {% if cat.groups %}
+{% for category in site.data.products  %}
+    {% if category.groups %}
     <div class="panel panel-default">
-        <div class="panel-heading" role="tab" id="cat-{{ cat.slug }}">
+        <div class="panel-heading" role="tab" id="cat-{{ category.slug }}">
             <h4 class="panel-title">
-                <a data-toggle="collapse" data-parent="#accordion" href="#collapse-{{ cat.slug }}" aria-expanded="false" aria-controls="collapse-{{ cat.slug }}">{{ cat.title }}</a>
+                <a data-toggle="collapse" data-parent="#accordion" href="#collapse-{{ category.slug }}" aria-expanded="false" aria-controls="collapse-{{ category.slug }}">{{ category.title }}</a>
             </h4>
         </div>
-        <div id="collapse-{{ cat.slug }}" class="panel-collapse collapse{% if page.cat_slug == cat.slug %} in{% endif%}" role="tabpanel" aria-labelledby="cat-{{ cat.slug }}">
+        <div id="collapse-{{ category.slug }}" class="panel-collapse collapse{% if page.cat_slug == category.slug %} in{% endif%}" role="tabpanel" aria-labelledby="cat-{{ category.slug }}">
 
             <div class="list-group">
-            {% for group in cat.groups %}
-                {% if group.products or group.has_index %}
-                <a href="/{{ cat.slug }}/{{ group.slug }}" class="list-group-item{% if group.slug == page.group_slug %} active{% endif %}">{{ group.title }}</a>
-                {% endif %}
+            {% assign sorted_groups = (category.groups | sort: 'title') %}
+            {% for group in sorted_groups %}{% if group.products or group.has_index %}<a href="/products/{{ category.slug }}/{{ group.slug }}" class="list-group-item{% if group.slug == page.group_slug %} active{% endif %}">{{ group.title }}</a>{% endif %}
             {% endfor %}
             </div>
 
@@ -22,7 +20,6 @@
     {% endif %}
 {% endfor %}
 </div>
-
 
 Sdílejte stránku
 <div id="social">
