@@ -39,6 +39,9 @@ js:
     - /static/js/bootstrap.min.js
     - /static/js/social.js
 
+favicons_path:  /static/img/favicons
+theme_color:    AB6431
+
 include:        ["robots.txt"]
 exclude:        ["_doc", "LICENSE", "README.md", "_sources", "build.py"]
 markdown:       kramdown
