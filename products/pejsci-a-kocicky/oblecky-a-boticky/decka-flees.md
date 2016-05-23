@@ -1,12 +1,12 @@
 ---
 layout: product
-has_image : False
 group_title : Oblečky a botičky
 title : Dečka flees
-slug : decka-flees
 cat_slug : pejsci-a-kocicky
 cat_title : Pejsci a kočičky
 group_slug : oblecky-a-boticky
+has_image : False
+slug : decka-flees
 ---
 
 Dečka z fleesu pro pejsky je vyrobena z jedné vrstvy kvalitního fleesu. Barev a barevných kombinací je nepřeberné množství. Přední část může být se zapínáním na suchý zip, nebo přezku, případně i přetahovací přes hlavu. Velikostí je nepřeberné množství. Od pidi pejska - čivavy po irského vlkodava.

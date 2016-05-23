@@ -1,11 +1,11 @@
 ---
 layout: product_group
-has_image : False
-cat_slug : konici
 title : Ochrana nohou a reflexní prvky
-slug : ochrana-nohou-a-reflexni-prvky
+cat_slug : konici
 group_slug : ochrana-nohou-a-reflexni-prvky
+has_image : False
 has_index : False
+slug : ochrana-nohou-a-reflexni-prvky
 products:
   - slug: fleesove-bandaze
     title: Fleesové bandáže

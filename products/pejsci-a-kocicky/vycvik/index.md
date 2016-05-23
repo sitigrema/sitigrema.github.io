@@ -1,11 +1,11 @@
 ---
 layout: product_group
-has_image : False
-cat_slug : pejsci-a-kocicky
 title : Výcvik
-slug : vycvik
+cat_slug : pejsci-a-kocicky
 group_slug : vycvik
+has_image : False
 has_index : False
+slug : vycvik
 products:
   - slug: nahubek-popruh
     title: Náhubek "Popruh"

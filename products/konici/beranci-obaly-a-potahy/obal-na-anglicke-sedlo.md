@@ -1,12 +1,12 @@
 ---
 layout: product
-has_image : True
 group_title : Beránci, obaly a potahy
 title : Obal na anglické sedlo
-slug : obal-na-anglicke-sedlo
 cat_slug : konici
 cat_title : Koníci
 group_slug : beranci-obaly-a-potahy
+has_image : True
+slug : obal-na-anglicke-sedlo
 pricing:
   - variant : Obal na sedlo
     price   : 300

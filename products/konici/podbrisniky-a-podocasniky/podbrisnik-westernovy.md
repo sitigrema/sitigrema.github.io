@@ -1,12 +1,12 @@
 ---
 layout: product
-has_image : True
 group_title : Podbřišníky a podocasníky
 title : Podbřišník westernový
-slug : podbrisnik-westernovy
 cat_slug : konici
 cat_title : Koníci
 group_slug : podbrisniky-a-podocasniky
+has_image : True
+slug : podbrisnik-westernovy
 ---
 
 Podbřišník je v základním provedení bavlněný. 

@@ -35,8 +35,6 @@ css:
     - /static/css/style.css
 
 js:
-    - /static/js/jquery-2.1.4.min.js
-    - /static/js/bootstrap.min.js
     - /static/js/social.js
 
 favicons_path:  /static/img/favicons

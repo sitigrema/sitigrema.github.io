@@ -1,12 +1,12 @@
 ---
 layout: product
-has_image : True
 group_title : Deky a bederní deky na koně
 title : Deka softshell
-slug : deka-softshell
 cat_slug : konici
 cat_title : Koníci
 group_slug : deky-a-bederni-deky-na-kone
+has_image : True
+slug : deka-softshell
 pricing:
   - variant : Deka softshell pony
     price   : 1790

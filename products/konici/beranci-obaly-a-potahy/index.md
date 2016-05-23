@@ -1,11 +1,11 @@
 ---
 layout: product_group
-has_image : False
-cat_slug : konici
 title : Beránci, obaly a potahy
-slug : beranci-obaly-a-potahy
+cat_slug : konici
 group_slug : beranci-obaly-a-potahy
+has_image : False
 has_index : False
+slug : beranci-obaly-a-potahy
 products:
   - slug: obal-na-anglicke-sedlo
     title: Obal na anglické sedlo

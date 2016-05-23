@@ -1,12 +1,12 @@
 ---
 layout: product
-has_image : False
 group_title : Beránci, obaly a potahy
 title : Potah na uzdečku či ohlávku
-slug : potah-na-uzdecku-ci-ohlavku
 cat_slug : konici
 cat_title : Koníci
 group_slug : beranci-obaly-a-potahy
+has_image : False
+slug : potah-na-uzdecku-ci-ohlavku
 ---
 
 Potah na uzdečku či ohlávku - fleesový

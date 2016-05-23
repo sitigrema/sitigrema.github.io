@@ -1,12 +1,12 @@
 ---
 layout: product
-has_image : True
 group_title : Beránci, obaly a potahy
 title : Obal na drezurní sedlo
-slug : obal-na-drezurni-sedlo
 cat_slug : konici
 cat_title : Koníci
 group_slug : beranci-obaly-a-potahy
+has_image : True
+slug : obal-na-drezurni-sedlo
 pricing:
   - variant : Obal na drezurní sedlo
     price   : 390

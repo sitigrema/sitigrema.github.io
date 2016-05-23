@@ -1,12 +1,12 @@
 ---
 layout: product
-has_image : True
 group_title : Ohlávky, vodítka a čabraky
 title : Ohlávka Dually Halter
-slug : ohlavka-dually-halter
 cat_slug : konici
 cat_title : Koníci
 group_slug : ohlavky-voditka-a-cabraky
+has_image : True
+slug : ohlavka-dually-halter
 pricing:
   - variant : Ohlávka Dually Halter nepodložená
     price   : 650

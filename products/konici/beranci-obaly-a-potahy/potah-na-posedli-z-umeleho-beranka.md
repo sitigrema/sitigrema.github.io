@@ -1,12 +1,12 @@
 ---
 layout: product
-has_image : True
 group_title : Beránci, obaly a potahy
 title : Potah na posedlí z umělého beránka
-slug : potah-na-posedli-z-umeleho-beranka
 cat_slug : konici
 cat_title : Koníci
 group_slug : beranci-obaly-a-potahy
+has_image : True
+slug : potah-na-posedli-z-umeleho-beranka
 pricing:
   - variant : Potah na posedlí - umělý beránek
     price   : 450

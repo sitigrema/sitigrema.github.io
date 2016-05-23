@@ -1,11 +1,11 @@
 ---
 layout: product_group
-has_image : False
-cat_slug : konici
 title : Výstavy a předvádění
-slug : vystavy-a-predvadeni
+cat_slug : konici
 group_slug : vystavy-a-predvadeni
+has_image : False
 has_index : False
+slug : vystavy-a-predvadeni
 products:
   - slug: vystavni-a-predvadeci-ohlavky
     title: Výstavní a předváděcí ohlávky

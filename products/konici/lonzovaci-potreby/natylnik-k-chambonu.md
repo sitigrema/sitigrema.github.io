@@ -1,12 +1,12 @@
 ---
 layout: product
-has_image : True
 group_title : Lonžovací potřeby
 title : Nátylník k chambonu
-slug : natylnik-k-chambonu
 cat_slug : konici
 cat_title : Koníci
 group_slug : lonzovaci-potreby
+has_image : True
+slug : natylnik-k-chambonu
 pricing:
   - variant : Nátylník
     price   : 200

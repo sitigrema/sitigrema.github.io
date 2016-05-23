@@ -1,12 +1,12 @@
 ---
 layout: product
-has_image : False
 group_title : Ochrana nohou a reflexní prvky
 title : Chrániče neoprenové
-slug : chranice-neoprenove
 cat_slug : konici
 cat_title : Koníci
 group_slug : ochrana-nohou-a-reflexni-prvky
+has_image : False
+slug : chranice-neoprenove
 pricing:
   - variant : Neoprenové chrániče na přední nohy
     price   : 500

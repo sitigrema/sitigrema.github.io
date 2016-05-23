@@ -1,11 +1,11 @@
 ---
 layout: product_group
-has_image : False
-cat_slug : konici
 title : Třmeny a třmenové řemeny
-slug : trmeny-a-trmenove-remeny
+cat_slug : konici
 group_slug : trmeny-a-trmenove-remeny
+has_image : False
 has_index : False
+slug : trmeny-a-trmenove-remeny
 products:
   - slug: trmeny-barevne
     title: Třmeny barevné

@@ -1,12 +1,12 @@
 ---
 layout: product
-has_image : False
 group_title : Obojky a vodítka
 title : Obojek posuvný
-slug : obojek-posuvny
 cat_slug : pejsci-a-kocicky
 cat_title : Pejsci a kočičky
 group_slug : obojky-a-voditka
+has_image : False
+slug : obojek-posuvny
 pricing:
   - variant : XS (15-25cm)
     price   : 120

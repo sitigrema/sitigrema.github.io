@@ -1,12 +1,12 @@
 ---
 layout: product
-has_image : True
 group_title : Výstavy a předvádění
 title : Výstavní a předváděcí vodítka
-slug : vystavni-a-predvadeci-voditka
 cat_slug : konici
 cat_title : Koníci
 group_slug : vystavy-a-predvadeni
+has_image : True
+slug : vystavni-a-predvadeci-voditka
 pricing:
   - variant : Vodítko 1,5m s klasickou karabinkou
     price   : 200

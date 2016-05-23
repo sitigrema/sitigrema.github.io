@@ -1,11 +1,11 @@
 ---
 layout: product_group
-has_image : False
-cat_slug : pejsci-a-kocicky
 title : Pelíšky a podložky
-slug : pelisky-a-podlozky
+cat_slug : pejsci-a-kocicky
 group_slug : pelisky-a-podlozky
+has_image : False
 has_index : False
+slug : pelisky-a-podlozky
 products:
   - slug: deka
     title: Deka

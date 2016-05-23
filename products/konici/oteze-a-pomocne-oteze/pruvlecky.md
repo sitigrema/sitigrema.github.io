@@ -1,12 +1,12 @@
 ---
 layout: product
-has_image : False
 group_title : Otěže a pomocné otěže
 title : Průvlečky
-slug : pruvlecky
 cat_slug : konici
 cat_title : Koníci
 group_slug : oteze-a-pomocne-oteze
+has_image : False
+slug : pruvlecky
 pricing:
   - variant : Průvlečky s karabinkami
     price   : 450

@@ -1,12 +1,12 @@
 ---
 layout: product
-has_image : True
 group_title : Výstavy a předvádění
 title : Výstavní a předváděcí uzdečky
-slug : vystavni-a-predvadeci-uzdecky
 cat_slug : konici
 cat_title : Koníci
 group_slug : vystavy-a-predvadeni
+has_image : True
+slug : vystavni-a-predvadeci-uzdecky
 pricing:
   - variant : Uzdečka anglická kompletní, nepodložená
     price   : 490

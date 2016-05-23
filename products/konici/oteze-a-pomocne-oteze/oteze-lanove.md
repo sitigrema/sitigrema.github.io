@@ -1,12 +1,12 @@
 ---
 layout: product
-has_image : True
 group_title : Otěže a pomocné otěže
 title : Otěže lanové
-slug : oteze-lanove
 cat_slug : konici
 cat_title : Koníci
 group_slug : oteze-a-pomocne-oteze
+has_image : True
+slug : oteze-lanove
 pricing:
   - variant : Otěže s karabinkami
     price   : 390

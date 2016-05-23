@@ -1,12 +1,12 @@
 ---
 layout: product
-has_image : False
 group_title : Uzdečky a bezudidlovky
 title : Uzdečka westernová
-slug : uzdecka-westernova
 cat_slug : konici
 cat_title : Koníci
 group_slug : uzdecky-a-bezudidlovky
+has_image : False
+slug : uzdecka-westernova
 pricing:
   - variant : Uzdečka bez nánosníku, nepodložená
     price   : 390

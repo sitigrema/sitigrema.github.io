@@ -1,12 +1,12 @@
 ---
 layout: product
-has_image : False
 group_title : Podsedlové a jiné dečky
 title : Dečka vykrojená
-slug : decka-vykrojena
 cat_slug : konici
 cat_title : Koníci
 group_slug : podsedlove-a-jine-decky
+has_image : False
+slug : decka-vykrojena
 pricing:
   - variant : Dečka vykrojená
     price   : 690

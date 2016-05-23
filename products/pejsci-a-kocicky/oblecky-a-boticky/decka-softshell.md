@@ -1,12 +1,12 @@
 ---
 layout: product
-has_image : False
 group_title : Oblečky a botičky
 title : Dečka softshell
-slug : decka-softshell
 cat_slug : pejsci-a-kocicky
 cat_title : Pejsci a kočičky
 group_slug : oblecky-a-boticky
+has_image : False
+slug : decka-softshell
 ---
 
 Dečka ze softshellu je vynikající řešení do ošklivého počasí a zimy, má praktické vlastnosti – nepropustí vodu a úplně neprofoukne. Barev je nepřeberné množství. Přední část může být se zapínáním na suchý zip, nebo přezku, případně i přetahovací přes hlavu. Velikostí je nepřeberné množství - velikost od pidi pejska – čivavy po irského vlkodava.

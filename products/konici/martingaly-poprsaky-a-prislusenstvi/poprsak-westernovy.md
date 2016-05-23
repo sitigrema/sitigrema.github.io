@@ -1,12 +1,12 @@
 ---
 layout: product
-has_image : True
 group_title : Martingaly, poprsáky a příslušenství
 title : Poprsák westernový
-slug : poprsak-westernovy
 cat_slug : konici
 cat_title : Koníci
 group_slug : martingaly-poprsaky-a-prislusenstvi
+has_image : True
+slug : poprsak-westernovy
 pricing:
   - variant : Poprsák nepodložený pony
     price   : 350

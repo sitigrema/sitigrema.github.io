@@ -1,12 +1,12 @@
 ---
 layout: product
-has_image : False
 group_title : Cestování
 title : Reflexní dečka
-slug : reflexni-decka
 cat_slug : pejsci-a-kocicky
 cat_title : Pejsci a kočičky
 group_slug : cestovani
+has_image : False
+slug : reflexni-decka
 pricing:
   - variant : Reflexní dečka XS (obvod hrudníku 20-40cm)
     price   : 490

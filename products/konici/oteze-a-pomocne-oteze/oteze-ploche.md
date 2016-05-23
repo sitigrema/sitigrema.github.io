@@ -1,12 +1,12 @@
 ---
 layout: product
-has_image : True
 group_title : Otěže a pomocné otěže
 title : Otěže ploché
-slug : oteze-ploche
 cat_slug : konici
 cat_title : Koníci
 group_slug : oteze-a-pomocne-oteze
+has_image : True
+slug : oteze-ploche
 pricing:
   - variant : Otěže s přezkami
     price   : 290

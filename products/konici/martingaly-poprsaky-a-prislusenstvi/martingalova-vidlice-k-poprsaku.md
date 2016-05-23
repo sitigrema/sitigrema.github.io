@@ -1,12 +1,12 @@
 ---
 layout: product
-has_image : True
 group_title : Martingaly, poprsáky a příslušenství
 title : Martingalová vidlice k poprsáku
-slug : martingalova-vidlice-k-poprsaku
 cat_slug : konici
 cat_title : Koníci
 group_slug : martingaly-poprsaky-a-prislusenstvi
+has_image : True
+slug : martingalova-vidlice-k-poprsaku
 pricing:
   - variant : Martingalová vidlice, pevná
     price   : 150

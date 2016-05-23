@@ -1,12 +1,12 @@
 ---
 layout: product
-has_image : True
 group_title : Martingaly, poprsáky a příslušenství
 title : Martingal westernový
-slug : martingal-westernovy
 cat_slug : konici
 cat_title : Koníci
 group_slug : martingaly-poprsaky-a-prislusenstvi
+has_image : True
+slug : martingal-westernovy
 pricing:
   - variant : Martingal pony
     price   : 300

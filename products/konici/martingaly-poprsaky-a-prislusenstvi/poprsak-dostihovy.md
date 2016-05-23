@@ -1,12 +1,12 @@
 ---
 layout: product
-has_image : False
 group_title : Martingaly, poprsáky a příslušenství
 title : Poprsák dostihový
-slug : poprsak-dostihovy
 cat_slug : konici
 cat_title : Koníci
 group_slug : martingaly-poprsaky-a-prislusenstvi
+has_image : False
+slug : poprsak-dostihovy
 pricing:
   - variant : Poprsák nepodložený pony
     price   : 400

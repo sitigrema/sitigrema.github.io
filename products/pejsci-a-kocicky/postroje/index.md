@@ -1,11 +1,11 @@
 ---
 layout: product_group
-has_image : False
-cat_slug : pejsci-a-kocicky
 title : Postroje
-slug : postroje
+cat_slug : pejsci-a-kocicky
 group_slug : postroje
+has_image : False
 has_index : False
+slug : postroje
 products:
   - slug: dogtreking
     title: Dogtreking
