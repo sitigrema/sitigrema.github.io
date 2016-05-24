@@ -1,12 +1,12 @@
 ---
 layout: product
-group_title : Obojky a vodítka
-title : Vodítka klasik
-cat_slug : pejsci-a-kocicky
 cat_title : Pejsci a kočičky
+cat_slug : pejsci-a-kocicky
 group_slug : obojky-a-voditka
-has_image : False
+group_title : Obojky a vodítka
+has_image : True
 slug : voditka-klasik
+title : Vodítka klasik
 pricing:
   - variant : Vodítko 1,5m
     price   : 140

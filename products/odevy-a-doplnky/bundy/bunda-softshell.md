@@ -1,12 +1,12 @@
 ---
 layout: product
-group_title : Bundy
-title : Bunda softshell
-cat_slug : odevy-a-doplnky
 cat_title : Oděvy a doplňky
+cat_slug : odevy-a-doplnky
 group_slug : bundy
+group_title : Bundy
 has_image : False
 slug : bunda-softshell
+title : Bunda softshell
 pricing:
   - variant : Bunda fleesová dětská
     price   : 690

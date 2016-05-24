@@ -50,7 +50,7 @@ class GremaProduct():
     def build(self, root_dir):
         #output_dir = os.path.join(self.site_dir, "products", self.meta["cat_slug"], self.meta["group_slug"])
         if not os.path.exists(self.data_path):
-            logging.warning("{} data file does not exist".format(self.slug))
+            logging.warning("{} data file does not exist".format(self.data_path))
             return
 
         # read description and pricelist

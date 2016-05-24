@@ -1,12 +1,12 @@
 ---
 layout: product
-group_title : Bundy
-title : Bunda fleesová
-cat_slug : odevy-a-doplnky
 cat_title : Oděvy a doplňky
+cat_slug : odevy-a-doplnky
 group_slug : bundy
+group_title : Bundy
 has_image : False
 slug : bunda-fleesova
+title : Bunda fleesová
 pricing:
   - variant : Bunda fleesová dětská
     price   : 490

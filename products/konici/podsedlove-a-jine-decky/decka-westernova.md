@@ -1,12 +1,12 @@
 ---
 layout: product
-group_title : Podsedlové a jiné dečky
-title : Dečka westernová
-cat_slug : konici
 cat_title : Koníci
+cat_slug : konici
 group_slug : podsedlove-a-jine-decky
+group_title : Podsedlové a jiné dečky
 has_image : True
 slug : decka-westernova
+title : Dečka westernová
 pricing:
   - variant : Westernová dečka
     price   : 790

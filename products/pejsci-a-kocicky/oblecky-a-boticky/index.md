@@ -1,21 +1,21 @@
 ---
 layout: product_group
-title : Oblečky a botičky
 cat_slug : pejsci-a-kocicky
 group_slug : oblecky-a-boticky
 has_image : False
-has_index : True
 slug : oblecky-a-boticky
+title : Oblečky a botičky
+has_index : True
 products:
   - slug: boticky
     title: Botičky
     has_image: False
   - slug: decka-flees
     title: Dečka flees
-    has_image: False
+    has_image: True
   - slug: decka-softshell
     title: Dečka softshell
-    has_image: False
+    has_image: True
   - slug: decka-zimni
     title: Dečka zimní
     has_image: False

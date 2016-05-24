@@ -1,12 +1,12 @@
 ---
 layout: product
-group_title : Pelíšky a podložky
-title : Pelíšek eko
-cat_slug : pejsci-a-kocicky
 cat_title : Pejsci a kočičky
+cat_slug : pejsci-a-kocicky
 group_slug : pelisky-a-podlozky
-has_image : False
+group_title : Pelíšky a podložky
+has_image : True
 slug : pelisek-eko
+title : Pelíšek eko
 pricing:
   - variant : Pelíšek 30 x 30cm
     price   : 290

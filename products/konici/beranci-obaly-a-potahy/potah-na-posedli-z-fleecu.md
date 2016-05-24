@@ -1,12 +1,12 @@
 ---
 layout: product
-group_title : Beránci, obaly a potahy
-title : Potah na posedlí z fleecu
-cat_slug : konici
 cat_title : Koníci
+cat_slug : konici
 group_slug : beranci-obaly-a-potahy
+group_title : Beránci, obaly a potahy
 has_image : True
 slug : potah-na-posedli-z-fleecu
+title : Potah na posedlí z fleecu
 pricing:
   - variant : Potah na posedlí - fleesový
     price   : 250

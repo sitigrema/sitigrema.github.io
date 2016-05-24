@@ -1,12 +1,12 @@
 ---
 layout: product
-group_title : Ochrana nohou a reflexní prvky
-title : Fleesové bandáže
-cat_slug : konici
 cat_title : Koníci
+cat_slug : konici
 group_slug : ochrana-nohou-a-reflexni-prvky
+group_title : Ochrana nohou a reflexní prvky
 has_image : True
 slug : fleesove-bandaze
+title : Fleesové bandáže
 pricing:
   - variant : Fleesové bandáže 4ks
     price   : 490

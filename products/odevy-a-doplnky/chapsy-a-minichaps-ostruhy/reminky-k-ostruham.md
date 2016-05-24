@@ -1,12 +1,12 @@
 ---
 layout: product
-group_title : Chapsy a minichaps, ostruhy
-title : Řemínky k ostruhám
-cat_slug : odevy-a-doplnky
 cat_title : Oděvy a doplňky
+cat_slug : odevy-a-doplnky
 group_slug : chapsy-a-minichaps-ostruhy
+group_title : Chapsy a minichaps, ostruhy
 has_image : False
 slug : reminky-k-ostruham
+title : Řemínky k ostruhám
 pricing:
   - variant : Řemínky k ostruhám (pár)
     price   : 150

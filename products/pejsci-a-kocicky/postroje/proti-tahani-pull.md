@@ -1,12 +1,12 @@
 ---
 layout: product
-group_title : Postroje
-title : Proti tahání Pull
-cat_slug : pejsci-a-kocicky
 cat_title : Pejsci a kočičky
+cat_slug : pejsci-a-kocicky
 group_slug : postroje
+group_title : Postroje
 has_image : False
 slug : proti-tahani-pull
+title : Proti tahání Pull
 pricing:
   - variant : Postroj XS (obvod hrudníku 20-40cm)
     price   : 250

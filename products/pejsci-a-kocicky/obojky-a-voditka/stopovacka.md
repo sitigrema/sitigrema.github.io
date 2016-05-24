@@ -1,12 +1,12 @@
 ---
 layout: product
-group_title : Obojky a vodítka
-title : Stopovačka
-cat_slug : pejsci-a-kocicky
 cat_title : Pejsci a kočičky
+cat_slug : pejsci-a-kocicky
 group_slug : obojky-a-voditka
+group_title : Obojky a vodítka
 has_image : True
 slug : stopovacka
+title : Stopovačka
 pricing:
   - variant : Stopovačka popruh 5m
     price   : 240

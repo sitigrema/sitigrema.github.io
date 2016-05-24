@@ -1,11 +1,11 @@
 ---
 layout: product_group
-title : Otěže a pomocné otěže
 cat_slug : konici
 group_slug : oteze-a-pomocne-oteze
 has_image : False
-has_index : False
 slug : oteze-a-pomocne-oteze
+title : Otěže a pomocné otěže
+has_index : False
 products:
   - slug: oteze-ploche
     title: Otěže ploché
@@ -21,6 +21,6 @@ products:
     has_image: True
   - slug: pruvlecky
     title: Průvlečky
-    has_image: False
+    has_image: True
 ---
 

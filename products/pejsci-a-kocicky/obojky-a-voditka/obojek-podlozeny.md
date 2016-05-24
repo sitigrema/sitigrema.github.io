@@ -1,12 +1,12 @@
 ---
 layout: product
-group_title : Obojky a vodítka
-title : Obojek podložený
-cat_slug : pejsci-a-kocicky
 cat_title : Pejsci a kočičky
+cat_slug : pejsci-a-kocicky
 group_slug : obojky-a-voditka
+group_title : Obojky a vodítka
 has_image : False
 slug : obojek-podlozeny
+title : Obojek podložený
 pricing:
   - variant : XS (15-25cm)
     price   : 170

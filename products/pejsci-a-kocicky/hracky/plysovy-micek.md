@@ -1,12 +1,12 @@
 ---
 layout: product
-group_title : Hračky
-title : Plyšový míček
-cat_slug : pejsci-a-kocicky
 cat_title : Pejsci a kočičky
+cat_slug : pejsci-a-kocicky
 group_slug : hracky
+group_title : Hračky
 has_image : False
 slug : plysovy-micek
+title : Plyšový míček
 pricing:
   - variant : Míček 5cm
     price   : 20

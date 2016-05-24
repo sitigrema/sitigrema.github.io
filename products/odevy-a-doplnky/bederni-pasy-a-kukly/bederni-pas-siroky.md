@@ -1,12 +1,12 @@
 ---
 layout: product
-group_title : Bederní pásy a kukly
-title : Bederní pás široký
-cat_slug : odevy-a-doplnky
 cat_title : Oděvy a doplňky
+cat_slug : odevy-a-doplnky
 group_slug : bederni-pasy-a-kukly
+group_title : Bederní pásy a kukly
 has_image : False
 slug : bederni-pas-siroky
+title : Bederní pás široký
 pricing:
   - variant : Bederní pás široký
     price   : 250

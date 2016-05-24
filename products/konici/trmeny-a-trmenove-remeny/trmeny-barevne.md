@@ -1,12 +1,12 @@
 ---
 layout: product
-group_title : Třmeny a třmenové řemeny
-title : Třmeny barevné
-cat_slug : konici
 cat_title : Koníci
+cat_slug : konici
 group_slug : trmeny-a-trmenove-remeny
+group_title : Třmeny a třmenové řemeny
 has_image : True
 slug : trmeny-barevne
+title : Třmeny barevné
 pricing:
   - variant : Třmeny
     price   : 590

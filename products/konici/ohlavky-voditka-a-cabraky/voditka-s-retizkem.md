@@ -1,12 +1,12 @@
 ---
 layout: product
-group_title : Ohlávky, vodítka a čabraky
-title : Vodítka s řetízkem
-cat_slug : konici
 cat_title : Koníci
+cat_slug : konici
 group_slug : ohlavky-voditka-a-cabraky
+group_title : Ohlávky, vodítka a čabraky
 has_image : True
 slug : voditka-s-retizkem
+title : Vodítka s řetízkem
 pricing:
   - variant : Vodítko ploché 1,5m s klasickou karabinkou a řetízkem
     price   : 350

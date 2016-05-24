@@ -1,12 +1,12 @@
 ---
 layout: product
-group_title : Podbřišníky a podocasníky
-title : Podbřišník anglický s gumou
-cat_slug : konici
 cat_title : Koníci
+cat_slug : konici
 group_slug : podbrisniky-a-podocasniky
+group_title : Podbřišníky a podocasníky
 has_image : True
 slug : podbrisnik-anglicky-s-gumou
+title : Podbřišník anglický s gumou
 pricing:
   - variant : Podbřišník anglický s gumou do 90cm
     price   : 790

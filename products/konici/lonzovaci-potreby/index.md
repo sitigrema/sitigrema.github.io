@@ -1,11 +1,11 @@
 ---
 layout: product_group
-title : Lonžovací potřeby
 cat_slug : konici
 group_slug : lonzovaci-potreby
 has_image : False
-has_index : False
 slug : lonzovaci-potreby
+title : Lonžovací potřeby
+has_index : False
 products:
   - slug: chambon
     title: Chambon
@@ -13,6 +13,9 @@ products:
   - slug: lonze-a-dvojite-lonze
     title: Lonže a dvojité lonže
     has_image: True
+  - slug: lonzovaci-nanosnik
+    title: Lonžovací nánosník
+    has_image: False
   - slug: lonzovaci-spojka
     title: Lonžovací spojka
     has_image: False

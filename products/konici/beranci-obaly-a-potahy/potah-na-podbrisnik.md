@@ -1,12 +1,12 @@
 ---
 layout: product
-group_title : Beránci, obaly a potahy
-title : Potah na podbřišník
-cat_slug : konici
 cat_title : Koníci
+cat_slug : konici
 group_slug : beranci-obaly-a-potahy
+group_title : Beránci, obaly a potahy
 has_image : False
 slug : potah-na-podbrisnik
+title : Potah na podbřišník
 pricing:
   - variant : Potah na podbřišník - fleesový
     price   : 190

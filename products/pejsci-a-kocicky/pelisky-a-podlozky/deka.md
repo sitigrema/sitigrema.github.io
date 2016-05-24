@@ -1,12 +1,12 @@
 ---
 layout: product
-group_title : Pelíšky a podložky
-title : Deka
-cat_slug : pejsci-a-kocicky
 cat_title : Pejsci a kočičky
+cat_slug : pejsci-a-kocicky
 group_slug : pelisky-a-podlozky
-has_image : False
+group_title : Pelíšky a podložky
+has_image : True
 slug : deka
+title : Deka
 pricing:
   - variant : Deka 100 x 100cm
     price   : 140

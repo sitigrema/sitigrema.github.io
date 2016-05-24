@@ -1,12 +1,12 @@
 ---
 layout: product
-group_title : Beránci, obaly a potahy
-title : Obal na westernové sedlo
-cat_slug : konici
 cat_title : Koníci
+cat_slug : konici
 group_slug : beranci-obaly-a-potahy
+group_title : Beránci, obaly a potahy
 has_image : False
 slug : obal-na-westernove-sedlo
+title : Obal na westernové sedlo
 pricing:
   - variant : Obal na westernové sedlo
     price   : 450

@@ -1,12 +1,12 @@
 ---
 layout: product
-group_title : Ochrana nohou a reflexní prvky
-title : Podložky pod bandáže
-cat_slug : konici
 cat_title : Koníci
+cat_slug : konici
 group_slug : ochrana-nohou-a-reflexni-prvky
+group_title : Ochrana nohou a reflexní prvky
 has_image : True
 slug : podlozky-pod-bandaze
+title : Podložky pod bandáže
 pricing:
   - variant : Podložky, tlouštka 0,5cm, pony, 4ks
     price   : 400

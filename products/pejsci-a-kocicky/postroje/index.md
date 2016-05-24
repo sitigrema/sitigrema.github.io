@@ -1,11 +1,11 @@
 ---
 layout: product_group
-title : Postroje
 cat_slug : pejsci-a-kocicky
 group_slug : postroje
 has_image : False
-has_index : False
 slug : postroje
+title : Postroje
+has_index : False
 products:
   - slug: dogtreking
     title: Dogtreking
@@ -15,7 +15,7 @@ products:
     has_image: False
   - slug: postroj-active
     title: Postroj Active
-    has_image: False
+    has_image: True
   - slug: postroj-cyklo-a-ski
     title: Postroj Cyklo a Ski
     has_image: False

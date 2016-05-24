@@ -1,12 +1,12 @@
 ---
 layout: product
-group_title : Uzdečky a bezudidlovky
-title : Bezudidlová uzdečka Sidepull
-cat_slug : konici
 cat_title : Koníci
+cat_slug : konici
 group_slug : uzdecky-a-bezudidlovky
+group_title : Uzdečky a bezudidlovky
 has_image : True
 slug : bezudidlova-uzdecka-sidepull
+title : Bezudidlová uzdečka Sidepull
 pricing:
   - variant : Bezudidlová uzdečka Sidepull nepodložená
     price   : 590

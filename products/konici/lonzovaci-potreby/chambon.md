@@ -1,12 +1,12 @@
 ---
 layout: product
-group_title : Lonžovací potřeby
-title : Chambon
-cat_slug : konici
 cat_title : Koníci
+cat_slug : konici
 group_slug : lonzovaci-potreby
+group_title : Lonžovací potřeby
 has_image : False
 slug : chambon
+title : Chambon
 pricing:
   - variant : Chambon
     price   : 400

@@ -1,12 +1,12 @@
 ---
 layout: product
-group_title : Cestování
-title : Spojka k autopásu
-cat_slug : pejsci-a-kocicky
 cat_title : Pejsci a kočičky
+cat_slug : pejsci-a-kocicky
 group_slug : cestovani
+group_title : Cestování
 has_image : False
 slug : spojka-k-autopasu
+title : Spojka k autopásu
 pricing:
   - variant : Spojka nastavitelné délky 30-50cm
     price   : 120
