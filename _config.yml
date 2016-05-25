@@ -38,7 +38,7 @@ author:
 
 # Additional CSS
 css:
-    - /static/css/style.js
+    - /static/css/style.css
 
 js:
     - /static/js/social.js
