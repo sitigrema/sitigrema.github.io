@@ -17,13 +17,12 @@ $navbar-inverse-link-hover-color: $brand-primary-highlight;
 
 $list-group-active-color: $text-color;
 
+$footer-height: 80px;
+
 //
 // Fonts
 //
 
-@import url(/static/css/font-awesome.min.css);
-@import url(https://fonts.googleapis.com/css?family=Lobster);
-@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,700&subset=latin,latin-ext);
 
 //
 // Custom style
@@ -33,13 +32,18 @@ $list-group-active-color: $text-color;
 
 html {
     overflow-y: scroll;
+    position: relative;
+    min-height: 100%;
 }
 
 body {
     font-family: "Source Sans Pro";
     font-weight: 400;
     padding-top: 70px;
+    margin-bottom: $footer-height;
 }
+
+
 
 
 a {
@@ -54,6 +58,9 @@ a:hover {
 p {
     color: $text-color;
 }
+
+
+
 
 
 .navbar-brand {
@@ -78,7 +85,11 @@ h1 {
 
 
 footer {
-    margin: 50px 0;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: $footer-height;
+    background-color: #f5f5f5;
 }
 
 
@@ -116,22 +127,16 @@ footer {
 
 .caption a {
     font-size: 13px;
-    color: #FFEADB;
+    color: $brand-primary;
  }
 
 #pricelist {
     margin-top: 30px;
 }
 
-#social {
 
-}
-
-#social button {
-    width : 48px;
-    height :48px;
+#social a {
     color : #eee;
-    font-size: 24px;;
 }
 
 .color_facebook {background-color: #425695;}

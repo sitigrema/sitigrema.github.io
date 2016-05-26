@@ -11,7 +11,7 @@ analytics:      UA-60568686-1
 name:           Grema
 title:          Zakázkové šití Grema
 description:    Výroba chovatelských potřeb a zakázkové šití pro koně, pejsky a další zvířecí miláčky.
-image:          /static/img/default.jpg
+image:          /static/img/cover1.jpg
 keywords:
     - koně
     - šití
@@ -39,6 +39,9 @@ author:
 
 # Additional CSS
 css:
+    - /static/css/font-awesome.min.css
+    - https://fonts.googleapis.com/css?family=Lobster
+    - https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,700&subset=latin,latin-ext
     - /static/css/style.css
 
 js:

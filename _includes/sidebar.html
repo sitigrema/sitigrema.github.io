@@ -21,18 +21,21 @@
 {% endfor %}
 </div>
 
-Sdílejte stránku
 <div id="social">
-    <button class="btn color_facebook" onClick="social('facebook', '{{ site.url }}{{ page.url }}', '{{ page.title }} - {{ site.title }}' )">
-        <i class="fa fa-facebook"></i>
-    </button>
+    <p>
+    Sdílejte stránku
+    </p>
+    <p>
+        <a class="btn color_facebook" onClick="social('facebook', '{{ site.url }}{{ page.url }}', '{{ page.title }} - {{ site.title }}' )">
+            <i class="fa fa-facebook"></i>
+        </a>
 
-    <button class="btn color_twitter" onClick="social('twitter', '{{ site.url }}{{ page.url }}', '{{ page.title }} - {{ site.title }}' )">
-        <i class="fa fa-twitter"></i>
-    </button>
+        <a class="btn color_twitter" onClick="social('twitter', '{{ site.url }}{{ page.url }}', '{{ page.title }} - {{ site.title }}' )">
+            <i class="fa fa-twitter"></i>
+        </a>
 
-    <button class="btn color_googleplus" onClick="social('googleplus', '{{ site.url }}{{ page.url }}', '{{ page.title }} - {{ site.title }}' )">
-        <i class="fa fa-google-plus"></i>
-    </button>
-</div>
-
+        <a class="btn color_googleplus" onClick="social('googleplus', '{{ site.url }}{{ page.url }}', '{{ page.title }} - {{ site.title }}' )">
+            <i class="fa fa-google-plus"></i>
+        </a>
+    </p>
+</div> <!-- end social -->

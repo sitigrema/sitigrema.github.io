@@ -21,7 +21,8 @@
     <!-- CSS -->
     {% for sheet in site.css %}<link rel="stylesheet" href="{{ sheet }}" />
     {% endfor %}{% for sheet in page.css %}<link rel="stylesheet" href="{{ sheet }}" />
-    {% endfor %}{% if site.favicons_path %}<!-- Favicons -->
+    {% endfor %}
+    {% if site.favicons_path %}<!-- Favicons -->
     <link rel="apple-touch-icon" sizes="57x57" href="{{ site.favicons_path }}/apple-icon-57x57.png" />
     <link rel="apple-touch-icon" sizes="60x60" href="{{ site.favicons_path }}/apple-icon-60x60.png" />
     <link rel="apple-touch-icon" sizes="72x72" href="{{ site.favicons_path }}/apple-icon-72x72.png" />
@@ -42,7 +43,7 @@
     <link rel="canonical" href="{{ site.url }}" />
     {% if site.posts %}
     <link rel="alternate" href="{{ site.url }}/atom.xml" type="application/atom+xml" title="{{ site.name }} ATOM Feed" />
-    <link rel="alternate" href="{{ site.url }}/rss.xml" type="application/rss+xml" title="{{ site.name }} RSS Feed" />{% endif%}
+    <link rel="alternate" href="{{ site.url }}/rss.xml" type="application/rss+xml" title="{{ site.name }} RSS Feed" />{% endif %}
 {% include analytics.html %}
 </head>
 <body class="appear-animate">
