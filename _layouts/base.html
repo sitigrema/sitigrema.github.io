@@ -9,11 +9,11 @@
     <meta name="author" content="{{ site.author.name }}" />
     <meta name="robots" content="index, follow" />
 
-    <meta name="og:title" content="{{ page.title }}">
-    <meta name="og:site" content="{{ site.title }}">
-    <meta name="og:url" content="{{ site.url }}{{ page.url }}">
-    <meta name="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
-    <meta name="og:image" content="/static/img/apple-touch-icon-114x114.png">
+    <meta property="og:title" content="{{ page.title }}">
+    <meta property="og:site" content="{{ site.title }}">
+    <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+    <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+    <meta property="og:image" content="/static/img/apple-touch-icon-114x114.png">
 
     <!--[if IE]><meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'><![endif]-->
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
