@@ -1,11 +1,11 @@
 ---
 layout: product_group
-cat_slug : konici
-group_slug : martingaly-poprsaky-a-prislusenstvi
-has_image : False
 slug : martingaly-poprsaky-a-prislusenstvi
 title : Martingaly, poprsáky a příslušenství
 has_index : False
+group_slug : martingaly-poprsaky-a-prislusenstvi
+cat_slug : konici
+has_image : False
 products:
   - slug: martingal-anglicky
     title: Martingal anglický

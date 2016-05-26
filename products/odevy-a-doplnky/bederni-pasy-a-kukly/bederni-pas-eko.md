@@ -1,12 +1,13 @@
 ---
 layout: product
 cat_title : Oděvy a doplňky
-cat_slug : odevy-a-doplnky
-group_slug : bederni-pasy-a-kukly
-group_title : Bederní pásy a kukly
 has_image : False
 slug : bederni-pas-eko
 title : Bederní pás eko
+image : false
+group_slug : bederni-pasy-a-kukly
+cat_slug : odevy-a-doplnky
+group_title : Bederní pásy a kukly
 pricing:
   - variant : Bederní pás eko
     price   : 190

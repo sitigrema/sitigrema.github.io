@@ -1,12 +1,13 @@
 ---
 layout: product
 cat_title : Koníci
-cat_slug : konici
-group_slug : deky-a-bederni-deky-na-kone
-group_title : Deky a bederní deky na koně
 has_image : False
 slug : bederni-deka-fleesova
 title : Bederní deka fleesová
+image : false
+group_slug : deky-a-bederni-deky-na-kone
+cat_slug : konici
+group_title : Deky a bederní deky na koně
 pricing:
   - variant : Bederní deka fleesová pony
     price   : 690

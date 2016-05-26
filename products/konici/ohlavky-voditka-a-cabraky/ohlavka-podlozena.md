@@ -1,12 +1,13 @@
 ---
 layout: product
 cat_title : Koníci
-cat_slug : konici
-group_slug : ohlavky-voditka-a-cabraky
-group_title : Ohlávky, vodítka a čabraky
 has_image : True
 slug : ohlavka-podlozena
 title : Ohlávka podložená
+image : /products/konici/ohlavky-voditka-a-cabraky/ohlavka-podlozena.jpg
+group_slug : ohlavky-voditka-a-cabraky
+cat_slug : konici
+group_title : Ohlávky, vodítka a čabraky
 pricing:
   - variant : Ohlávka podložená
     price   : 690

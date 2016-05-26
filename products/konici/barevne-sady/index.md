@@ -1,11 +1,11 @@
 ---
 layout: product_group
-cat_slug : konici
-group_slug : barevne-sady
-has_image : True
 slug : barevne-sady
 title : Barevné sady
 has_index : True
+group_slug : barevne-sady
+cat_slug : konici
+has_image : True
 products:
 ---
 

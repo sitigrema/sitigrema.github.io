@@ -1,12 +1,13 @@
 ---
 layout: product
 cat_title : Pejsci a kočičky
-cat_slug : pejsci-a-kocicky
-group_slug : oblecky-a-boticky
-group_title : Oblečky a botičky
 has_image : False
 slug : reflexni-program
 title : Reflexní program
+image : false
+group_slug : oblecky-a-boticky
+cat_slug : pejsci-a-kocicky
+group_title : Oblečky a botičky
 ---
 
 Reflexní program je vhodný pro všechny uvědomělé majitele pejsků, kteří venčí i při šeru a po tmě a chtějí, aby jejich pejsek byl řádně vidět.

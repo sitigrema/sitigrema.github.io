@@ -1,12 +1,13 @@
 ---
 layout: product
 cat_title : Pejsci a kočičky
-cat_slug : pejsci-a-kocicky
-group_slug : obojky-a-voditka
-group_title : Obojky a vodítka
 has_image : False
 slug : voditka-zesilena
 title : Vodítka zesílená
+image : false
+group_slug : obojky-a-voditka
+cat_slug : pejsci-a-kocicky
+group_title : Obojky a vodítka
 pricing:
   - variant : Vodítko 1,5m
     price   : 200

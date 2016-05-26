@@ -1,12 +1,13 @@
 ---
 layout: product
 cat_title : Pejsci a kočičky
-cat_slug : pejsci-a-kocicky
-group_slug : cestovani
-group_title : Cestování
 has_image : False
 slug : reflexni-vesta
 title : Reflexní vesta
+image : false
+group_slug : cestovani
+cat_slug : pejsci-a-kocicky
+group_title : Cestování
 pricing:
   - variant : Reflexní vesta XS (obvod hrudníku 20-40cm)
     price   : 200

@@ -1,12 +1,13 @@
 ---
 layout: product
 cat_title : Koníci
-cat_slug : konici
-group_slug : oteze-a-pomocne-oteze
-group_title : Otěže a pomocné otěže
 has_image : True
 slug : jednokarabinove-oteze
 title : Jednokarabinové otěže
+image : /products/konici/oteze-a-pomocne-oteze/jednokarabinove-oteze.jpg
+group_slug : oteze-a-pomocne-oteze
+cat_slug : konici
+group_title : Otěže a pomocné otěže
 pricing:
   - variant : Jednokarabinové otěže ploché
     price   : 300

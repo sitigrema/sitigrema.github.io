@@ -1,12 +1,13 @@
 ---
 layout: product
 cat_title : Koníci
-cat_slug : konici
-group_slug : trmeny-a-trmenove-remeny
-group_title : Třmeny a třmenové řemeny
 has_image : False
 slug : trmenove-remeny-jednoremenne
 title : Třmenové řemeny jednořemenné
+image : false
+group_slug : trmeny-a-trmenove-remeny
+cat_slug : konici
+group_title : Třmeny a třmenové řemeny
 pricing:
   - variant : Třmenové řemeny jednořemenné
     price   : 490

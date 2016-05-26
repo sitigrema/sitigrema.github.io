@@ -37,14 +37,17 @@ class GremaProduct():
 
     @property
     def meta(self):
+        group_slug = self.parent.slug
+        cat_slug = self.parent.parent.slug
         return {
             "slug" : self.slug,
             "title" : self.title,
-            "group_slug" : self.parent.slug,
+            "group_slug" : group_slug,
             "group_title" : self.parent.title,
-            "cat_slug" :  self.parent.parent.slug,
+            "cat_slug" :  cat_slug,
             "cat_title" : self.parent.parent.title,
-            "has_image" : self.has_image
+            "has_image" : self.has_image,
+            "image" : os.path.join("/products", cat_slug, group_slug,  "{}.jpg".format(self.slug)) if self.has_image else "false"
         }
 
     def build(self, root_dir):

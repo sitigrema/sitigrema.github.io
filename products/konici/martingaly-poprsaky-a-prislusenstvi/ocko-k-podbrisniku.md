@@ -1,12 +1,13 @@
 ---
 layout: product
 cat_title : Koníci
-cat_slug : konici
-group_slug : martingaly-poprsaky-a-prislusenstvi
-group_title : Martingaly, poprsáky a příslušenství
 has_image : True
 slug : ocko-k-podbrisniku
 title : Očko k podbřišníku
+image : /products/konici/martingaly-poprsaky-a-prislusenstvi/ocko-k-podbrisniku.jpg
+group_slug : martingaly-poprsaky-a-prislusenstvi
+cat_slug : konici
+group_title : Martingaly, poprsáky a příslušenství
 pricing:
   - variant : Očko na podbřišník
     price   : 50

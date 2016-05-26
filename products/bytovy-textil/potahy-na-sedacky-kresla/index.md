@@ -1,11 +1,11 @@
 ---
 layout: product_group
-cat_slug : bytovy-textil
-group_slug : potahy-na-sedacky-kresla
-has_image : False
 slug : potahy-na-sedacky-kresla
 title : Potahy na sedačky, křesla
 has_index : True
+group_slug : potahy-na-sedacky-kresla
+cat_slug : bytovy-textil
+has_image : False
 products:
 ---
 

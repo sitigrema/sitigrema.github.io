@@ -1,12 +1,13 @@
 ---
 layout: product
 cat_title : Koníci
-cat_slug : konici
-group_slug : uzdecky-a-bezudidlovky
-group_title : Uzdečky a bezudidlovky
 has_image : True
 slug : uzdecka-jednoreminkova
 title : Uzdečka jednořemínková
+image : /products/konici/uzdecky-a-bezudidlovky/uzdecka-jednoreminkova.jpg
+group_slug : uzdecky-a-bezudidlovky
+cat_slug : konici
+group_title : Uzdečky a bezudidlovky
 pricing:
   - variant : Uzdečka jednořemínková, nepodložená
     price   : 190

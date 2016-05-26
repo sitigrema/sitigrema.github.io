@@ -1,12 +1,13 @@
 ---
 layout: product
 cat_title : Koníci
-cat_slug : konici
-group_slug : oteze-a-pomocne-oteze
-group_title : Otěže a pomocné otěže
 has_image : True
 slug : oteze-protiskluzove
 title : Otěže protiskluzové
+image : /products/konici/oteze-a-pomocne-oteze/oteze-protiskluzove.jpg
+group_slug : oteze-a-pomocne-oteze
+cat_slug : konici
+group_title : Otěže a pomocné otěže
 pricing:
   - variant : Otěže s přezkami s protiskluzovou úpravou
     price   : 390

@@ -1,11 +1,11 @@
 ---
 layout: product_group
-cat_slug : pejsci-a-kocicky
-group_slug : obojky-a-voditka
-has_image : False
 slug : obojky-a-voditka
 title : Obojky a vodítka
 has_index : False
+group_slug : obojky-a-voditka
+cat_slug : pejsci-a-kocicky
+has_image : False
 products:
   - slug: obojek-eko
     title: Obojek eko

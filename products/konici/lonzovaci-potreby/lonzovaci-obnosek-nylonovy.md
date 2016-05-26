@@ -1,12 +1,13 @@
 ---
 layout: product
 cat_title : Koníci
-cat_slug : konici
-group_slug : lonzovaci-potreby
-group_title : Lonžovací potřeby
 has_image : False
 slug : lonzovaci-obnosek-nylonovy
 title : Lonžovací obnosek nylonový
+image : false
+group_slug : lonzovaci-potreby
+cat_slug : konici
+group_title : Lonžovací potřeby
 pricing:
   - variant : Lonžovací obnosek nylonový
     price   : 790

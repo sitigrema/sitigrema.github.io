@@ -1,12 +1,13 @@
 ---
 layout: product
 cat_title : Koníci
-cat_slug : konici
-group_slug : podbrisniky-a-podocasniky
-group_title : Podbřišníky a podocasníky
 has_image : True
 slug : podocasnik
 title : Podocasník
+image : /products/konici/podbrisniky-a-podocasniky/podocasnik.jpg
+group_slug : podbrisniky-a-podocasniky
+cat_slug : konici
+group_title : Podbřišníky a podocasníky
 pricing:
   - variant : Podocasník k sedlu
     price   : 490

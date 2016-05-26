@@ -1,12 +1,13 @@
 ---
 layout: product
 cat_title : Pejsci a kočičky
-cat_slug : pejsci-a-kocicky
-group_slug : hracky
-group_title : Hračky
 has_image : True
 slug : bonbonek
 title : Bonbonek
+image : /products/pejsci-a-kocicky/hracky/bonbonek.jpg
+group_slug : hracky
+cat_slug : pejsci-a-kocicky
+group_title : Hračky
 pricing:
   - variant : Malý pes
     price   : 25

@@ -1,12 +1,13 @@
 ---
 layout: product
 cat_title : Koníci
-cat_slug : konici
-group_slug : lonzovaci-potreby
-group_title : Lonžovací potřeby
 has_image : False
 slug : lonzovaci-nanosnik
 title : Lonžovací nánosník
+image : false
+group_slug : lonzovaci-potreby
+cat_slug : konici
+group_title : Lonžovací potřeby
 pricing:
   - variant : Lonžovací nánosník
     price   : 290
