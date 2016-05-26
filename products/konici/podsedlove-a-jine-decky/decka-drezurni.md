@@ -1,13 +1,13 @@
 ---
 layout: product
-cat_title : Koníci
-has_image : True
-slug : decka-drezurni
-title : Dečka drezurní
-image : /products/konici/podsedlove-a-jine-decky/decka-drezurni.jpg
 group_slug : podsedlove-a-jine-decky
-cat_slug : konici
 group_title : Podsedlové a jiné dečky
+title : Dečka drezurní
+cat_title : Koníci
+cat_slug : konici
+slug : decka-drezurni
+has_image : True
+image : /products/konici/podsedlove-a-jine-decky/decka-drezurni.jpg
 pricing:
   - variant : Drezurní dečka
     price   : 690

@@ -1,13 +1,13 @@
 ---
 layout: product
-cat_title : Koníci
-has_image : True
-slug : uzdecka-3-v-1-v-kombinaci-s-klasik-bezudidlovkou-a-bitless-bridle
-title : Uzdečka 3 v 1 v kombinaci s klasik bezudidlovkou a Bitless Bridle
-image : /products/konici/uzdecky-a-bezudidlovky/uzdecka-3-v-1-v-kombinaci-s-klasik-bezudidlovkou-a-bitless-bridle.jpg
 group_slug : uzdecky-a-bezudidlovky
-cat_slug : konici
 group_title : Uzdečky a bezudidlovky
+title : Uzdečka 3 v 1 v kombinaci s klasik bezudidlovkou a Bitless Bridle
+cat_title : Koníci
+cat_slug : konici
+slug : uzdecka-3-v-1-v-kombinaci-s-klasik-bezudidlovkou-a-bitless-bridle
+has_image : True
+image : /products/konici/uzdecky-a-bezudidlovky/uzdecka-3-v-1-v-kombinaci-s-klasik-bezudidlovkou-a-bitless-bridle.jpg
 ---
 
 Skoková dečka v základním provedení je vyrobena z látky, s výplní - molitan v síle 0,5cm, 1cm nebo po domluvě i silnější.

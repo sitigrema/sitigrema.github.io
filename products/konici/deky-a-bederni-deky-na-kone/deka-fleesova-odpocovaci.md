@@ -1,13 +1,13 @@
 ---
 layout: product
-cat_title : Koníci
-has_image : False
-slug : deka-fleesova-odpocovaci
-title : Deka fleesová - odpocovací
-image : false
 group_slug : deky-a-bederni-deky-na-kone
-cat_slug : konici
 group_title : Deky a bederní deky na koně
+title : Deka fleesová - odpocovací
+cat_title : Koníci
+cat_slug : konici
+slug : deka-fleesova-odpocovaci
+has_image : False
+image : false
 pricing:
   - variant : Deka odpocovací fleesová pony
     price   : 790

@@ -1,13 +1,13 @@
 ---
 layout: product
-cat_title : Koníci
-has_image : True
-slug : bezudidlova-uzdecka-bitless-bridle
-title : Bezudidlová uzdečka Bitless Bridle
-image : /products/konici/uzdecky-a-bezudidlovky/bezudidlova-uzdecka-bitless-bridle.jpg
 group_slug : uzdecky-a-bezudidlovky
-cat_slug : konici
 group_title : Uzdečky a bezudidlovky
+title : Bezudidlová uzdečka Bitless Bridle
+cat_title : Koníci
+cat_slug : konici
+slug : bezudidlova-uzdecka-bitless-bridle
+has_image : True
+image : /products/konici/uzdecky-a-bezudidlovky/bezudidlova-uzdecka-bitless-bridle.jpg
 pricing:
   - variant : Bezudidlová uzdečka Bitless Bridle nepodložená
     price   : 590

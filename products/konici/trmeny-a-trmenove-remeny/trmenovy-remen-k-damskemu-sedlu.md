@@ -1,13 +1,13 @@
 ---
 layout: product
-cat_title : Koníci
-has_image : False
-slug : trmenovy-remen-k-damskemu-sedlu
-title : Třmenový řemen k dámskému sedlu
-image : false
 group_slug : trmeny-a-trmenove-remeny
-cat_slug : konici
 group_title : Třmeny a třmenové řemeny
+title : Třmenový řemen k dámskému sedlu
+cat_title : Koníci
+cat_slug : konici
+slug : trmenovy-remen-k-damskemu-sedlu
+has_image : False
+image : false
 pricing:
   - variant : Třmenový řemen k dámskému sedlu
     price   : 230

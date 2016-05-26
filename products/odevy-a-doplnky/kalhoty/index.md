@@ -1,11 +1,11 @@
 ---
 layout: product_group
-slug : kalhoty
-title : Kalhoty
-has_index : False
 group_slug : kalhoty
-cat_slug : odevy-a-doplnky
+has_index : False
+title : Kalhoty
 has_image : False
+cat_slug : odevy-a-doplnky
+slug : kalhoty
 products:
 ---
 

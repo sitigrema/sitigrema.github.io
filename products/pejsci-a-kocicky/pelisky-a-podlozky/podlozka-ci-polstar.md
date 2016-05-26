@@ -1,13 +1,13 @@
 ---
 layout: product
-cat_title : Pejsci a kočičky
-has_image : False
-slug : podlozka-ci-polstar
-title : Podložka či polštář
-image : false
 group_slug : pelisky-a-podlozky
-cat_slug : pejsci-a-kocicky
 group_title : Pelíšky a podložky
+title : Podložka či polštář
+cat_title : Pejsci a kočičky
+cat_slug : pejsci-a-kocicky
+slug : podlozka-ci-polstar
+has_image : False
+image : false
 pricing:
   - variant : Podložka 30 x 30cm
     price   : 190

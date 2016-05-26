@@ -1,13 +1,13 @@
 ---
 layout: product
-cat_title : Pejsci a kočičky
-has_image : False
-slug : voditko-nastavitelne
-title : Vodítko nastavitelné
-image : false
 group_slug : obojky-a-voditka
-cat_slug : pejsci-a-kocicky
 group_title : Obojky a vodítka
+title : Vodítko nastavitelné
+cat_title : Pejsci a kočičky
+cat_slug : pejsci-a-kocicky
+slug : voditko-nastavitelne
+has_image : False
+image : false
 pricing:
   - variant : Vodítko 1,5 – 3m
     price   : 300

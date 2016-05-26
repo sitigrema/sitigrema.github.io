@@ -1,13 +1,13 @@
 ---
 layout: product
-cat_title : Pejsci a kočičky
-has_image : False
-slug : autovak
-title : Autovak
-image : false
 group_slug : cestovani
-cat_slug : pejsci-a-kocicky
 group_title : Cestování
+title : Autovak
+cat_title : Pejsci a kočičky
+cat_slug : pejsci-a-kocicky
+slug : autovak
+has_image : False
+image : false
 pricing:
   - variant : Vak malý (h. 0,65m, š. 1,2m, v.0,6m)
     price   : 1190

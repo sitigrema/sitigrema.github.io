@@ -1,13 +1,13 @@
 ---
 layout: product
-cat_title : Pejsci a kočičky
-has_image : False
-slug : deky
-title : Deky
-image : false
 group_slug : cestovani
-cat_slug : pejsci-a-kocicky
 group_title : Cestování
+title : Deky
+cat_title : Pejsci a kočičky
+cat_slug : pejsci-a-kocicky
+slug : deky
+has_image : False
+image : false
 pricing:
   - variant : Deka 100 x 100cm
     price   : 140

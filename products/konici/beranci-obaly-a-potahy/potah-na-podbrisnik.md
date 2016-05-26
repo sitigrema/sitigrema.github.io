@@ -1,13 +1,13 @@
 ---
 layout: product
-cat_title : Koníci
-has_image : False
-slug : potah-na-podbrisnik
-title : Potah na podbřišník
-image : false
 group_slug : beranci-obaly-a-potahy
-cat_slug : konici
 group_title : Beránci, obaly a potahy
+title : Potah na podbřišník
+cat_title : Koníci
+cat_slug : konici
+slug : potah-na-podbrisnik
+has_image : False
+image : false
 pricing:
   - variant : Potah na podbřišník - fleesový
     price   : 190
@@ -20,7 +20,7 @@ pricing:
 Potah na podbřišník z fleesu
 ----------------------------
 
-Potah na podbřišník je vyráběn fleesu. 
+Potah na podbřišník je vyráběn fleesu.
 Vhodný pro koně co se od podbřišníku odírají a nebo jako modní doplněk pro sladění barvy vašeho setu.
 U objednávky prosím upřesněte jaký podbřišník máte a jeho velikost.
 Možnost objednání různých barev.
@@ -36,7 +36,7 @@ Možnost objednání různých barev.
 Potah na podbřišník z pravého beránka
 -------------------------------------
 
-Potah na podbřišník je vyráběn z pravé ovčí kožešiny. 
+Potah na podbřišník je vyráběn z pravé ovčí kožešiny.
 Vhodný pro koně co se od podbřišníku odírají.
 U objednávky prosím upřesněte jaký podbřišník máte a jeho velikost.
 K dostání v přírodní barvě, tmavě hnědé, černé a v hnědobílé – žíhaná.

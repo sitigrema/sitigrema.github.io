@@ -1,13 +1,13 @@
 ---
 layout: product
-cat_title : Koníci
-has_image : True
-slug : bezudidlova-uzdecka
-title : Bezudidlová uzdečka
-image : /products/konici/uzdecky-a-bezudidlovky/bezudidlova-uzdecka.jpg
 group_slug : uzdecky-a-bezudidlovky
-cat_slug : konici
 group_title : Uzdečky a bezudidlovky
+title : Bezudidlová uzdečka
+cat_title : Koníci
+cat_slug : konici
+slug : bezudidlova-uzdecka
+has_image : True
+image : /products/konici/uzdecky-a-bezudidlovky/bezudidlova-uzdecka.jpg
 pricing:
   - variant : Bezudidlová uzdečka – s kroužky na nánosníku, nepodložená
     price   : 490

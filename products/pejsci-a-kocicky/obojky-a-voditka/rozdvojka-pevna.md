@@ -1,13 +1,13 @@
 ---
 layout: product
-cat_title : Pejsci a kočičky
-has_image : False
-slug : rozdvojka-pevna
-title : Rozdvojka pevná
-image : false
 group_slug : obojky-a-voditka
-cat_slug : pejsci-a-kocicky
 group_title : Obojky a vodítka
+title : Rozdvojka pevná
+cat_title : Pejsci a kočičky
+cat_slug : pejsci-a-kocicky
+slug : rozdvojka-pevna
+has_image : False
+image : false
 pricing:
   - variant : Rozdvojka malý pes pevná
     price   : 150

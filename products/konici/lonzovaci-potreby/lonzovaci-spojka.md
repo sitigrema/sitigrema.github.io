@@ -1,13 +1,13 @@
 ---
 layout: product
-cat_title : Koníci
-has_image : False
-slug : lonzovaci-spojka
-title : Lonžovací spojka
-image : false
 group_slug : lonzovaci-potreby
-cat_slug : konici
 group_title : Lonžovací potřeby
+title : Lonžovací spojka
+cat_title : Koníci
+cat_slug : konici
+slug : lonzovaci-spojka
+has_image : False
+image : false
 pricing:
   - variant : Lonžovací spojka
     price   : 190

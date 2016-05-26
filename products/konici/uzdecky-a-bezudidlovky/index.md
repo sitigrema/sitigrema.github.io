@@ -1,11 +1,11 @@
 ---
 layout: product_group
-slug : uzdecky-a-bezudidlovky
-title : Uzdečky a bezudidlovky
-has_index : False
 group_slug : uzdecky-a-bezudidlovky
-cat_slug : konici
+has_index : False
+title : Uzdečky a bezudidlovky
 has_image : False
+cat_slug : konici
+slug : uzdecky-a-bezudidlovky
 products:
   - slug: bezudidlova-uzdecka
     title: Bezudidlová uzdečka

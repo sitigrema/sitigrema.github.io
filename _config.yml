@@ -9,14 +9,13 @@ url:            http://sitigrema.cz
 language:       cs
 analytics:      UA-60568686-1
 name:           Grema
-title:          Zakázkové šití Grema
+title:          Šití Grema
 description:    Výroba chovatelských potřeb a zakázkové šití pro koně, pejsky a další zvířecí miláčky.
 image:          /static/img/cover1.jpg
 keywords:
-    - koně
     - šití
     - chovatelské potřeby
-    - popruhy
+    - popruh
     - otěže
     - vodítko
 
@@ -39,9 +38,9 @@ author:
 
 # Additional CSS
 css:
-    - /static/css/font-awesome.min.css
     - https://fonts.googleapis.com/css?family=Lobster
     - https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,700&subset=latin,latin-ext
+    - /static/css/font-awesome.min.css
     - /static/css/style.css
 
 js:

@@ -1,13 +1,13 @@
 ---
 layout: product
-cat_title : Pejsci a kočičky
-has_image : True
-slug : postroj-active
-title : Postroj Active
-image : /products/pejsci-a-kocicky/postroje/postroj-active.jpg
 group_slug : postroje
-cat_slug : pejsci-a-kocicky
 group_title : Postroje
+title : Postroj Active
+cat_title : Pejsci a kočičky
+cat_slug : pejsci-a-kocicky
+slug : postroj-active
+has_image : True
+image : /products/pejsci-a-kocicky/postroje/postroj-active.jpg
 pricing:
   - variant : Postroj XS (obvod hrudníku 20-40cm)
     price   : 590

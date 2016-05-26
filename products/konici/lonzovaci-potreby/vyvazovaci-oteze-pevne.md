@@ -1,13 +1,13 @@
 ---
 layout: product
-cat_title : Koníci
-has_image : False
-slug : vyvazovaci-oteze-pevne
-title : Vyvazovací otěže pevné
-image : false
 group_slug : lonzovaci-potreby
-cat_slug : konici
 group_title : Lonžovací potřeby
+title : Vyvazovací otěže pevné
+cat_title : Koníci
+cat_slug : konici
+slug : vyvazovaci-oteze-pevne
+has_image : False
+image : false
 pricing:
   - variant : Vyvazovací otěže, zakončení přezky, pony
     price   : 250

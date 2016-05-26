@@ -1,13 +1,13 @@
 ---
 layout: product
-cat_title : Koníci
-has_image : False
-slug : vystavni-a-predvadeci-ohlavky
-title : Výstavní a předváděcí ohlávky
-image : false
 group_slug : vystavy-a-predvadeni
-cat_slug : konici
 group_title : Výstavy a předvádění
+title : Výstavní a předváděcí ohlávky
+cat_title : Koníci
+cat_slug : konici
+slug : vystavni-a-predvadeci-ohlavky
+has_image : False
+image : false
 pricing:
   - variant : Předváděcí ohlávka
     price   : 350

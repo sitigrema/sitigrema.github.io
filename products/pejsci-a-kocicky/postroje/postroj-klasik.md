@@ -1,13 +1,13 @@
 ---
 layout: product
-cat_title : Pejsci a kočičky
-has_image : False
-slug : postroj-klasik
-title : Postroj Klasik
-image : false
 group_slug : postroje
-cat_slug : pejsci-a-kocicky
 group_title : Postroje
+title : Postroj Klasik
+cat_title : Pejsci a kočičky
+cat_slug : pejsci-a-kocicky
+slug : postroj-klasik
+has_image : False
+image : false
 pricing:
   - variant : Postroj XS (obvod hrudníku 20-40cm)
     price   : 190

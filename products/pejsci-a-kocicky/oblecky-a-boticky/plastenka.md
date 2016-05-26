@@ -1,13 +1,13 @@
 ---
 layout: product
-cat_title : Pejsci a kočičky
-has_image : False
-slug : plastenka
-title : Pláštěnka
-image : false
 group_slug : oblecky-a-boticky
-cat_slug : pejsci-a-kocicky
 group_title : Oblečky a botičky
+title : Pláštěnka
+cat_title : Pejsci a kočičky
+cat_slug : pejsci-a-kocicky
+slug : plastenka
+has_image : False
+image : false
 ---
 
 Pláštěnku pro pejska do nepříznivého počasí vám ušijeme z technické tkaniny. Přední část může být se zapínáním na suchý zip, nebo přezku, případně i přetahovací přes hlavu. Velikostí je nepřeberné množství - velikost od pidi pejska – čivavy po irského vlkodava.

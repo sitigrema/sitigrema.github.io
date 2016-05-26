@@ -1,13 +1,13 @@
 ---
 layout: product
-cat_title : Koníci
-has_image : True
-slug : decka-s-cipem
-title : Dečka s cípem
-image : /products/konici/podsedlove-a-jine-decky/decka-s-cipem.jpg
 group_slug : podsedlove-a-jine-decky
-cat_slug : konici
 group_title : Podsedlové a jiné dečky
+title : Dečka s cípem
+cat_title : Koníci
+cat_slug : konici
+slug : decka-s-cipem
+has_image : True
+image : /products/konici/podsedlove-a-jine-decky/decka-s-cipem.jpg
 pricing:
   - variant : Dečka s cípem
     price   : 750

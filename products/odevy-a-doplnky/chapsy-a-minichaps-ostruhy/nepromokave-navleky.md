@@ -1,13 +1,13 @@
 ---
 layout: product
-cat_title : Oděvy a doplňky
-has_image : False
-slug : nepromokave-navleky
-title : Nepromokavé návleky
-image : false
 group_slug : chapsy-a-minichaps-ostruhy
-cat_slug : odevy-a-doplnky
 group_title : Chapsy a minichaps, ostruhy
+title : Nepromokavé návleky
+cat_title : Oděvy a doplňky
+cat_slug : odevy-a-doplnky
+slug : nepromokave-navleky
+has_image : False
+image : false
 pricing:
   - variant : Návleky eko
     price   : 890

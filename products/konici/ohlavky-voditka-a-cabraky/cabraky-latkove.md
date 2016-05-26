@@ -1,13 +1,13 @@
 ---
 layout: product
-cat_title : Koníci
-has_image : False
-slug : cabraky-latkove
-title : Čabraky látkové
-image : false
 group_slug : ohlavky-voditka-a-cabraky
-cat_slug : konici
 group_title : Ohlávky, vodítka a čabraky
+title : Čabraky látkové
+cat_title : Koníci
+cat_slug : konici
+slug : cabraky-latkove
+has_image : False
+image : false
 pricing:
   - variant : Čabraka látková
     price   : 250

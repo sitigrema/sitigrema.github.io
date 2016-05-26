@@ -1,13 +1,13 @@
 ---
 layout: product
-cat_title : Pejsci a kočičky
-has_image : True
-slug : obojek-eko
-title : Obojek eko
-image : /products/pejsci-a-kocicky/obojky-a-voditka/obojek-eko.jpg
 group_slug : obojky-a-voditka
-cat_slug : pejsci-a-kocicky
 group_title : Obojky a vodítka
+title : Obojek eko
+cat_title : Pejsci a kočičky
+cat_slug : pejsci-a-kocicky
+slug : obojek-eko
+has_image : True
+image : /products/pejsci-a-kocicky/obojky-a-voditka/obojek-eko.jpg
 pricing:
   - variant : XS (15-25cm)
     price   : 90

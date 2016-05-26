@@ -1,13 +1,13 @@
 ---
 layout: product
-cat_title : Koníci
-has_image : False
-slug : bederni-deka-softshell
-title : Bederní deka softshell
-image : false
 group_slug : deky-a-bederni-deky-na-kone
-cat_slug : konici
 group_title : Deky a bederní deky na koně
+title : Bederní deka softshell
+cat_title : Koníci
+cat_slug : konici
+slug : bederni-deka-softshell
+has_image : False
+image : false
 pricing:
   - variant : Bederní deka softshell pony
     price   : 1090
@@ -17,7 +17,7 @@ pricing:
     price   : 1290
 ---
 
-Bederní deka je vyráběna z na lícní straně, rubová strana může být podšitá fleesem, popřípadě za příplatek nukubou či jiným materiálem.
+Bederní deka je na lícní straně softshellová, rubová strana může být podšitá fleesem, popřípadě za příplatek nukubou či jiným materiálem.
 
 Cena bederních dek je uvedená za zakladní provedení s výkrojí na nohu jezdce, v případě zájmu o deku bez výkroje je příplatek 100&nbsp;Kč.
 Zdobení deky například nášivkami, kostičkami, pruhy, ozdobnými šnůrami atd je cena dle spotřeby materiálu a práce.

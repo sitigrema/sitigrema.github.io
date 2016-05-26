@@ -1,13 +1,13 @@
 ---
 layout: product
-cat_title : Koníci
-has_image : True
-slug : decka-obdelnikova
-title : Dečka obdélníková
-image : /products/konici/podsedlove-a-jine-decky/decka-obdelnikova.jpg
 group_slug : podsedlove-a-jine-decky
-cat_slug : konici
 group_title : Podsedlové a jiné dečky
+title : Dečka obdélníková
+cat_title : Koníci
+cat_slug : konici
+slug : decka-obdelnikova
+has_image : True
+image : /products/konici/podsedlove-a-jine-decky/decka-obdelnikova.jpg
 pricing:
   - variant : Dečka obdélníková
     price   : 690

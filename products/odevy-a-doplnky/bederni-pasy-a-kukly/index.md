@@ -1,11 +1,11 @@
 ---
 layout: product_group
-slug : bederni-pasy-a-kukly
-title : Bederní pásy a kukly
-has_index : False
 group_slug : bederni-pasy-a-kukly
-cat_slug : odevy-a-doplnky
+has_index : False
+title : Bederní pásy a kukly
 has_image : False
+cat_slug : odevy-a-doplnky
+slug : bederni-pasy-a-kukly
 products:
   - slug: bederni-pas-eko
     title: Bederní pás eko

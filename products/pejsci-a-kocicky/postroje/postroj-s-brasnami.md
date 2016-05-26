@@ -1,13 +1,13 @@
 ---
 layout: product
-cat_title : Pejsci a kočičky
-has_image : False
-slug : postroj-s-brasnami
-title : Postroj s brašnami
-image : false
 group_slug : postroje
-cat_slug : pejsci-a-kocicky
 group_title : Postroje
+title : Postroj s brašnami
+cat_title : Pejsci a kočičky
+cat_slug : pejsci-a-kocicky
+slug : postroj-s-brasnami
+has_image : False
+image : false
 ---
 
 Máte rádi turistiku nebo dlouhé výlety? Tak postroj s brašnami pro pejska je ideální. V brašnách si může nést krmení, či oblíbenou hračku.

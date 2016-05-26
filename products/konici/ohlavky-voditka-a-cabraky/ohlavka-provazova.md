@@ -1,13 +1,13 @@
 ---
 layout: product
-cat_title : Koníci
-has_image : True
-slug : ohlavka-provazova
-title : Ohlávka provazová
-image : /products/konici/ohlavky-voditka-a-cabraky/ohlavka-provazova.jpg
 group_slug : ohlavky-voditka-a-cabraky
-cat_slug : konici
 group_title : Ohlávky, vodítka a čabraky
+title : Ohlávka provazová
+cat_title : Koníci
+cat_slug : konici
+slug : ohlavka-provazova
+has_image : True
+image : /products/konici/ohlavky-voditka-a-cabraky/ohlavka-provazova.jpg
 pricing:
   - variant : Ohlávka provazová
     price   : 150

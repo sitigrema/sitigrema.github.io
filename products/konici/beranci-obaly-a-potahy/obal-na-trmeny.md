@@ -1,13 +1,13 @@
 ---
 layout: product
-cat_title : Koníci
-has_image : True
-slug : obal-na-trmeny
-title : Obal na třmeny
-image : /products/konici/beranci-obaly-a-potahy/obal-na-trmeny.jpg
 group_slug : beranci-obaly-a-potahy
-cat_slug : konici
 group_title : Beránci, obaly a potahy
+title : Obal na třmeny
+cat_title : Koníci
+cat_slug : konici
+slug : obal-na-trmeny
+has_image : True
+image : /products/konici/beranci-obaly-a-potahy/obal-na-trmeny.jpg
 pricing:
   - variant : Obal na třmeny 2ks
     price   : 150

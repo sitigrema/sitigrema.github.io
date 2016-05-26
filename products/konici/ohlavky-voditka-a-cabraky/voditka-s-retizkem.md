@@ -1,13 +1,13 @@
 ---
 layout: product
-cat_title : Koníci
-has_image : True
-slug : voditka-s-retizkem
-title : Vodítka s řetízkem
-image : /products/konici/ohlavky-voditka-a-cabraky/voditka-s-retizkem.jpg
 group_slug : ohlavky-voditka-a-cabraky
-cat_slug : konici
 group_title : Ohlávky, vodítka a čabraky
+title : Vodítka s řetízkem
+cat_title : Koníci
+cat_slug : konici
+slug : voditka-s-retizkem
+has_image : True
+image : /products/konici/ohlavky-voditka-a-cabraky/voditka-s-retizkem.jpg
 pricing:
   - variant : Vodítko ploché 1,5m s klasickou karabinkou a řetízkem
     price   : 350

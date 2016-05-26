@@ -1,11 +1,11 @@
-<div class="well">
+<div class="well" itemscope itemtype="http://schema.org/LocalBusiness">
     <address>
         <p>
-        <strong>{{ site.title }}</strong>
+        <strong itemprop="name">{{ site.title }}</strong>
         </p><p>
-        <a href="mailto:{{ site.contact.email }}">{{ site.contact.email }}</a>
+        <a itemprop="email" href="mailto:{{ site.contact.email }}">{{ site.contact.email }}</a>
         </p><p>
-        <a href="tel:{{ site.contact.phone | replace: ' ', '' }}">{{ site.contact.phone }}</a>
+        <a itemprop="tel" href="tel:{{ site.contact.phone | replace: ' ', '' }}">{{ site.contact.phone }}</a>
         </p>
     </address>
 </div>

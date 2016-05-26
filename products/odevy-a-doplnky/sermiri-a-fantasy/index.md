@@ -1,11 +1,11 @@
 ---
 layout: product_group
-slug : sermiri-a-fantasy
-title : Šermíři a fantasy
-has_index : False
 group_slug : sermiri-a-fantasy
-cat_slug : odevy-a-doplnky
+has_index : False
+title : Šermíři a fantasy
 has_image : False
+cat_slug : odevy-a-doplnky
+slug : sermiri-a-fantasy
 products:
 ---
 

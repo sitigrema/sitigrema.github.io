@@ -1,13 +1,13 @@
 ---
 layout: product
-cat_title : Pejsci a kočičky
-has_image : False
-slug : pelisek-komfort
-title : Pelíšek komfort
-image : false
 group_slug : pelisky-a-podlozky
-cat_slug : pejsci-a-kocicky
 group_title : Pelíšky a podložky
+title : Pelíšek komfort
+cat_title : Pejsci a kočičky
+cat_slug : pejsci-a-kocicky
+slug : pelisek-komfort
+has_image : False
+image : false
 pricing:
   - variant : Pelíšek 30 x 30cm
     price   : 420

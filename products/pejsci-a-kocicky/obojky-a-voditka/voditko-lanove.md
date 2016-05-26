@@ -1,13 +1,13 @@
 ---
 layout: product
-cat_title : Pejsci a kočičky
-has_image : True
-slug : voditko-lanove
-title : Vodítko lanové
-image : /products/pejsci-a-kocicky/obojky-a-voditka/voditko-lanove.jpg
 group_slug : obojky-a-voditka
-cat_slug : pejsci-a-kocicky
 group_title : Obojky a vodítka
+title : Vodítko lanové
+cat_title : Pejsci a kočičky
+cat_slug : pejsci-a-kocicky
+slug : voditko-lanove
+has_image : True
+image : /products/pejsci-a-kocicky/obojky-a-voditka/voditko-lanove.jpg
 pricing:
   - variant : Vodítko 1,5m
     price   : 180

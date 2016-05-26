@@ -1,11 +1,11 @@
 ---
 layout: product_group
-slug : deky-a-bederni-deky-na-kone
-title : Deky a bederní deky na koně
-has_index : False
 group_slug : deky-a-bederni-deky-na-kone
-cat_slug : konici
+has_index : False
+title : Deky a bederní deky na koně
 has_image : False
+cat_slug : konici
+slug : deky-a-bederni-deky-na-kone
 products:
   - slug: bederni-deka-fleesova
     title: Bederní deka fleesová

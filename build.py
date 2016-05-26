@@ -87,8 +87,8 @@ class GremaProduct():
             image_full_path = os.path.join(root_dir, "{}.jpg".format(self.slug))
             image_thumb_path = os.path.join(root_dir, "{}_tn.jpg".format(self.slug))
 
-            if not os.path.exists(image_full_path):
-                image_full = original_image.resize((640, 400), Image.ANTIALIAS)
+            if os.path.exists(image_full_path):
+                image_full = original_image.resize((800, 500), Image.ANTIALIAS)
                 image_full.save(image_full_path)
 
             if not os.path.exists(image_thumb_path):
@@ -171,7 +171,7 @@ class GremaProductGroup():
             image_full_path = os.path.join(group_dir, "index.jpg")
             image_thumb_path = os.path.join(group_dir, "index_tn.jpg")
 
-            image_full = original_image.resize((640, 400), Image.ANTIALIAS)
+            image_full = original_image.resize((800, 500), Image.ANTIALIAS)
             image_full.save(image_full_path)
             image_thumb = original_image.resize((261, 163), Image.ANTIALIAS)
             image_thumb.save(image_thumb_path)
@@ -220,11 +220,14 @@ class GremaCategory():
         self.groups = []
         index_path = os.path.join(self.data_dir, "index-{}.yml".format(self.slug))
         if not os.path.exists(index_path):
+            logging.error("{} does not exist".format(index_path))
             return
         data = yaml.safe_load(open(index_path))
         if not data:
+            logging.error("No data in {}".format(index_path))
             return
         for group_title in data.keys():
+            logging.debug("Creating category {}".format(group_title))
             group = GremaProductGroup(self, group_title)
             if data[group_title]:
                 for product_title in data[group_title]:
@@ -265,6 +268,7 @@ class GremaSite():
         product_map = []
         root_dir = os.path.join(self.site_dir, "products")
         for category in self.categories:
+            logging.info("Creating category {}".format(category.title))
             category.build(root_dir)
             cmap = category.map
             if cmap["groups"]:

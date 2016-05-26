@@ -1,13 +1,13 @@
 ---
 layout: product
-cat_title : Pejsci a kočičky
-has_image : False
-slug : pretahovadlo
-title : Přetahovadlo
-image : false
 group_slug : hracky
-cat_slug : pejsci-a-kocicky
 group_title : Hračky
+title : Přetahovadlo
+cat_title : Pejsci a kočičky
+cat_slug : pejsci-a-kocicky
+slug : pretahovadlo
+has_image : False
+image : false
 pricing:
   - variant : Přetahovadlo 40cm
     price   : 40

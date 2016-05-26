@@ -1,16 +1,16 @@
 ---
 layout: product_group
-slug : zaclony-a-zavesy
-title : Záclony a závěsy
-has_index : True
 group_slug : zaclony-a-zavesy
-cat_slug : bytovy-textil
+has_index : True
+title : Záclony a závěsy
 has_image : False
+cat_slug : bytovy-textil
+slug : zaclony-a-zavesy
 products:
 ---
 
-Záclony a závěsy šijeme v různých šířkách a délkách i barvách. Při objednávce prosím uveďte možnost zavěšení záclon a poté vám nabídneme vzor záclon dle dostupnosti na skladu na požadovaný rozměr.
+Záclony a závěsy šijeme v různých šířkách a délkách i barvách. Můžeme vám k nim i ušít jakýkoliv doplněk do domácnosti.
 
-Při objednávce definujte rozměr, barvu a možnost zavěšení. K záclonám i závěsům vám můžeme ušít jakýkoliv doplněk do domácnosti.
-
-Cena se odvíjí od spotřebovaného materiálu a práce. Též provádíme úpravy a opravy.
+Při objednávce prosím uveďte kromě rozměrů i možnost zavěšení záclon.
+Poté vám nabídneme vzor záclon dle dostupnosti na skladu na požadovaný rozměr.
+Cena se odvíjí od spotřebovaného materiálu a práce

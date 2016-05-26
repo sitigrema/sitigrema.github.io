@@ -1,13 +1,13 @@
 ---
 layout: product
-cat_title : Koníci
-has_image : True
-slug : deka-softshell
-title : Deka softshell
-image : /products/konici/deky-a-bederni-deky-na-kone/deka-softshell.jpg
 group_slug : deky-a-bederni-deky-na-kone
-cat_slug : konici
 group_title : Deky a bederní deky na koně
+title : Deka softshell
+cat_title : Koníci
+cat_slug : konici
+slug : deka-softshell
+has_image : True
+image : /products/konici/deky-a-bederni-deky-na-kone/deka-softshell.jpg
 pricing:
   - variant : Deka softshell pony
     price   : 1790
