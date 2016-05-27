@@ -53,15 +53,11 @@
     {% if site.posts %}<link rel="alternate" href="{{ site.url }}/atom.xml" type="application/atom+xml" title="{{ site.name }} ATOM Feed" />
     <link rel="alternate" href="{{ site.url }}/rss.xml" type="application/rss+xml" title="{{ site.name }} RSS Feed" />
     {% endif %}
+    <script data-main="/static/js/main" src="/static/js/require.js"></script>
 {% include analytics.html %}
 </head>
 
 <body class="appear-animate">
 {{ content }}
-    <script src="/static/js/jquery.min.js"></script>
-    <script src="/static/js/bootstrap.min.js"></script>
-    {% for script in site.js %}<script src="{{ script }}"></script>
-    {% endfor %}{% for script in page.js %}<script src="{{ script }}"></script>
-    {% endfor %}
 </body>
 </html>

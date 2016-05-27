@@ -9,14 +9,13 @@ $panel-background: #ab6431;
 $body-bg: #f7eee6;
 $text-color: #423224;
 
-$navbar-inverse-bg: $panel-background;
-$navbar-inverse-brand-color: $brand-primary;
-
-$navbar-inverse-link-color: $brand-primary;
-$navbar-inverse-link-hover-color: $brand-primary-highlight;
+$navbar-default-bg: $panel-background;
+$navbar-default-brand-color: $brand-primary;
+$navbar-default-link-color: $brand-primary;
+$navbar-default-link-hover-color: $brand-primary-highlight;
+$navbar-default-link-active-color: $brand-primary-highlight;
 
 $list-group-active-color: $text-color;
-
 $footer-height: 80px;
 
 //
@@ -134,6 +133,10 @@ footer {
     margin-top: 30px;
 }
 
+
+#social {
+    margin-top: 60px;
+}
 
 #social a {
     color : #eee;

@@ -39,3 +39,23 @@ layout: default
 {% endfor %}
 </table>
 {% endif %}
+
+
+<div id="social">
+    <h4>
+        Ukažte tento výrobek svým přátelům
+    </h4>
+    <p>
+        <a class="btn color_facebook" onClick="social('facebook', '{{ site.url }}{{ page.url }}', '{{ page.title }} - {{ site.title }}' )">
+            <i class="fa fa-facebook"></i>
+        </a>
+
+        <a class="btn color_twitter" onClick="social('twitter', '{{ site.url }}{{ page.url }}', '{{ page.title }} - {{ site.title }}' )">
+            <i class="fa fa-twitter"></i>
+        </a>
+
+        <a class="btn color_googleplus" onClick="social('googleplus', '{{ site.url }}{{ page.url }}', '{{ page.title }} - {{ site.title }}' )">
+            <i class="fa fa-google-plus"></i>
+        </a>
+    </p>
+</div> <!-- end social -->

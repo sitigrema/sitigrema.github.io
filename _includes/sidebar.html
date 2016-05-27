@@ -2,40 +2,20 @@
 {% for category in site.data.products  %}
     {% if category.groups %}
     <div class="panel panel-default">
-        <div class="panel-heading" role="tab" id="cat-{{ category.slug }}">
+        <div class="panel-heading" role="tab" data-toggle="collapse" data-parent="#accordion" href="#collapse-{{ category.slug }}" aria-expanded="false" aria-controls="collapse-{{ category.slug }}">
             <h4 class="panel-title">
-                <a data-toggle="collapse" data-parent="#accordion" href="#collapse-{{ category.slug }}" aria-expanded="false" aria-controls="collapse-{{ category.slug }}">{{ category.title }}</a>
+                <a href="">{{ category.title }}</a>
             </h4>
         </div>
         <div id="collapse-{{ category.slug }}" class="panel-collapse collapse{% if page.cat_slug == category.slug %} in{% endif%}" role="tabpanel" aria-labelledby="cat-{{ category.slug }}">
-
             <div class="list-group">
             {% assign sorted_groups = (category.groups | sort: 'title') %}
             {% for group in sorted_groups %}{% if group.products or group.has_index %}<a href="/products/{{ category.slug }}/{{ group.slug }}" class="list-group-item{% if group.slug == page.group_slug %} active{% endif %}">{{ group.title }}</a>{% endif %}
             {% endfor %}
             </div>
-
         </div>
     </div>
     {% endif %}
 {% endfor %}
 </div>
 
-<div id="social">
-    <p>
-    Sdílejte stránku
-    </p>
-    <p>
-        <a class="btn color_facebook" onClick="social('facebook', '{{ site.url }}{{ page.url }}', '{{ page.title }} - {{ site.title }}' )">
-            <i class="fa fa-facebook"></i>
-        </a>
-
-        <a class="btn color_twitter" onClick="social('twitter', '{{ site.url }}{{ page.url }}', '{{ page.title }} - {{ site.title }}' )">
-            <i class="fa fa-twitter"></i>
-        </a>
-
-        <a class="btn color_googleplus" onClick="social('googleplus', '{{ site.url }}{{ page.url }}', '{{ page.title }} - {{ site.title }}' )">
-            <i class="fa fa-google-plus"></i>
-        </a>
-    </p>
-</div> <!-- end social -->
