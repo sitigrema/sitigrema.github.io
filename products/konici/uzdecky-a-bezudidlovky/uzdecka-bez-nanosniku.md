@@ -1,13 +1,13 @@
 ---
 layout: product
+cat_slug : konici
+has_image : True
+title : Uzdečka bez nánosníku
+image : /products/konici/uzdecky-a-bezudidlovky/uzdecka-bez-nanosniku.jpg
+slug : uzdecka-bez-nanosniku
+cat_title : Koníci
 group_slug : uzdecky-a-bezudidlovky
 group_title : Uzdečky a bezudidlovky
-title : Uzdečka bez nánosníku
-cat_title : Koníci
-cat_slug : konici
-slug : uzdecka-bez-nanosniku
-has_image : True
-image : /products/konici/uzdecky-a-bezudidlovky/uzdecka-bez-nanosniku.jpg
 pricing:
   - variant : Uzdečka bez nánosníku, nepodložená
     price   : 390

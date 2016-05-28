@@ -1,13 +1,13 @@
 ---
 layout: product
+cat_slug : pejsci-a-kocicky
+has_image : False
+title : Ohlávka halti s obojkem
+image : false
+slug : ohlavka-halti-s-obojkem
+cat_title : Pejsci a kočičky
 group_slug : vycvik
 group_title : Výcvik
-title : Ohlávka halti s obojkem
-cat_title : Pejsci a kočičky
-cat_slug : pejsci-a-kocicky
-slug : ohlavka-halti-s-obojkem
-has_image : False
-image : false
 pricing:
   - variant : Malý pes
     price   : 290

@@ -1,13 +1,13 @@
 ---
 layout: product
+cat_slug : pejsci-a-kocicky
+has_image : False
+title : Postroj Cyklo a Ski
+image : false
+slug : postroj-cyklo-a-ski
+cat_title : Pejsci a kočičky
 group_slug : postroje
 group_title : Postroje
-title : Postroj Cyklo a Ski
-cat_title : Pejsci a kočičky
-cat_slug : pejsci-a-kocicky
-slug : postroj-cyklo-a-ski
-has_image : False
-image : false
 pricing:
   - variant : Postroj XS (obvod hrudníku 20-40cm)
     price   : 250

@@ -1,13 +1,13 @@
 ---
 layout: product
+cat_slug : pejsci-a-kocicky
+has_image : False
+title : Výcviková ledvinka
+image : false
+slug : vycvikova-ledvinka
+cat_title : Pejsci a kočičky
 group_slug : vycvik
 group_title : Výcvik
-title : Výcviková ledvinka
-cat_title : Pejsci a kočičky
-cat_slug : pejsci-a-kocicky
-slug : vycvikova-ledvinka
-has_image : False
-image : false
 ---
 
 Výcviková ledvinka slouží pro uložení vašich věcí jako klíčů, telefonu a pamlsků pro psa. Neustále ji máte sebou a při ruce. Cena je dle provedení, spotřeby materiálu a práce. Barev nepřeberné množství.

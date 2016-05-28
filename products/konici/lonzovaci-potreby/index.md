@@ -1,11 +1,11 @@
 ---
 layout: product_group
-group_slug : lonzovaci-potreby
-has_index : False
-title : Lonžovací potřeby
-has_image : False
 cat_slug : konici
+has_image : False
+title : Lonžovací potřeby
 slug : lonzovaci-potreby
+has_index : False
+group_slug : lonzovaci-potreby
 products:
   - slug: chambon
     title: Chambon

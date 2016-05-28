@@ -1,13 +1,13 @@
 ---
 layout: product
+cat_slug : konici
+has_image : True
+title : Potah na posedlí z pravého beránka
+image : /products/konici/beranci-obaly-a-potahy/potah-na-posedli-z-praveho-beranka.jpg
+slug : potah-na-posedli-z-praveho-beranka
+cat_title : Koníci
 group_slug : beranci-obaly-a-potahy
 group_title : Beránci, obaly a potahy
-title : Potah na posedlí z pravého beránka
-cat_title : Koníci
-cat_slug : konici
-slug : potah-na-posedli-z-praveho-beranka
-has_image : True
-image : /products/konici/beranci-obaly-a-potahy/potah-na-posedli-z-praveho-beranka.jpg
 pricing:
   - variant : Potah na posedlí - pravý beránek
     price   : 1090

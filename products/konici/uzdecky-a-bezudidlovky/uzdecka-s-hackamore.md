@@ -1,13 +1,13 @@
 ---
 layout: product
+cat_slug : konici
+has_image : False
+title : Uzdečka s Hackamore
+image : false
+slug : uzdecka-s-hackamore
+cat_title : Koníci
 group_slug : uzdecky-a-bezudidlovky
 group_title : Uzdečky a bezudidlovky
-title : Uzdečka s Hackamore
-cat_title : Koníci
-cat_slug : konici
-slug : uzdecka-s-hackamore
-has_image : False
-image : false
 pricing:
   - variant : Uzdečka s Hackamore, nepodložená, pony
     price   : 1390

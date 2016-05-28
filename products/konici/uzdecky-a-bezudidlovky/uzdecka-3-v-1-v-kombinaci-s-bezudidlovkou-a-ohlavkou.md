@@ -1,13 +1,13 @@
 ---
 layout: product
+cat_slug : konici
+has_image : True
+title : Uzdečka 3 v 1 v kombinaci s bezudidlovkou a ohlávkou
+image : /products/konici/uzdecky-a-bezudidlovky/uzdecka-3-v-1-v-kombinaci-s-bezudidlovkou-a-ohlavkou.jpg
+slug : uzdecka-3-v-1-v-kombinaci-s-bezudidlovkou-a-ohlavkou
+cat_title : Koníci
 group_slug : uzdecky-a-bezudidlovky
 group_title : Uzdečky a bezudidlovky
-title : Uzdečka 3 v 1 v kombinaci s bezudidlovkou a ohlávkou
-cat_title : Koníci
-cat_slug : konici
-slug : uzdecka-3-v-1-v-kombinaci-s-bezudidlovkou-a-ohlavkou
-has_image : True
-image : /products/konici/uzdecky-a-bezudidlovky/uzdecka-3-v-1-v-kombinaci-s-bezudidlovkou-a-ohlavkou.jpg
 pricing:
   - variant : Uzdečka v kombinaci s ohlávkou nepodložená
     price   : 790

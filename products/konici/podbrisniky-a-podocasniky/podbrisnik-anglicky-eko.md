@@ -1,13 +1,13 @@
 ---
 layout: product
+cat_slug : konici
+has_image : False
+title : Podbřišník anglický eko
+image : false
+slug : podbrisnik-anglicky-eko
+cat_title : Koníci
 group_slug : podbrisniky-a-podocasniky
 group_title : Podbřišníky a podocasníky
-title : Podbřišník anglický eko
-cat_title : Koníci
-cat_slug : konici
-slug : podbrisnik-anglicky-eko
-has_image : False
-image : false
 pricing:
   - variant : Podbřišník anglický eko do 90cm
     price   : 490

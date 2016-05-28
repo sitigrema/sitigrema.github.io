@@ -1,11 +1,11 @@
 ---
 layout: product_group
-group_slug : pracovni-obleceni
-has_index : False
-title : Pracovní oblečení
-has_image : False
 cat_slug : odevy-a-doplnky
+has_image : False
+title : Pracovní oblečení
 slug : pracovni-obleceni
+has_index : False
+group_slug : pracovni-obleceni
 products:
 ---
 

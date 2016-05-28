@@ -1,13 +1,13 @@
 ---
 layout: product
+cat_slug : pejsci-a-kocicky
+has_image : False
+title : Postroj Komfort
+image : false
+slug : postroj-komfort
+cat_title : Pejsci a kočičky
 group_slug : postroje
 group_title : Postroje
-title : Postroj Komfort
-cat_title : Pejsci a kočičky
-cat_slug : pejsci-a-kocicky
-slug : postroj-komfort
-has_image : False
-image : false
 pricing:
   - variant : Postroj XS (obvod hrudníku 20-40cm)
     price   : 250

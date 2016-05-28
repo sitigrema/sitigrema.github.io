@@ -1,13 +1,13 @@
 ---
 layout: product
+cat_slug : konici
+has_image : True
+title : Uzdečka v kombinaci s provazovou ohlávkou
+image : /products/konici/uzdecky-a-bezudidlovky/uzdecka-v-kombinaci-s-provazovou-ohlavkou.jpg
+slug : uzdecka-v-kombinaci-s-provazovou-ohlavkou
+cat_title : Koníci
 group_slug : uzdecky-a-bezudidlovky
 group_title : Uzdečky a bezudidlovky
-title : Uzdečka v kombinaci s provazovou ohlávkou
-cat_title : Koníci
-cat_slug : konici
-slug : uzdecka-v-kombinaci-s-provazovou-ohlavkou
-has_image : True
-image : /products/konici/uzdecky-a-bezudidlovky/uzdecka-v-kombinaci-s-provazovou-ohlavkou.jpg
 pricing:
   - variant : Uzdečka bez podhrdelníku v kombinaci s provazovou ohlávkou, nepodložená
     price   : 450

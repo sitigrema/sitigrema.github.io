@@ -1,13 +1,13 @@
 ---
 layout: product
+cat_slug : konici
+has_image : True
+title : Ohlávka
+image : /products/konici/ohlavky-voditka-a-cabraky/ohlavka.jpg
+slug : ohlavka
+cat_title : Koníci
 group_slug : ohlavky-voditka-a-cabraky
 group_title : Ohlávky, vodítka a čabraky
-title : Ohlávka
-cat_title : Koníci
-cat_slug : konici
-slug : ohlavka
-has_image : True
-image : /products/konici/ohlavky-voditka-a-cabraky/ohlavka.jpg
 pricing:
   - variant : Ohlávka pony
     price   : 190

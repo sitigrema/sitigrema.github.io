@@ -1,13 +1,13 @@
 ---
 layout: product
+cat_slug : konici
+has_image : False
+title : Podsedlová dečka dostihová
+image : false
+slug : podsedlova-decka-dostihova
+cat_title : Koníci
 group_slug : podsedlove-a-jine-decky
 group_title : Podsedlové a jiné dečky
-title : Podsedlová dečka dostihová
-cat_title : Koníci
-cat_slug : konici
-slug : podsedlova-decka-dostihova
-has_image : False
-image : false
 pricing:
   - variant : Dečka pod dostihové sedlo
     price   : 600

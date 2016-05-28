@@ -1,13 +1,13 @@
 ---
 layout: product
+cat_slug : konici
+has_image : True
+title : Poprsák anglický
+image : /products/konici/martingaly-poprsaky-a-prislusenstvi/poprsak-anglicky.jpg
+slug : poprsak-anglicky
+cat_title : Koníci
 group_slug : martingaly-poprsaky-a-prislusenstvi
 group_title : Martingaly, poprsáky a příslušenství
-title : Poprsák anglický
-cat_title : Koníci
-cat_slug : konici
-slug : poprsak-anglicky
-has_image : True
-image : /products/konici/martingaly-poprsaky-a-prislusenstvi/poprsak-anglicky.jpg
 pricing:
   - variant : Poprsák nepodložený pony
     price   : 350

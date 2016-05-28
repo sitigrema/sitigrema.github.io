@@ -1,13 +1,13 @@
 ---
 layout: product
+cat_slug : konici
+has_image : True
+title : Podbřišník jednopřezkový
+image : /products/konici/podbrisniky-a-podocasniky/podbrisnik-jednoprezkovy.jpg
+slug : podbrisnik-jednoprezkovy
+cat_title : Koníci
 group_slug : podbrisniky-a-podocasniky
 group_title : Podbřišníky a podocasníky
-title : Podbřišník jednopřezkový
-cat_title : Koníci
-cat_slug : konici
-slug : podbrisnik-jednoprezkovy
-has_image : True
-image : /products/konici/podbrisniky-a-podocasniky/podbrisnik-jednoprezkovy.jpg
 pricing:
   - variant : Podbřišník jednopřezkový do 90cm
     price   : 390

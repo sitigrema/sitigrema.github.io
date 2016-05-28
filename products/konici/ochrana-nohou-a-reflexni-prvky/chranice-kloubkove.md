@@ -1,13 +1,13 @@
 ---
 layout: product
+cat_slug : konici
+has_image : False
+title : Chrániče kloubkové
+image : false
+slug : chranice-kloubkove
+cat_title : Koníci
 group_slug : ochrana-nohou-a-reflexni-prvky
 group_title : Ochrana nohou a reflexní prvky
-title : Chrániče kloubkové
-cat_title : Koníci
-cat_slug : konici
-slug : chranice-kloubkove
-has_image : False
-image : false
 pricing:
   - variant : Neoprenové kloubkové chrániče na přední nohy
     price   : 690

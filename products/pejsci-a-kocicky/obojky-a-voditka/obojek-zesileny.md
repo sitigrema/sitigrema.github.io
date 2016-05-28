@@ -1,13 +1,13 @@
 ---
 layout: product
+cat_slug : pejsci-a-kocicky
+has_image : True
+title : Obojek zesílený
+image : /products/pejsci-a-kocicky/obojky-a-voditka/obojek-zesileny.jpg
+slug : obojek-zesileny
+cat_title : Pejsci a kočičky
 group_slug : obojky-a-voditka
 group_title : Obojky a vodítka
-title : Obojek zesílený
-cat_title : Pejsci a kočičky
-cat_slug : pejsci-a-kocicky
-slug : obojek-zesileny
-has_image : True
-image : /products/pejsci-a-kocicky/obojky-a-voditka/obojek-zesileny.jpg
 pricing:
   - variant : XS (15-25cm)
     price   : 170

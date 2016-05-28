@@ -1,13 +1,13 @@
 ---
 layout: product
+cat_slug : pejsci-a-kocicky
+has_image : False
+title : Pamlskovníky
+image : false
+slug : pamlskovniky
+cat_title : Pejsci a kočičky
 group_slug : vycvik
 group_title : Výcvik
-title : Pamlskovníky
-cat_title : Pejsci a kočičky
-cat_slug : pejsci-a-kocicky
-slug : pamlskovniky
-has_image : False
-image : false
 pricing:
   - variant : Pamlskovník 10x10cm
     price   : 90

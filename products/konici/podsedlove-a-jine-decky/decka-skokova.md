@@ -1,13 +1,13 @@
 ---
 layout: product
+cat_slug : konici
+has_image : True
+title : Dečka skoková
+image : /products/konici/podsedlove-a-jine-decky/decka-skokova.jpg
+slug : decka-skokova
+cat_title : Koníci
 group_slug : podsedlove-a-jine-decky
 group_title : Podsedlové a jiné dečky
-title : Dečka skoková
-cat_title : Koníci
-cat_slug : konici
-slug : decka-skokova
-has_image : True
-image : /products/konici/podsedlove-a-jine-decky/decka-skokova.jpg
 pricing:
   - variant : Uzdečka 3 v 1 nepodložená
     price   : 890

@@ -1,13 +1,13 @@
 ---
 layout: product
+cat_slug : pejsci-a-kocicky
+has_image : False
+title : Pešek
+image : false
+slug : pesek
+cat_title : Pejsci a kočičky
 group_slug : hracky
 group_title : Hračky
-title : Pešek
-cat_title : Pejsci a kočičky
-cat_slug : pejsci-a-kocicky
-slug : pesek
-has_image : False
-image : false
 pricing:
   - variant : Malý pes
     price   : 60

@@ -1,13 +1,13 @@
 ---
 layout: product
+cat_slug : pejsci-a-kocicky
+has_image : False
+title : Rozdvojka pružná
+image : false
+slug : rozdvojka-pruzna
+cat_title : Pejsci a kočičky
 group_slug : obojky-a-voditka
 group_title : Obojky a vodítka
-title : Rozdvojka pružná
-cat_title : Pejsci a kočičky
-cat_slug : pejsci-a-kocicky
-slug : rozdvojka-pruzna
-has_image : False
-image : false
 pricing:
   - variant : Rozdvojka malý pes pružná
     price   : 150

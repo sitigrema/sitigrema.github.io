@@ -1,13 +1,13 @@
 ---
 layout: product
+cat_slug : pejsci-a-kocicky
+has_image : False
+title : Vodítko Pružné
+image : false
+slug : voditko-pruzne
+cat_title : Pejsci a kočičky
 group_slug : obojky-a-voditka
 group_title : Obojky a vodítka
-title : Vodítko Pružné
-cat_title : Pejsci a kočičky
-cat_slug : pejsci-a-kocicky
-slug : voditko-pruzne
-has_image : False
-image : false
 pricing:
   - variant : Vodítko ploché pružné
     price   : 220

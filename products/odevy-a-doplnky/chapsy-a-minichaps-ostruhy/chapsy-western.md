@@ -1,13 +1,13 @@
 ---
 layout: product
+cat_slug : odevy-a-doplnky
+has_image : False
+title : Chapsy western
+image : false
+slug : chapsy-western
+cat_title : Oděvy a doplňky
 group_slug : chapsy-a-minichaps-ostruhy
 group_title : Chapsy a minichaps, ostruhy
-title : Chapsy western
-cat_title : Oděvy a doplňky
-cat_slug : odevy-a-doplnky
-slug : chapsy-western
-has_image : False
-image : false
 pricing:
   - variant : Chapsy western
     price   : 1490

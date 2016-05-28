@@ -1,13 +1,13 @@
 ---
 layout: product
+cat_slug : konici
+has_image : True
+title : Vodítka lanová
+image : /products/konici/ohlavky-voditka-a-cabraky/voditka-lanova.jpg
+slug : voditka-lanova
+cat_title : Koníci
 group_slug : ohlavky-voditka-a-cabraky
 group_title : Ohlávky, vodítka a čabraky
-title : Vodítka lanová
-cat_title : Koníci
-cat_slug : konici
-slug : voditka-lanova
-has_image : True
-image : /products/konici/ohlavky-voditka-a-cabraky/voditka-lanova.jpg
 pricing:
   - variant : Vodítko 1,5m s klasickou karabinkou
     price   : 200

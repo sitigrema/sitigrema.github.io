@@ -1,13 +1,13 @@
 ---
 layout: product
+cat_slug : konici
+has_image : False
+title : Ohlávka s beránkem
+image : false
+slug : ohlavka-s-berankem
+cat_title : Koníci
 group_slug : ohlavky-voditka-a-cabraky
 group_title : Ohlávky, vodítka a čabraky
-title : Ohlávka s beránkem
-cat_title : Koníci
-cat_slug : konici
-slug : ohlavka-s-berankem
-has_image : False
-image : false
 pricing:
   - variant : Ohlávka s beránkem, pony
     price   : 890

@@ -1,13 +1,13 @@
 ---
 layout: product
+cat_slug : konici
+has_image : False
+title : Vyvazovací otěže pevné
+image : false
+slug : vyvazovaci-oteze-pevne
+cat_title : Koníci
 group_slug : lonzovaci-potreby
 group_title : Lonžovací potřeby
-title : Vyvazovací otěže pevné
-cat_title : Koníci
-cat_slug : konici
-slug : vyvazovaci-oteze-pevne
-has_image : False
-image : false
 pricing:
   - variant : Vyvazovací otěže, zakončení přezky, pony
     price   : 250
@@ -28,6 +28,6 @@ pricing:
 ---
 
 Vyvazovaní otěže jsou vyrobeny z nylonových popruhů s kováním.
-Otěže jsou nastavitelné.
-Možnost objednání různých barev.
+
+Otěže jsou nastavitelné a můžete si je objednat v různých barvách.
 

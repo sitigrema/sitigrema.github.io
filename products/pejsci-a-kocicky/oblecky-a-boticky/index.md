@@ -1,11 +1,11 @@
 ---
 layout: product_group
-group_slug : oblecky-a-boticky
-has_index : True
-title : Oblečky a botičky
-has_image : False
 cat_slug : pejsci-a-kocicky
+has_image : False
+title : Oblečky a botičky
 slug : oblecky-a-boticky
+has_index : True
+group_slug : oblecky-a-boticky
 products:
   - slug: boticky
     title: Botičky

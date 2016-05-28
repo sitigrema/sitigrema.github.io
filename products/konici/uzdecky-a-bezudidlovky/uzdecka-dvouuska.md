@@ -1,13 +1,13 @@
 ---
 layout: product
+cat_slug : konici
+has_image : False
+title : Uzdečka dvouuška
+image : false
+slug : uzdecka-dvouuska
+cat_title : Koníci
 group_slug : uzdecky-a-bezudidlovky
 group_title : Uzdečky a bezudidlovky
-title : Uzdečka dvouuška
-cat_title : Koníci
-cat_slug : konici
-slug : uzdecka-dvouuska
-has_image : False
-image : false
 pricing:
   - variant : Uzdečka dvouuška, nepodložená
     price   : 390

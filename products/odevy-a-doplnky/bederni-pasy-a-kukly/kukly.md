@@ -1,13 +1,13 @@
 ---
 layout: product
+cat_slug : odevy-a-doplnky
+has_image : False
+title : Kukly
+image : false
+slug : kukly
+cat_title : Oděvy a doplňky
 group_slug : bederni-pasy-a-kukly
 group_title : Bederní pásy a kukly
-title : Kukly
-cat_title : Oděvy a doplňky
-cat_slug : odevy-a-doplnky
-slug : kukly
-has_image : False
-image : false
 pricing:
   - variant : Kukla eko
     price   : 190

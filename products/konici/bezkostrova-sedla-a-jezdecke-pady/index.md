@@ -1,11 +1,11 @@
 ---
 layout: product_group
-group_slug : bezkostrova-sedla-a-jezdecke-pady
-has_index : False
-title : Bezkostrová sedla a jezdecké pady
-has_image : False
 cat_slug : konici
+has_image : False
+title : Bezkostrová sedla a jezdecké pady
 slug : bezkostrova-sedla-a-jezdecke-pady
+has_index : False
+group_slug : bezkostrova-sedla-a-jezdecke-pady
 products:
 ---
 

@@ -1,13 +1,13 @@
 ---
 layout: product
+cat_slug : konici
+has_image : True
+title : Vodítka plochá
+image : /products/konici/ohlavky-voditka-a-cabraky/voditka-plocha.jpg
+slug : voditka-plocha
+cat_title : Koníci
 group_slug : ohlavky-voditka-a-cabraky
 group_title : Ohlávky, vodítka a čabraky
-title : Vodítka plochá
-cat_title : Koníci
-cat_slug : konici
-slug : voditka-plocha
-has_image : True
-image : /products/konici/ohlavky-voditka-a-cabraky/voditka-plocha.jpg
 pricing:
   - variant : Vodítko 1,5m s klasickou karabinkou
     price   : 150

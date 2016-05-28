@@ -1,11 +1,11 @@
 ---
 layout: product_group
-group_slug : podbrisniky-a-podocasniky
-has_index : False
-title : Podbřišníky a podocasníky
-has_image : False
 cat_slug : konici
+has_image : False
+title : Podbřišníky a podocasníky
 slug : podbrisniky-a-podocasniky
+has_index : False
+group_slug : podbrisniky-a-podocasniky
 products:
   - slug: podbrisnik-anglicky-s-gumou
     title: Podbřišník anglický s gumou

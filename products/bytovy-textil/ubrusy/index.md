@@ -1,11 +1,11 @@
 ---
 layout: product_group
-group_slug : ubrusy
-has_index : True
-title : Ubrusy
-has_image : False
 cat_slug : bytovy-textil
+has_image : False
+title : Ubrusy
 slug : ubrusy
+has_index : True
+group_slug : ubrusy
 products:
 ---
 

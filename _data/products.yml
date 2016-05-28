@@ -1,46 +1,51 @@
 - groups:
   - cat_slug: konici
-    group_slug: barevne-sady
-    has_image: true
-    has_index: true
-    products: []
-    slug: barevne-sady
-    title: "Barevn\xE9 sady"
-  - cat_slug: konici
-    group_slug: martingaly-poprsaky-a-prislusenstvi
+    group_slug: deky-a-bederni-deky-na-kone
     has_image: false
     has_index: false
     products:
-    - {cat_slug: konici, cat_title: "Kon\xEDci", group_slug: martingaly-poprsaky-a-prislusenstvi,
-      group_title: "Martingaly, poprs\xE1ky a p\u0159\xEDslu\u0161enstv\xED", has_image: true,
-      image: /products/konici/martingaly-poprsaky-a-prislusenstvi/martingal-anglicky.jpg,
-      slug: martingal-anglicky, title: "Martingal anglick\xFD"}
-    - {cat_slug: konici, cat_title: "Kon\xEDci", group_slug: martingaly-poprsaky-a-prislusenstvi,
-      group_title: "Martingaly, poprs\xE1ky a p\u0159\xEDslu\u0161enstv\xED", has_image: true,
-      image: /products/konici/martingaly-poprsaky-a-prislusenstvi/martingal-westernovy.jpg,
-      slug: martingal-westernovy, title: "Martingal westernov\xFD"}
-    - {cat_slug: konici, cat_title: "Kon\xEDci", group_slug: martingaly-poprsaky-a-prislusenstvi,
-      group_title: "Martingaly, poprs\xE1ky a p\u0159\xEDslu\u0161enstv\xED", has_image: true,
-      image: /products/konici/martingaly-poprsaky-a-prislusenstvi/martingalova-vidlice-k-poprsaku.jpg,
-      slug: martingalova-vidlice-k-poprsaku, title: "Martingalov\xE1 vidlice k poprs\xE1\
-        ku"}
-    - {cat_slug: konici, cat_title: "Kon\xEDci", group_slug: martingaly-poprsaky-a-prislusenstvi,
-      group_title: "Martingaly, poprs\xE1ky a p\u0159\xEDslu\u0161enstv\xED", has_image: true,
-      image: /products/konici/martingaly-poprsaky-a-prislusenstvi/ocko-k-podbrisniku.jpg,
-      slug: ocko-k-podbrisniku, title: "O\u010Dko k\_podb\u0159i\u0161n\xEDku"}
-    - {cat_slug: konici, cat_title: "Kon\xEDci", group_slug: martingaly-poprsaky-a-prislusenstvi,
-      group_title: "Martingaly, poprs\xE1ky a p\u0159\xEDslu\u0161enstv\xED", has_image: true,
-      image: /products/konici/martingaly-poprsaky-a-prislusenstvi/poprsak-anglicky.jpg,
-      slug: poprsak-anglicky, title: "Poprs\xE1k anglick\xFD"}
-    - {cat_slug: konici, cat_title: "Kon\xEDci", group_slug: martingaly-poprsaky-a-prislusenstvi,
-      group_title: "Martingaly, poprs\xE1ky a p\u0159\xEDslu\u0161enstv\xED", has_image: false,
-      image: 'false', slug: poprsak-dostihovy, title: "Poprs\xE1k dostihov\xFD"}
-    - {cat_slug: konici, cat_title: "Kon\xEDci", group_slug: martingaly-poprsaky-a-prislusenstvi,
-      group_title: "Martingaly, poprs\xE1ky a p\u0159\xEDslu\u0161enstv\xED", has_image: true,
-      image: /products/konici/martingaly-poprsaky-a-prislusenstvi/poprsak-westernovy.jpg,
-      slug: poprsak-westernovy, title: "Poprs\xE1k westernov\xFD"}
-    slug: martingaly-poprsaky-a-prislusenstvi
-    title: "Martingaly, poprs\xE1ky a p\u0159\xEDslu\u0161enstv\xED"
+    - {cat_slug: konici, cat_title: "Kon\xEDci", group_slug: deky-a-bederni-deky-na-kone,
+      group_title: "Deky a bedern\xED deky na kon\u011B", has_image: false, image: 'false',
+      slug: bederni-deka-fleesova, title: "Bedern\xED deka fleesov\xE1"}
+    - {cat_slug: konici, cat_title: "Kon\xEDci", group_slug: deky-a-bederni-deky-na-kone,
+      group_title: "Deky a bedern\xED deky na kon\u011B", has_image: false, image: 'false',
+      slug: bederni-deka-softshell, title: "Bedern\xED deka softshell"}
+    - {cat_slug: konici, cat_title: "Kon\xEDci", group_slug: deky-a-bederni-deky-na-kone,
+      group_title: "Deky a bedern\xED deky na kon\u011B", has_image: false, image: 'false',
+      slug: deka-fleesova-odpocovaci, title: "Deka fleesov\xE1 - odpocovac\xED"}
+    - {cat_slug: konici, cat_title: "Kon\xEDci", group_slug: deky-a-bederni-deky-na-kone,
+      group_title: "Deky a bedern\xED deky na kon\u011B", has_image: true, image: /products/konici/deky-a-bederni-deky-na-kone/deka-softshell.jpg,
+      slug: deka-softshell, title: Deka softshell}
+    slug: deky-a-bederni-deky-na-kone
+    title: "Deky a bedern\xED deky na kon\u011B"
+  - cat_slug: konici
+    group_slug: podbrisniky-a-podocasniky
+    has_image: false
+    has_index: false
+    products:
+    - {cat_slug: konici, cat_title: "Kon\xEDci", group_slug: podbrisniky-a-podocasniky,
+      group_title: "Podb\u0159i\u0161n\xEDky a podocasn\xEDky", has_image: true, image: /products/konici/podbrisniky-a-podocasniky/podbrisnik-anglicky-s-gumou.jpg,
+      slug: podbrisnik-anglicky-s-gumou, title: "Podb\u0159i\u0161n\xEDk anglick\xFD\
+        \ s gumou"}
+    - {cat_slug: konici, cat_title: "Kon\xEDci", group_slug: podbrisniky-a-podocasniky,
+      group_title: "Podb\u0159i\u0161n\xEDky a podocasn\xEDky", has_image: false,
+      image: 'false', slug: podbrisnik-anglicky-eko, title: "Podb\u0159i\u0161n\xED\
+        k anglick\xFD eko"}
+    - {cat_slug: konici, cat_title: "Kon\xEDci", group_slug: podbrisniky-a-podocasniky,
+      group_title: "Podb\u0159i\u0161n\xEDky a podocasn\xEDky", has_image: true, image: /products/konici/podbrisniky-a-podocasniky/podbrisnik-drezurni.jpg,
+      slug: podbrisnik-drezurni, title: "Podb\u0159i\u0161n\xEDk drezurn\xED"}
+    - {cat_slug: konici, cat_title: "Kon\xEDci", group_slug: podbrisniky-a-podocasniky,
+      group_title: "Podb\u0159i\u0161n\xEDky a podocasn\xEDky", has_image: true, image: /products/konici/podbrisniky-a-podocasniky/podbrisnik-jednoprezkovy.jpg,
+      slug: podbrisnik-jednoprezkovy, title: "Podb\u0159i\u0161n\xEDk jednop\u0159\
+        ezkov\xFD"}
+    - {cat_slug: konici, cat_title: "Kon\xEDci", group_slug: podbrisniky-a-podocasniky,
+      group_title: "Podb\u0159i\u0161n\xEDky a podocasn\xEDky", has_image: true, image: /products/konici/podbrisniky-a-podocasniky/podbrisnik-westernovy.jpg,
+      slug: podbrisnik-westernovy, title: "Podb\u0159i\u0161n\xEDk westernov\xFD"}
+    - {cat_slug: konici, cat_title: "Kon\xEDci", group_slug: podbrisniky-a-podocasniky,
+      group_title: "Podb\u0159i\u0161n\xEDky a podocasn\xEDky", has_image: true, image: /products/konici/podbrisniky-a-podocasniky/podocasnik.jpg,
+      slug: podocasnik, title: "Podocasn\xEDk"}
+    slug: podbrisniky-a-podocasniky
+    title: "Podb\u0159i\u0161n\xEDky a podocasn\xEDky"
   - cat_slug: konici
     group_slug: vystavy-a-predvadeni
     has_image: false
@@ -60,6 +65,103 @@
         d\u011Bc\xED vod\xEDtka"}
     slug: vystavy-a-predvadeni
     title: "V\xFDstavy a p\u0159edv\xE1d\u011Bn\xED"
+  - cat_slug: konici
+    group_slug: beranci-obaly-a-potahy
+    has_image: false
+    has_index: false
+    products:
+    - {cat_slug: konici, cat_title: "Kon\xEDci", group_slug: beranci-obaly-a-potahy,
+      group_title: "Ber\xE1nci, obaly a potahy", has_image: true, image: /products/konici/beranci-obaly-a-potahy/obal-na-anglicke-sedlo.jpg,
+      slug: obal-na-anglicke-sedlo, title: "Obal na anglick\xE9 sedlo"}
+    - {cat_slug: konici, cat_title: "Kon\xEDci", group_slug: beranci-obaly-a-potahy,
+      group_title: "Ber\xE1nci, obaly a potahy", has_image: true, image: /products/konici/beranci-obaly-a-potahy/obal-na-drezurni-sedlo.jpg,
+      slug: obal-na-drezurni-sedlo, title: "Obal na drezurn\xED sedlo"}
+    - {cat_slug: konici, cat_title: "Kon\xEDci", group_slug: beranci-obaly-a-potahy,
+      group_title: "Ber\xE1nci, obaly a potahy", has_image: true, image: /products/konici/beranci-obaly-a-potahy/obal-na-trmeny.jpg,
+      slug: obal-na-trmeny, title: "Obal na t\u0159meny"}
+    - {cat_slug: konici, cat_title: "Kon\xEDci", group_slug: beranci-obaly-a-potahy,
+      group_title: "Ber\xE1nci, obaly a potahy", has_image: false, image: 'false',
+      slug: obal-na-westernove-sedlo, title: "Obal na westernov\xE9 sedlo"}
+    - {cat_slug: konici, cat_title: "Kon\xEDci", group_slug: beranci-obaly-a-potahy,
+      group_title: "Ber\xE1nci, obaly a potahy", has_image: false, image: 'false',
+      slug: potah-na-podbrisnik, title: "Potah na podb\u0159i\u0161n\xEDk"}
+    - {cat_slug: konici, cat_title: "Kon\xEDci", group_slug: beranci-obaly-a-potahy,
+      group_title: "Ber\xE1nci, obaly a potahy", has_image: true, image: /products/konici/beranci-obaly-a-potahy/potah-na-posedli-z-fleecu.jpg,
+      slug: potah-na-posedli-z-fleecu, title: "Potah na posedl\xED z fleecu"}
+    - {cat_slug: konici, cat_title: "Kon\xEDci", group_slug: beranci-obaly-a-potahy,
+      group_title: "Ber\xE1nci, obaly a potahy", has_image: true, image: /products/konici/beranci-obaly-a-potahy/potah-na-posedli-z-umeleho-beranka.jpg,
+      slug: potah-na-posedli-z-umeleho-beranka, title: "Potah na posedl\xED z um\u011B\
+        l\xE9ho ber\xE1nka"}
+    - {cat_slug: konici, cat_title: "Kon\xEDci", group_slug: beranci-obaly-a-potahy,
+      group_title: "Ber\xE1nci, obaly a potahy", has_image: true, image: /products/konici/beranci-obaly-a-potahy/potah-na-posedli-z-praveho-beranka.jpg,
+      slug: potah-na-posedli-z-praveho-beranka, title: "Potah na posedl\xED z prav\xE9\
+        ho ber\xE1nka"}
+    - {cat_slug: konici, cat_title: "Kon\xEDci", group_slug: beranci-obaly-a-potahy,
+      group_title: "Ber\xE1nci, obaly a potahy", has_image: false, image: 'false',
+      slug: potah-na-uzdecku-ci-ohlavku, title: "Potah na uzde\u010Dku \u010Di ohl\xE1\
+        vku"}
+    slug: beranci-obaly-a-potahy
+    title: "Ber\xE1nci, obaly a potahy"
+  - cat_slug: konici
+    group_slug: lonzovaci-potreby
+    has_image: false
+    has_index: false
+    products:
+    - {cat_slug: konici, cat_title: "Kon\xEDci", group_slug: lonzovaci-potreby, group_title: "Lon\u017E\
+        ovac\xED pot\u0159eby", has_image: false, image: 'false', slug: chambon, title: Chambon}
+    - {cat_slug: konici, cat_title: "Kon\xEDci", group_slug: lonzovaci-potreby, group_title: "Lon\u017E\
+        ovac\xED pot\u0159eby", has_image: true, image: /products/konici/lonzovaci-potreby/lonze-a-dvojite-lonze.jpg,
+      slug: lonze-a-dvojite-lonze, title: "Lon\u017Ee a dvojit\xE9 lon\u017Ee"}
+    - {cat_slug: konici, cat_title: "Kon\xEDci", group_slug: lonzovaci-potreby, group_title: "Lon\u017E\
+        ovac\xED pot\u0159eby", has_image: false, image: 'false', slug: lonzovaci-nanosnik,
+      title: "Lon\u017Eovac\xED n\xE1nosn\xEDk"}
+    - {cat_slug: konici, cat_title: "Kon\xEDci", group_slug: lonzovaci-potreby, group_title: "Lon\u017E\
+        ovac\xED pot\u0159eby", has_image: false, image: 'false', slug: lonzovaci-spojka,
+      title: "Lon\u017Eovac\xED spojka"}
+    - {cat_slug: konici, cat_title: "Kon\xEDci", group_slug: lonzovaci-potreby, group_title: "Lon\u017E\
+        ovac\xED pot\u0159eby", has_image: false, image: 'false', slug: lonzovaci-obnosek-nylonovy,
+      title: "Lon\u017Eovac\xED obnosek nylonov\xFD"}
+    - {cat_slug: konici, cat_title: "Kon\xEDci", group_slug: lonzovaci-potreby, group_title: "Lon\u017E\
+        ovac\xED pot\u0159eby", has_image: false, image: 'false', slug: lonzovaci-obrisniky,
+      title: "Lon\u017Eovac\xED ob\u0159i\u0161n\xEDky"}
+    - {cat_slug: konici, cat_title: "Kon\xEDci", group_slug: lonzovaci-potreby, group_title: "Lon\u017E\
+        ovac\xED pot\u0159eby", has_image: true, image: /products/konici/lonzovaci-potreby/natylnik-k-chambonu.jpg,
+      slug: natylnik-k-chambonu, title: "N\xE1tyln\xEDk k chambonu"}
+    - {cat_slug: konici, cat_title: "Kon\xEDci", group_slug: lonzovaci-potreby, group_title: "Lon\u017E\
+        ovac\xED pot\u0159eby", has_image: false, image: 'false', slug: vyvazovaci-oteze-s-gumou,
+      title: "Vyvazovac\xED ot\u011B\u017Ee s\_gumou"}
+    - {cat_slug: konici, cat_title: "Kon\xEDci", group_slug: lonzovaci-potreby, group_title: "Lon\u017E\
+        ovac\xED pot\u0159eby", has_image: false, image: 'false', slug: vyvazovaci-oteze-pevne,
+      title: "Vyvazovac\xED ot\u011B\u017Ee pevn\xE9"}
+    slug: lonzovaci-potreby
+    title: "Lon\u017Eovac\xED pot\u0159eby"
+  - cat_slug: konici
+    group_slug: trmeny-a-trmenove-remeny
+    has_image: false
+    has_index: false
+    products:
+    - {cat_slug: konici, cat_title: "Kon\xEDci", group_slug: trmeny-a-trmenove-remeny,
+      group_title: "T\u0159meny a t\u0159menov\xE9 \u0159emeny", has_image: true,
+      image: /products/konici/trmeny-a-trmenove-remeny/trmeny-barevne.jpg, slug: trmeny-barevne,
+      title: "T\u0159meny barevn\xE9"}
+    - {cat_slug: konici, cat_title: "Kon\xEDci", group_slug: trmeny-a-trmenove-remeny,
+      group_title: "T\u0159meny a t\u0159menov\xE9 \u0159emeny", has_image: true,
+      image: /products/konici/trmeny-a-trmenove-remeny/trmenove-remeny-klasicke.jpg,
+      slug: trmenove-remeny-klasicke, title: "T\u0159menov\xE9 \u0159emeny klasick\xE9"}
+    - {cat_slug: konici, cat_title: "Kon\xEDci", group_slug: trmeny-a-trmenove-remeny,
+      group_title: "T\u0159meny a t\u0159menov\xE9 \u0159emeny", has_image: false,
+      image: 'false', slug: trmenove-remeny-jednoremenne, title: "T\u0159menov\xE9\
+        \ \u0159emeny jedno\u0159emenn\xE9"}
+    - {cat_slug: konici, cat_title: "Kon\xEDci", group_slug: trmeny-a-trmenove-remeny,
+      group_title: "T\u0159meny a t\u0159menov\xE9 \u0159emeny", has_image: false,
+      image: 'false', slug: trmenovy-remen-k-damskemu-sedlu, title: "T\u0159menov\xFD\
+        \ \u0159emen k d\xE1msk\xE9mu sedlu"}
+    - {cat_slug: konici, cat_title: "Kon\xEDci", group_slug: trmeny-a-trmenove-remeny,
+      group_title: "T\u0159meny a t\u0159menov\xE9 \u0159emeny", has_image: false,
+      image: 'false', slug: trmenovy-remen-k-damskemu-sedlu-jednoremeny, title: "T\u0159\
+        menov\xFD \u0159emen k d\xE1msk\xE9mu sedlu jedno\u0159emen\xFD"}
+    slug: trmeny-a-trmenove-remeny
+    title: "T\u0159meny a t\u0159menov\xE9 \u0159emeny"
   - cat_slug: konici
     group_slug: uzdecky-a-bezudidlovky
     has_image: false
@@ -142,39 +244,6 @@
     slug: oteze-a-pomocne-oteze
     title: "Ot\u011B\u017Ee a pomocn\xE9 ot\u011B\u017Ee"
   - cat_slug: konici
-    group_slug: lonzovaci-potreby
-    has_image: false
-    has_index: false
-    products:
-    - {cat_slug: konici, cat_title: "Kon\xEDci", group_slug: lonzovaci-potreby, group_title: "Lon\u017E\
-        ovac\xED pot\u0159eby", has_image: false, image: 'false', slug: chambon, title: Chambon}
-    - {cat_slug: konici, cat_title: "Kon\xEDci", group_slug: lonzovaci-potreby, group_title: "Lon\u017E\
-        ovac\xED pot\u0159eby", has_image: true, image: /products/konici/lonzovaci-potreby/lonze-a-dvojite-lonze.jpg,
-      slug: lonze-a-dvojite-lonze, title: "Lon\u017Ee a dvojit\xE9 lon\u017Ee"}
-    - {cat_slug: konici, cat_title: "Kon\xEDci", group_slug: lonzovaci-potreby, group_title: "Lon\u017E\
-        ovac\xED pot\u0159eby", has_image: false, image: 'false', slug: lonzovaci-nanosnik,
-      title: "Lon\u017Eovac\xED n\xE1nosn\xEDk"}
-    - {cat_slug: konici, cat_title: "Kon\xEDci", group_slug: lonzovaci-potreby, group_title: "Lon\u017E\
-        ovac\xED pot\u0159eby", has_image: false, image: 'false', slug: lonzovaci-spojka,
-      title: "Lon\u017Eovac\xED spojka"}
-    - {cat_slug: konici, cat_title: "Kon\xEDci", group_slug: lonzovaci-potreby, group_title: "Lon\u017E\
-        ovac\xED pot\u0159eby", has_image: false, image: 'false', slug: lonzovaci-obnosek-nylonovy,
-      title: "Lon\u017Eovac\xED obnosek nylonov\xFD"}
-    - {cat_slug: konici, cat_title: "Kon\xEDci", group_slug: lonzovaci-potreby, group_title: "Lon\u017E\
-        ovac\xED pot\u0159eby", has_image: false, image: 'false', slug: lonzovaci-obrisniky,
-      title: "Lon\u017Eovac\xED ob\u0159i\u0161n\xEDky"}
-    - {cat_slug: konici, cat_title: "Kon\xEDci", group_slug: lonzovaci-potreby, group_title: "Lon\u017E\
-        ovac\xED pot\u0159eby", has_image: true, image: /products/konici/lonzovaci-potreby/natylnik-k-chambonu.jpg,
-      slug: natylnik-k-chambonu, title: "N\xE1tyln\xEDk k chambonu"}
-    - {cat_slug: konici, cat_title: "Kon\xEDci", group_slug: lonzovaci-potreby, group_title: "Lon\u017E\
-        ovac\xED pot\u0159eby", has_image: false, image: 'false', slug: vyvazovaci-oteze-s-gumou,
-      title: "Vyvazovac\xED ot\u011B\u017Ee s\_gumou"}
-    - {cat_slug: konici, cat_title: "Kon\xEDci", group_slug: lonzovaci-potreby, group_title: "Lon\u017E\
-        ovac\xED pot\u0159eby", has_image: false, image: 'false', slug: vyvazovaci-oteze-pevne,
-      title: "Vyvazovac\xED ot\u011B\u017Ee pevn\xE9"}
-    slug: lonzovaci-potreby
-    title: "Lon\u017Eovac\xED pot\u0159eby"
-  - cat_slug: konici
     group_slug: podsedlove-a-jine-decky
     has_image: false
     has_index: false
@@ -209,68 +278,6 @@
       slug: podsedlova-decka-barokni, title: "Podsedlov\xE1 de\u010Dka barokn\xED"}
     slug: podsedlove-a-jine-decky
     title: "Podsedlov\xE9 a jin\xE9 de\u010Dky"
-  - cat_slug: konici
-    group_slug: ochrana-nohou-a-reflexni-prvky
-    has_image: false
-    has_index: false
-    products:
-    - {cat_slug: konici, cat_title: "Kon\xEDci", group_slug: ochrana-nohou-a-reflexni-prvky,
-      group_title: "Ochrana nohou a reflexn\xED prvky", has_image: true, image: /products/konici/ochrana-nohou-a-reflexni-prvky/fleesove-bandaze.jpg,
-      slug: fleesove-bandaze, title: "Fleesov\xE9 band\xE1\u017Ee"}
-    - {cat_slug: konici, cat_title: "Kon\xEDci", group_slug: ochrana-nohou-a-reflexni-prvky,
-      group_title: "Ochrana nohou a reflexn\xED prvky", has_image: true, image: /products/konici/ochrana-nohou-a-reflexni-prvky/reflexni-bandaze.jpg,
-      slug: reflexni-bandaze, title: "Reflexn\xED band\xE1\u017Ee"}
-    - {cat_slug: konici, cat_title: "Kon\xEDci", group_slug: ochrana-nohou-a-reflexni-prvky,
-      group_title: "Ochrana nohou a reflexn\xED prvky", has_image: true, image: /products/konici/ochrana-nohou-a-reflexni-prvky/reflexni-pasky-pro-jezdce.jpg,
-      slug: reflexni-pasky-pro-jezdce, title: "Reflexn\xED p\xE1sky pro jezdce"}
-    - {cat_slug: konici, cat_title: "Kon\xEDci", group_slug: ochrana-nohou-a-reflexni-prvky,
-      group_title: "Ochrana nohou a reflexn\xED prvky", has_image: true, image: /products/konici/ochrana-nohou-a-reflexni-prvky/reflexni-pasky-pro-kone.jpg,
-      slug: reflexni-pasky-pro-kone, title: "Reflexn\xED p\xE1sky pro kon\u011B"}
-    - {cat_slug: konici, cat_title: "Kon\xEDci", group_slug: ochrana-nohou-a-reflexni-prvky,
-      group_title: "Ochrana nohou a reflexn\xED prvky", has_image: true, image: /products/konici/ochrana-nohou-a-reflexni-prvky/podlozky-pod-bandaze.jpg,
-      slug: podlozky-pod-bandaze, title: "Podlo\u017Eky pod band\xE1\u017Ee"}
-    - {cat_slug: konici, cat_title: "Kon\xEDci", group_slug: ochrana-nohou-a-reflexni-prvky,
-      group_title: "Ochrana nohou a reflexn\xED prvky", has_image: false, image: 'false',
-      slug: transportni-kamase, title: "Transportn\xED kama\u0161e"}
-    - {cat_slug: konici, cat_title: "Kon\xEDci", group_slug: ochrana-nohou-a-reflexni-prvky,
-      group_title: "Ochrana nohou a reflexn\xED prvky", has_image: false, image: 'false',
-      slug: chranice-neoprenove, title: "Chr\xE1ni\u010De neoprenov\xE9"}
-    - {cat_slug: konici, cat_title: "Kon\xEDci", group_slug: ochrana-nohou-a-reflexni-prvky,
-      group_title: "Ochrana nohou a reflexn\xED prvky", has_image: false, image: 'false',
-      slug: chranice-kloubkove, title: "Chr\xE1ni\u010De kloubkov\xE9"}
-    - {cat_slug: konici, cat_title: "Kon\xEDci", group_slug: ochrana-nohou-a-reflexni-prvky,
-      group_title: "Ochrana nohou a reflexn\xED prvky", has_image: true, image: /products/konici/ochrana-nohou-a-reflexni-prvky/zvlhcovaci-zvony.jpg,
-      slug: zvlhcovaci-zvony, title: "Zvlh\u010Dovac\xED zvony"}
-    slug: ochrana-nohou-a-reflexni-prvky
-    title: "Ochrana nohou a reflexn\xED prvky"
-  - cat_slug: konici
-    group_slug: podbrisniky-a-podocasniky
-    has_image: false
-    has_index: false
-    products:
-    - {cat_slug: konici, cat_title: "Kon\xEDci", group_slug: podbrisniky-a-podocasniky,
-      group_title: "Podb\u0159i\u0161n\xEDky a podocasn\xEDky", has_image: true, image: /products/konici/podbrisniky-a-podocasniky/podbrisnik-anglicky-s-gumou.jpg,
-      slug: podbrisnik-anglicky-s-gumou, title: "Podb\u0159i\u0161n\xEDk anglick\xFD\
-        \ s gumou"}
-    - {cat_slug: konici, cat_title: "Kon\xEDci", group_slug: podbrisniky-a-podocasniky,
-      group_title: "Podb\u0159i\u0161n\xEDky a podocasn\xEDky", has_image: false,
-      image: 'false', slug: podbrisnik-anglicky-eko, title: "Podb\u0159i\u0161n\xED\
-        k anglick\xFD eko"}
-    - {cat_slug: konici, cat_title: "Kon\xEDci", group_slug: podbrisniky-a-podocasniky,
-      group_title: "Podb\u0159i\u0161n\xEDky a podocasn\xEDky", has_image: true, image: /products/konici/podbrisniky-a-podocasniky/podbrisnik-drezurni.jpg,
-      slug: podbrisnik-drezurni, title: "Podb\u0159i\u0161n\xEDk drezurn\xED"}
-    - {cat_slug: konici, cat_title: "Kon\xEDci", group_slug: podbrisniky-a-podocasniky,
-      group_title: "Podb\u0159i\u0161n\xEDky a podocasn\xEDky", has_image: true, image: /products/konici/podbrisniky-a-podocasniky/podbrisnik-jednoprezkovy.jpg,
-      slug: podbrisnik-jednoprezkovy, title: "Podb\u0159i\u0161n\xEDk jednop\u0159\
-        ezkov\xFD"}
-    - {cat_slug: konici, cat_title: "Kon\xEDci", group_slug: podbrisniky-a-podocasniky,
-      group_title: "Podb\u0159i\u0161n\xEDky a podocasn\xEDky", has_image: true, image: /products/konici/podbrisniky-a-podocasniky/podbrisnik-westernovy.jpg,
-      slug: podbrisnik-westernovy, title: "Podb\u0159i\u0161n\xEDk westernov\xFD"}
-    - {cat_slug: konici, cat_title: "Kon\xEDci", group_slug: podbrisniky-a-podocasniky,
-      group_title: "Podb\u0159i\u0161n\xEDky a podocasn\xEDky", has_image: true, image: /products/konici/podbrisniky-a-podocasniky/podocasnik.jpg,
-      slug: podocasnik, title: "Podocasn\xEDk"}
-    slug: podbrisniky-a-podocasniky
-    title: "Podb\u0159i\u0161n\xEDky a podocasn\xEDky"
   - cat_slug: konici
     group_slug: ohlavky-voditka-a-cabraky
     has_image: false
@@ -310,91 +317,120 @@
     slug: ohlavky-voditka-a-cabraky
     title: "Ohl\xE1vky, vod\xEDtka a \u010Dabraky"
   - cat_slug: konici
-    group_slug: beranci-obaly-a-potahy
+    group_slug: ochrana-nohou-a-reflexni-prvky
     has_image: false
     has_index: false
     products:
-    - {cat_slug: konici, cat_title: "Kon\xEDci", group_slug: beranci-obaly-a-potahy,
-      group_title: "Ber\xE1nci, obaly a potahy", has_image: true, image: /products/konici/beranci-obaly-a-potahy/obal-na-anglicke-sedlo.jpg,
-      slug: obal-na-anglicke-sedlo, title: "Obal na anglick\xE9 sedlo"}
-    - {cat_slug: konici, cat_title: "Kon\xEDci", group_slug: beranci-obaly-a-potahy,
-      group_title: "Ber\xE1nci, obaly a potahy", has_image: true, image: /products/konici/beranci-obaly-a-potahy/obal-na-drezurni-sedlo.jpg,
-      slug: obal-na-drezurni-sedlo, title: "Obal na drezurn\xED sedlo"}
-    - {cat_slug: konici, cat_title: "Kon\xEDci", group_slug: beranci-obaly-a-potahy,
-      group_title: "Ber\xE1nci, obaly a potahy", has_image: true, image: /products/konici/beranci-obaly-a-potahy/obal-na-trmeny.jpg,
-      slug: obal-na-trmeny, title: "Obal na t\u0159meny"}
-    - {cat_slug: konici, cat_title: "Kon\xEDci", group_slug: beranci-obaly-a-potahy,
-      group_title: "Ber\xE1nci, obaly a potahy", has_image: false, image: 'false',
-      slug: obal-na-westernove-sedlo, title: "Obal na westernov\xE9 sedlo"}
-    - {cat_slug: konici, cat_title: "Kon\xEDci", group_slug: beranci-obaly-a-potahy,
-      group_title: "Ber\xE1nci, obaly a potahy", has_image: false, image: 'false',
-      slug: potah-na-podbrisnik, title: "Potah na podb\u0159i\u0161n\xEDk"}
-    - {cat_slug: konici, cat_title: "Kon\xEDci", group_slug: beranci-obaly-a-potahy,
-      group_title: "Ber\xE1nci, obaly a potahy", has_image: true, image: /products/konici/beranci-obaly-a-potahy/potah-na-posedli-z-fleecu.jpg,
-      slug: potah-na-posedli-z-fleecu, title: "Potah na posedl\xED z fleecu"}
-    - {cat_slug: konici, cat_title: "Kon\xEDci", group_slug: beranci-obaly-a-potahy,
-      group_title: "Ber\xE1nci, obaly a potahy", has_image: true, image: /products/konici/beranci-obaly-a-potahy/potah-na-posedli-z-umeleho-beranka.jpg,
-      slug: potah-na-posedli-z-umeleho-beranka, title: "Potah na posedl\xED z um\u011B\
-        l\xE9ho ber\xE1nka"}
-    - {cat_slug: konici, cat_title: "Kon\xEDci", group_slug: beranci-obaly-a-potahy,
-      group_title: "Ber\xE1nci, obaly a potahy", has_image: true, image: /products/konici/beranci-obaly-a-potahy/potah-na-posedli-z-praveho-beranka.jpg,
-      slug: potah-na-posedli-z-praveho-beranka, title: "Potah na posedl\xED z prav\xE9\
-        ho ber\xE1nka"}
-    - {cat_slug: konici, cat_title: "Kon\xEDci", group_slug: beranci-obaly-a-potahy,
-      group_title: "Ber\xE1nci, obaly a potahy", has_image: false, image: 'false',
-      slug: potah-na-uzdecku-ci-ohlavku, title: "Potah na uzde\u010Dku \u010Di ohl\xE1\
-        vku"}
-    slug: beranci-obaly-a-potahy
-    title: "Ber\xE1nci, obaly a potahy"
+    - {cat_slug: konici, cat_title: "Kon\xEDci", group_slug: ochrana-nohou-a-reflexni-prvky,
+      group_title: "Ochrana nohou a reflexn\xED prvky", has_image: true, image: /products/konici/ochrana-nohou-a-reflexni-prvky/fleesove-bandaze.jpg,
+      slug: fleesove-bandaze, title: "Fleesov\xE9 band\xE1\u017Ee"}
+    - {cat_slug: konici, cat_title: "Kon\xEDci", group_slug: ochrana-nohou-a-reflexni-prvky,
+      group_title: "Ochrana nohou a reflexn\xED prvky", has_image: true, image: /products/konici/ochrana-nohou-a-reflexni-prvky/reflexni-bandaze.jpg,
+      slug: reflexni-bandaze, title: "Reflexn\xED band\xE1\u017Ee"}
+    - {cat_slug: konici, cat_title: "Kon\xEDci", group_slug: ochrana-nohou-a-reflexni-prvky,
+      group_title: "Ochrana nohou a reflexn\xED prvky", has_image: true, image: /products/konici/ochrana-nohou-a-reflexni-prvky/reflexni-pasky-pro-jezdce.jpg,
+      slug: reflexni-pasky-pro-jezdce, title: "Reflexn\xED p\xE1sky pro jezdce"}
+    - {cat_slug: konici, cat_title: "Kon\xEDci", group_slug: ochrana-nohou-a-reflexni-prvky,
+      group_title: "Ochrana nohou a reflexn\xED prvky", has_image: true, image: /products/konici/ochrana-nohou-a-reflexni-prvky/reflexni-pasky-pro-kone.jpg,
+      slug: reflexni-pasky-pro-kone, title: "Reflexn\xED p\xE1sky pro kon\u011B"}
+    - {cat_slug: konici, cat_title: "Kon\xEDci", group_slug: ochrana-nohou-a-reflexni-prvky,
+      group_title: "Ochrana nohou a reflexn\xED prvky", has_image: true, image: /products/konici/ochrana-nohou-a-reflexni-prvky/podlozky-pod-bandaze.jpg,
+      slug: podlozky-pod-bandaze, title: "Podlo\u017Eky pod band\xE1\u017Ee"}
+    - {cat_slug: konici, cat_title: "Kon\xEDci", group_slug: ochrana-nohou-a-reflexni-prvky,
+      group_title: "Ochrana nohou a reflexn\xED prvky", has_image: false, image: 'false',
+      slug: transportni-kamase, title: "Transportn\xED kama\u0161e"}
+    - {cat_slug: konici, cat_title: "Kon\xEDci", group_slug: ochrana-nohou-a-reflexni-prvky,
+      group_title: "Ochrana nohou a reflexn\xED prvky", has_image: false, image: 'false',
+      slug: chranice-neoprenove, title: "Chr\xE1ni\u010De neoprenov\xE9"}
+    - {cat_slug: konici, cat_title: "Kon\xEDci", group_slug: ochrana-nohou-a-reflexni-prvky,
+      group_title: "Ochrana nohou a reflexn\xED prvky", has_image: false, image: 'false',
+      slug: chranice-kloubkove, title: "Chr\xE1ni\u010De kloubkov\xE9"}
+    - {cat_slug: konici, cat_title: "Kon\xEDci", group_slug: ochrana-nohou-a-reflexni-prvky,
+      group_title: "Ochrana nohou a reflexn\xED prvky", has_image: true, image: /products/konici/ochrana-nohou-a-reflexni-prvky/zvlhcovaci-zvony.jpg,
+      slug: zvlhcovaci-zvony, title: "Zvlh\u010Dovac\xED zvony"}
+    slug: ochrana-nohou-a-reflexni-prvky
+    title: "Ochrana nohou a reflexn\xED prvky"
   - cat_slug: konici
-    group_slug: trmeny-a-trmenove-remeny
+    group_slug: martingaly-poprsaky-a-prislusenstvi
     has_image: false
     has_index: false
     products:
-    - {cat_slug: konici, cat_title: "Kon\xEDci", group_slug: trmeny-a-trmenove-remeny,
-      group_title: "T\u0159meny a t\u0159menov\xE9 \u0159emeny", has_image: true,
-      image: /products/konici/trmeny-a-trmenove-remeny/trmeny-barevne.jpg, slug: trmeny-barevne,
-      title: "T\u0159meny barevn\xE9"}
-    - {cat_slug: konici, cat_title: "Kon\xEDci", group_slug: trmeny-a-trmenove-remeny,
-      group_title: "T\u0159meny a t\u0159menov\xE9 \u0159emeny", has_image: true,
-      image: /products/konici/trmeny-a-trmenove-remeny/trmenove-remeny-klasicke.jpg,
-      slug: trmenove-remeny-klasicke, title: "T\u0159menov\xE9 \u0159emeny klasick\xE9"}
-    - {cat_slug: konici, cat_title: "Kon\xEDci", group_slug: trmeny-a-trmenove-remeny,
-      group_title: "T\u0159meny a t\u0159menov\xE9 \u0159emeny", has_image: false,
-      image: 'false', slug: trmenove-remeny-jednoremenne, title: "T\u0159menov\xE9\
-        \ \u0159emeny jedno\u0159emenn\xE9"}
-    - {cat_slug: konici, cat_title: "Kon\xEDci", group_slug: trmeny-a-trmenove-remeny,
-      group_title: "T\u0159meny a t\u0159menov\xE9 \u0159emeny", has_image: false,
-      image: 'false', slug: trmenovy-remen-k-damskemu-sedlu, title: "T\u0159menov\xFD\
-        \ \u0159emen k d\xE1msk\xE9mu sedlu"}
-    - {cat_slug: konici, cat_title: "Kon\xEDci", group_slug: trmeny-a-trmenove-remeny,
-      group_title: "T\u0159meny a t\u0159menov\xE9 \u0159emeny", has_image: false,
-      image: 'false', slug: trmenovy-remen-k-damskemu-sedlu-jednoremeny, title: "T\u0159\
-        menov\xFD \u0159emen k d\xE1msk\xE9mu sedlu jedno\u0159emen\xFD"}
-    slug: trmeny-a-trmenove-remeny
-    title: "T\u0159meny a t\u0159menov\xE9 \u0159emeny"
+    - {cat_slug: konici, cat_title: "Kon\xEDci", group_slug: martingaly-poprsaky-a-prislusenstvi,
+      group_title: "Martingaly, poprs\xE1ky a p\u0159\xEDslu\u0161enstv\xED", has_image: true,
+      image: /products/konici/martingaly-poprsaky-a-prislusenstvi/martingal-anglicky.jpg,
+      slug: martingal-anglicky, title: "Martingal anglick\xFD"}
+    - {cat_slug: konici, cat_title: "Kon\xEDci", group_slug: martingaly-poprsaky-a-prislusenstvi,
+      group_title: "Martingaly, poprs\xE1ky a p\u0159\xEDslu\u0161enstv\xED", has_image: true,
+      image: /products/konici/martingaly-poprsaky-a-prislusenstvi/martingal-westernovy.jpg,
+      slug: martingal-westernovy, title: "Martingal westernov\xFD"}
+    - {cat_slug: konici, cat_title: "Kon\xEDci", group_slug: martingaly-poprsaky-a-prislusenstvi,
+      group_title: "Martingaly, poprs\xE1ky a p\u0159\xEDslu\u0161enstv\xED", has_image: true,
+      image: /products/konici/martingaly-poprsaky-a-prislusenstvi/martingalova-vidlice-k-poprsaku.jpg,
+      slug: martingalova-vidlice-k-poprsaku, title: "Martingalov\xE1 vidlice k poprs\xE1\
+        ku"}
+    - {cat_slug: konici, cat_title: "Kon\xEDci", group_slug: martingaly-poprsaky-a-prislusenstvi,
+      group_title: "Martingaly, poprs\xE1ky a p\u0159\xEDslu\u0161enstv\xED", has_image: true,
+      image: /products/konici/martingaly-poprsaky-a-prislusenstvi/ocko-k-podbrisniku.jpg,
+      slug: ocko-k-podbrisniku, title: "O\u010Dko k\_podb\u0159i\u0161n\xEDku"}
+    - {cat_slug: konici, cat_title: "Kon\xEDci", group_slug: martingaly-poprsaky-a-prislusenstvi,
+      group_title: "Martingaly, poprs\xE1ky a p\u0159\xEDslu\u0161enstv\xED", has_image: true,
+      image: /products/konici/martingaly-poprsaky-a-prislusenstvi/poprsak-anglicky.jpg,
+      slug: poprsak-anglicky, title: "Poprs\xE1k anglick\xFD"}
+    - {cat_slug: konici, cat_title: "Kon\xEDci", group_slug: martingaly-poprsaky-a-prislusenstvi,
+      group_title: "Martingaly, poprs\xE1ky a p\u0159\xEDslu\u0161enstv\xED", has_image: false,
+      image: 'false', slug: poprsak-dostihovy, title: "Poprs\xE1k dostihov\xFD"}
+    - {cat_slug: konici, cat_title: "Kon\xEDci", group_slug: martingaly-poprsaky-a-prislusenstvi,
+      group_title: "Martingaly, poprs\xE1ky a p\u0159\xEDslu\u0161enstv\xED", has_image: true,
+      image: /products/konici/martingaly-poprsaky-a-prislusenstvi/poprsak-westernovy.jpg,
+      slug: poprsak-westernovy, title: "Poprs\xE1k westernov\xFD"}
+    slug: martingaly-poprsaky-a-prislusenstvi
+    title: "Martingaly, poprs\xE1ky a p\u0159\xEDslu\u0161enstv\xED"
   - cat_slug: konici
-    group_slug: deky-a-bederni-deky-na-kone
-    has_image: false
-    has_index: false
-    products:
-    - {cat_slug: konici, cat_title: "Kon\xEDci", group_slug: deky-a-bederni-deky-na-kone,
-      group_title: "Deky a bedern\xED deky na kon\u011B", has_image: false, image: 'false',
-      slug: bederni-deka-fleesova, title: "Bedern\xED deka fleesov\xE1"}
-    - {cat_slug: konici, cat_title: "Kon\xEDci", group_slug: deky-a-bederni-deky-na-kone,
-      group_title: "Deky a bedern\xED deky na kon\u011B", has_image: false, image: 'false',
-      slug: bederni-deka-softshell, title: "Bedern\xED deka softshell"}
-    - {cat_slug: konici, cat_title: "Kon\xEDci", group_slug: deky-a-bederni-deky-na-kone,
-      group_title: "Deky a bedern\xED deky na kon\u011B", has_image: false, image: 'false',
-      slug: deka-fleesova-odpocovaci, title: "Deka fleesov\xE1 - odpocovac\xED"}
-    - {cat_slug: konici, cat_title: "Kon\xEDci", group_slug: deky-a-bederni-deky-na-kone,
-      group_title: "Deky a bedern\xED deky na kon\u011B", has_image: true, image: /products/konici/deky-a-bederni-deky-na-kone/deka-softshell.jpg,
-      slug: deka-softshell, title: Deka softshell}
-    slug: deky-a-bederni-deky-na-kone
-    title: "Deky a bedern\xED deky na kon\u011B"
+    group_slug: barevne-sady
+    has_image: true
+    has_index: true
+    products: []
+    slug: barevne-sady
+    title: "Barevn\xE9 sady"
   slug: konici
   title: "Kon\xEDci"
 - groups:
+  - cat_slug: pejsci-a-kocicky
+    group_slug: postroje
+    has_image: false
+    has_index: false
+    products:
+    - {cat_slug: pejsci-a-kocicky, cat_title: "Pejsci a ko\u010Di\u010Dky", group_slug: postroje,
+      group_title: Postroje, has_image: false, image: 'false', slug: dogtreking, title: Dogtreking}
+    - {cat_slug: pejsci-a-kocicky, cat_title: "Pejsci a ko\u010Di\u010Dky", group_slug: postroje,
+      group_title: Postroje, has_image: false, image: 'false', slug: opasky-a-pasy-pro-lidi,
+      title: "Opasky a p\xE1sy pro lidi"}
+    - {cat_slug: pejsci-a-kocicky, cat_title: "Pejsci a ko\u010Di\u010Dky", group_slug: postroje,
+      group_title: Postroje, has_image: true, image: /products/pejsci-a-kocicky/postroje/postroj-active.jpg,
+      slug: postroj-active, title: Postroj Active}
+    - {cat_slug: pejsci-a-kocicky, cat_title: "Pejsci a ko\u010Di\u010Dky", group_slug: postroje,
+      group_title: Postroje, has_image: false, image: 'false', slug: postroj-cyklo-a-ski,
+      title: Postroj Cyklo a Ski}
+    - {cat_slug: pejsci-a-kocicky, cat_title: "Pejsci a ko\u010Di\u010Dky", group_slug: postroje,
+      group_title: Postroje, has_image: false, image: 'false', slug: postroj-klasik,
+      title: Postroj Klasik}
+    - {cat_slug: pejsci-a-kocicky, cat_title: "Pejsci a ko\u010Di\u010Dky", group_slug: postroje,
+      group_title: Postroje, has_image: false, image: 'false', slug: postroj-komfort,
+      title: Postroj Komfort}
+    - {cat_slug: pejsci-a-kocicky, cat_title: "Pejsci a ko\u010Di\u010Dky", group_slug: postroje,
+      group_title: Postroje, has_image: false, image: 'false', slug: proti-tahani-eco,
+      title: "Proti tah\xE1n\xED Eco"}
+    - {cat_slug: pejsci-a-kocicky, cat_title: "Pejsci a ko\u010Di\u010Dky", group_slug: postroje,
+      group_title: Postroje, has_image: false, image: 'false', slug: proti-tahani-pull,
+      title: "Proti tah\xE1n\xED Pull"}
+    - {cat_slug: pejsci-a-kocicky, cat_title: "Pejsci a ko\u010Di\u010Dky", group_slug: postroje,
+      group_title: Postroje, has_image: false, image: 'false', slug: postroje-na-prani,
+      title: "Postroje na p\u0159\xE1n\xED"}
+    - {cat_slug: pejsci-a-kocicky, cat_title: "Pejsci a ko\u010Di\u010Dky", group_slug: postroje,
+      group_title: Postroje, has_image: false, image: 'false', slug: postroj-s-brasnami,
+      title: "Postroj s bra\u0161nami"}
+    slug: postroje
+    title: Postroje
   - cat_slug: pejsci-a-kocicky
     group_slug: pelisky-a-podlozky
     has_image: false
@@ -420,93 +456,6 @@
       slug: potah, title: Potah}
     slug: pelisky-a-podlozky
     title: "Pel\xED\u0161ky a podlo\u017Eky"
-  - cat_slug: pejsci-a-kocicky
-    group_slug: cestovani
-    has_image: false
-    has_index: false
-    products:
-    - {cat_slug: pejsci-a-kocicky, cat_title: "Pejsci a ko\u010Di\u010Dky", group_slug: cestovani,
-      group_title: "Cestov\xE1n\xED", has_image: false, image: 'false', slug: autopostroj-eco,
-      title: Autopostroj eco}
-    - {cat_slug: pejsci-a-kocicky, cat_title: "Pejsci a ko\u010Di\u010Dky", group_slug: cestovani,
-      group_title: "Cestov\xE1n\xED", has_image: true, image: /products/pejsci-a-kocicky/cestovani/autopostroj-komfort.jpg,
-      slug: autopostroj-komfort, title: Autopostroj komfort}
-    - {cat_slug: pejsci-a-kocicky, cat_title: "Pejsci a ko\u010Di\u010Dky", group_slug: cestovani,
-      group_title: "Cestov\xE1n\xED", has_image: false, image: 'false', slug: autovak,
-      title: Autovak}
-    - {cat_slug: pejsci-a-kocicky, cat_title: "Pejsci a ko\u010Di\u010Dky", group_slug: cestovani,
-      group_title: "Cestov\xE1n\xED", has_image: false, image: 'false', slug: brasny,
-      title: "Bra\u0161ny"}
-    - {cat_slug: pejsci-a-kocicky, cat_title: "Pejsci a ko\u010Di\u010Dky", group_slug: cestovani,
-      group_title: "Cestov\xE1n\xED", has_image: false, image: 'false', slug: deky,
-      title: Deky}
-    - {cat_slug: pejsci-a-kocicky, cat_title: "Pejsci a ko\u010Di\u010Dky", group_slug: cestovani,
-      group_title: "Cestov\xE1n\xED", has_image: false, image: 'false', slug: mrize-a-site-do-auta,
-      title: "M\u0159\xED\u017Ee a s\xEDt\u011B do auta"}
-    - {cat_slug: pejsci-a-kocicky, cat_title: "Pejsci a ko\u010Di\u010Dky", group_slug: cestovani,
-      group_title: "Cestov\xE1n\xED", has_image: false, image: 'false', slug: podlozky-a-polstare,
-      title: "Podlo\u017Eky a pol\u0161t\xE1\u0159e"}
-    - {cat_slug: pejsci-a-kocicky, cat_title: "Pejsci a ko\u010Di\u010Dky", group_slug: cestovani,
-      group_title: "Cestov\xE1n\xED", has_image: false, image: 'false', slug: reflexni-decka,
-      title: "Reflexn\xED de\u010Dka"}
-    - {cat_slug: pejsci-a-kocicky, cat_title: "Pejsci a ko\u010Di\u010Dky", group_slug: cestovani,
-      group_title: "Cestov\xE1n\xED", has_image: false, image: 'false', slug: reflexni-vesta,
-      title: "Reflexn\xED vesta"}
-    - {cat_slug: pejsci-a-kocicky, cat_title: "Pejsci a ko\u010Di\u010Dky", group_slug: cestovani,
-      group_title: "Cestov\xE1n\xED", has_image: false, image: 'false', slug: spojka-k-autopasu,
-      title: "Spojka k autop\xE1su"}
-    slug: cestovani
-    title: "Cestov\xE1n\xED"
-  - cat_slug: pejsci-a-kocicky
-    group_slug: vycvik
-    has_image: false
-    has_index: false
-    products:
-    - {cat_slug: pejsci-a-kocicky, cat_title: "Pejsci a ko\u010Di\u010Dky", group_slug: vycvik,
-      group_title: "V\xFDcvik", has_image: false, image: 'false', slug: nahubek-popruh,
-      title: "N\xE1hubek \"Popruh\""}
-    - {cat_slug: pejsci-a-kocicky, cat_title: "Pejsci a ko\u010Di\u010Dky", group_slug: vycvik,
-      group_title: "V\xFDcvik", has_image: false, image: 'false', slug: nahubek-trubicka,
-      title: "N\xE1hubek \"Trubi\u010Dka\""}
-    - {cat_slug: pejsci-a-kocicky, cat_title: "Pejsci a ko\u010Di\u010Dky", group_slug: vycvik,
-      group_title: "V\xFDcvik", has_image: false, image: 'false', slug: ohlavka-halti-s-obojkem,
-      title: "Ohl\xE1vka halti s obojkem"}
-    - {cat_slug: pejsci-a-kocicky, cat_title: "Pejsci a ko\u010Di\u010Dky", group_slug: vycvik,
-      group_title: "V\xFDcvik", has_image: false, image: 'false', slug: pamlskovniky,
-      title: "Pamlskovn\xEDky"}
-    - {cat_slug: pejsci-a-kocicky, cat_title: "Pejsci a ko\u010Di\u010Dky", group_slug: vycvik,
-      group_title: "V\xFDcvik", has_image: false, image: 'false', slug: vycvikova-ledvinka,
-      title: "V\xFDcvikov\xE1 ledvinka"}
-    slug: vycvik
-    title: "V\xFDcvik"
-  - cat_slug: pejsci-a-kocicky
-    group_slug: hracky
-    has_image: false
-    has_index: false
-    products:
-    - {cat_slug: pejsci-a-kocicky, cat_title: "Pejsci a ko\u010Di\u010Dky", group_slug: hracky,
-      group_title: "Hra\u010Dky", has_image: false, image: 'false', slug: cinka, title: "\u010C\
-        inka"}
-    - {cat_slug: pejsci-a-kocicky, cat_title: "Pejsci a ko\u010Di\u010Dky", group_slug: hracky,
-      group_title: "Hra\u010Dky", has_image: false, image: 'false', slug: bobik, title: "Bob\xED\
-        k"}
-    - {cat_slug: pejsci-a-kocicky, cat_title: "Pejsci a ko\u010Di\u010Dky", group_slug: hracky,
-      group_title: "Hra\u010Dky", has_image: true, image: /products/pejsci-a-kocicky/hracky/bonbonek.jpg,
-      slug: bonbonek, title: Bonbonek}
-    - {cat_slug: pejsci-a-kocicky, cat_title: "Pejsci a ko\u010Di\u010Dky", group_slug: hracky,
-      group_title: "Hra\u010Dky", has_image: false, image: 'false', slug: pesek, title: "Pe\u0161\
-        ek"}
-    - {cat_slug: pejsci-a-kocicky, cat_title: "Pejsci a ko\u010Di\u010Dky", group_slug: hracky,
-      group_title: "Hra\u010Dky", has_image: false, image: 'false', slug: pletene-hracky,
-      title: "Pleten\xE9 hra\u010Dky"}
-    - {cat_slug: pejsci-a-kocicky, cat_title: "Pejsci a ko\u010Di\u010Dky", group_slug: hracky,
-      group_title: "Hra\u010Dky", has_image: false, image: 'false', slug: plysovy-micek,
-      title: "Ply\u0161ov\xFD m\xED\u010Dek"}
-    - {cat_slug: pejsci-a-kocicky, cat_title: "Pejsci a ko\u010Di\u010Dky", group_slug: hracky,
-      group_title: "Hra\u010Dky", has_image: false, image: 'false', slug: pretahovadlo,
-      title: "P\u0159etahovadlo"}
-    slug: hracky
-    title: "Hra\u010Dky"
   - cat_slug: pejsci-a-kocicky
     group_slug: obojky-a-voditka
     has_image: false
@@ -557,41 +506,33 @@
     slug: obojky-a-voditka
     title: "Obojky a vod\xEDtka"
   - cat_slug: pejsci-a-kocicky
-    group_slug: postroje
+    group_slug: hracky
     has_image: false
     has_index: false
     products:
-    - {cat_slug: pejsci-a-kocicky, cat_title: "Pejsci a ko\u010Di\u010Dky", group_slug: postroje,
-      group_title: Postroje, has_image: false, image: 'false', slug: dogtreking, title: Dogtreking}
-    - {cat_slug: pejsci-a-kocicky, cat_title: "Pejsci a ko\u010Di\u010Dky", group_slug: postroje,
-      group_title: Postroje, has_image: false, image: 'false', slug: opasky-a-pasy-pro-lidi,
-      title: "Opasky a p\xE1sy pro lidi"}
-    - {cat_slug: pejsci-a-kocicky, cat_title: "Pejsci a ko\u010Di\u010Dky", group_slug: postroje,
-      group_title: Postroje, has_image: true, image: /products/pejsci-a-kocicky/postroje/postroj-active.jpg,
-      slug: postroj-active, title: Postroj Active}
-    - {cat_slug: pejsci-a-kocicky, cat_title: "Pejsci a ko\u010Di\u010Dky", group_slug: postroje,
-      group_title: Postroje, has_image: false, image: 'false', slug: postroj-cyklo-a-ski,
-      title: Postroj Cyklo a Ski}
-    - {cat_slug: pejsci-a-kocicky, cat_title: "Pejsci a ko\u010Di\u010Dky", group_slug: postroje,
-      group_title: Postroje, has_image: false, image: 'false', slug: postroj-klasik,
-      title: Postroj Klasik}
-    - {cat_slug: pejsci-a-kocicky, cat_title: "Pejsci a ko\u010Di\u010Dky", group_slug: postroje,
-      group_title: Postroje, has_image: false, image: 'false', slug: postroj-komfort,
-      title: Postroj Komfort}
-    - {cat_slug: pejsci-a-kocicky, cat_title: "Pejsci a ko\u010Di\u010Dky", group_slug: postroje,
-      group_title: Postroje, has_image: false, image: 'false', slug: proti-tahani-eco,
-      title: "Proti tah\xE1n\xED Eco"}
-    - {cat_slug: pejsci-a-kocicky, cat_title: "Pejsci a ko\u010Di\u010Dky", group_slug: postroje,
-      group_title: Postroje, has_image: false, image: 'false', slug: proti-tahani-pull,
-      title: "Proti tah\xE1n\xED Pull"}
-    - {cat_slug: pejsci-a-kocicky, cat_title: "Pejsci a ko\u010Di\u010Dky", group_slug: postroje,
-      group_title: Postroje, has_image: false, image: 'false', slug: postroje-na-prani,
-      title: "Postroje na p\u0159\xE1n\xED"}
-    - {cat_slug: pejsci-a-kocicky, cat_title: "Pejsci a ko\u010Di\u010Dky", group_slug: postroje,
-      group_title: Postroje, has_image: false, image: 'false', slug: postroj-s-brasnami,
-      title: "Postroj s bra\u0161nami"}
-    slug: postroje
-    title: Postroje
+    - {cat_slug: pejsci-a-kocicky, cat_title: "Pejsci a ko\u010Di\u010Dky", group_slug: hracky,
+      group_title: "Hra\u010Dky", has_image: false, image: 'false', slug: cinka, title: "\u010C\
+        inka"}
+    - {cat_slug: pejsci-a-kocicky, cat_title: "Pejsci a ko\u010Di\u010Dky", group_slug: hracky,
+      group_title: "Hra\u010Dky", has_image: false, image: 'false', slug: bobik, title: "Bob\xED\
+        k"}
+    - {cat_slug: pejsci-a-kocicky, cat_title: "Pejsci a ko\u010Di\u010Dky", group_slug: hracky,
+      group_title: "Hra\u010Dky", has_image: true, image: /products/pejsci-a-kocicky/hracky/bonbonek.jpg,
+      slug: bonbonek, title: Bonbonek}
+    - {cat_slug: pejsci-a-kocicky, cat_title: "Pejsci a ko\u010Di\u010Dky", group_slug: hracky,
+      group_title: "Hra\u010Dky", has_image: false, image: 'false', slug: pesek, title: "Pe\u0161\
+        ek"}
+    - {cat_slug: pejsci-a-kocicky, cat_title: "Pejsci a ko\u010Di\u010Dky", group_slug: hracky,
+      group_title: "Hra\u010Dky", has_image: false, image: 'false', slug: pletene-hracky,
+      title: "Pleten\xE9 hra\u010Dky"}
+    - {cat_slug: pejsci-a-kocicky, cat_title: "Pejsci a ko\u010Di\u010Dky", group_slug: hracky,
+      group_title: "Hra\u010Dky", has_image: false, image: 'false', slug: plysovy-micek,
+      title: "Ply\u0161ov\xFD m\xED\u010Dek"}
+    - {cat_slug: pejsci-a-kocicky, cat_title: "Pejsci a ko\u010Di\u010Dky", group_slug: hracky,
+      group_title: "Hra\u010Dky", has_image: false, image: 'false', slug: pretahovadlo,
+      title: "P\u0159etahovadlo"}
+    slug: hracky
+    title: "Hra\u010Dky"
   - cat_slug: pejsci-a-kocicky
     group_slug: oblecky-a-boticky
     has_image: false
@@ -626,9 +567,97 @@
       slug: reflexni-program, title: "Reflexn\xED program"}
     slug: oblecky-a-boticky
     title: "Oble\u010Dky a boti\u010Dky"
+  - cat_slug: pejsci-a-kocicky
+    group_slug: vycvik
+    has_image: false
+    has_index: false
+    products:
+    - {cat_slug: pejsci-a-kocicky, cat_title: "Pejsci a ko\u010Di\u010Dky", group_slug: vycvik,
+      group_title: "V\xFDcvik", has_image: false, image: 'false', slug: nahubek-popruh,
+      title: "N\xE1hubek \"Popruh\""}
+    - {cat_slug: pejsci-a-kocicky, cat_title: "Pejsci a ko\u010Di\u010Dky", group_slug: vycvik,
+      group_title: "V\xFDcvik", has_image: false, image: 'false', slug: nahubek-trubicka,
+      title: "N\xE1hubek \"Trubi\u010Dka\""}
+    - {cat_slug: pejsci-a-kocicky, cat_title: "Pejsci a ko\u010Di\u010Dky", group_slug: vycvik,
+      group_title: "V\xFDcvik", has_image: false, image: 'false', slug: ohlavka-halti-s-obojkem,
+      title: "Ohl\xE1vka halti s obojkem"}
+    - {cat_slug: pejsci-a-kocicky, cat_title: "Pejsci a ko\u010Di\u010Dky", group_slug: vycvik,
+      group_title: "V\xFDcvik", has_image: false, image: 'false', slug: pamlskovniky,
+      title: "Pamlskovn\xEDky"}
+    - {cat_slug: pejsci-a-kocicky, cat_title: "Pejsci a ko\u010Di\u010Dky", group_slug: vycvik,
+      group_title: "V\xFDcvik", has_image: false, image: 'false', slug: vycvikova-ledvinka,
+      title: "V\xFDcvikov\xE1 ledvinka"}
+    slug: vycvik
+    title: "V\xFDcvik"
+  - cat_slug: pejsci-a-kocicky
+    group_slug: cestovani
+    has_image: false
+    has_index: false
+    products:
+    - {cat_slug: pejsci-a-kocicky, cat_title: "Pejsci a ko\u010Di\u010Dky", group_slug: cestovani,
+      group_title: "Cestov\xE1n\xED", has_image: false, image: 'false', slug: autopostroj-eco,
+      title: Autopostroj eco}
+    - {cat_slug: pejsci-a-kocicky, cat_title: "Pejsci a ko\u010Di\u010Dky", group_slug: cestovani,
+      group_title: "Cestov\xE1n\xED", has_image: true, image: /products/pejsci-a-kocicky/cestovani/autopostroj-komfort.jpg,
+      slug: autopostroj-komfort, title: Autopostroj komfort}
+    - {cat_slug: pejsci-a-kocicky, cat_title: "Pejsci a ko\u010Di\u010Dky", group_slug: cestovani,
+      group_title: "Cestov\xE1n\xED", has_image: false, image: 'false', slug: autovak,
+      title: Autovak}
+    - {cat_slug: pejsci-a-kocicky, cat_title: "Pejsci a ko\u010Di\u010Dky", group_slug: cestovani,
+      group_title: "Cestov\xE1n\xED", has_image: false, image: 'false', slug: brasny,
+      title: "Bra\u0161ny"}
+    - {cat_slug: pejsci-a-kocicky, cat_title: "Pejsci a ko\u010Di\u010Dky", group_slug: cestovani,
+      group_title: "Cestov\xE1n\xED", has_image: false, image: 'false', slug: deky,
+      title: Deky}
+    - {cat_slug: pejsci-a-kocicky, cat_title: "Pejsci a ko\u010Di\u010Dky", group_slug: cestovani,
+      group_title: "Cestov\xE1n\xED", has_image: false, image: 'false', slug: mrize-a-site-do-auta,
+      title: "M\u0159\xED\u017Ee a s\xEDt\u011B do auta"}
+    - {cat_slug: pejsci-a-kocicky, cat_title: "Pejsci a ko\u010Di\u010Dky", group_slug: cestovani,
+      group_title: "Cestov\xE1n\xED", has_image: false, image: 'false', slug: podlozky-a-polstare,
+      title: "Podlo\u017Eky a pol\u0161t\xE1\u0159e"}
+    - {cat_slug: pejsci-a-kocicky, cat_title: "Pejsci a ko\u010Di\u010Dky", group_slug: cestovani,
+      group_title: "Cestov\xE1n\xED", has_image: false, image: 'false', slug: reflexni-decka,
+      title: "Reflexn\xED de\u010Dka"}
+    - {cat_slug: pejsci-a-kocicky, cat_title: "Pejsci a ko\u010Di\u010Dky", group_slug: cestovani,
+      group_title: "Cestov\xE1n\xED", has_image: false, image: 'false', slug: reflexni-vesta,
+      title: "Reflexn\xED vesta"}
+    - {cat_slug: pejsci-a-kocicky, cat_title: "Pejsci a ko\u010Di\u010Dky", group_slug: cestovani,
+      group_title: "Cestov\xE1n\xED", has_image: false, image: 'false', slug: spojka-k-autopasu,
+      title: "Spojka k autop\xE1su"}
+    slug: cestovani
+    title: "Cestov\xE1n\xED"
   slug: pejsci-a-kocicky
   title: "Pejsci a ko\u010Di\u010Dky"
 - groups:
+  - cat_slug: odevy-a-doplnky
+    group_slug: bundy
+    has_image: false
+    has_index: false
+    products:
+    - {cat_slug: odevy-a-doplnky, cat_title: "Od\u011Bvy a dopl\u0148ky", group_slug: bundy,
+      group_title: Bundy, has_image: false, image: 'false', slug: bunda-fleesova,
+      title: "Bunda fleesov\xE1"}
+    - {cat_slug: odevy-a-doplnky, cat_title: "Od\u011Bvy a dopl\u0148ky", group_slug: bundy,
+      group_title: Bundy, has_image: false, image: 'false', slug: bunda-softshell,
+      title: Bunda softshell}
+    slug: bundy
+    title: Bundy
+  - cat_slug: odevy-a-doplnky
+    group_slug: bederni-pasy-a-kukly
+    has_image: false
+    has_index: false
+    products:
+    - {cat_slug: odevy-a-doplnky, cat_title: "Od\u011Bvy a dopl\u0148ky", group_slug: bederni-pasy-a-kukly,
+      group_title: "Bedern\xED p\xE1sy a kukly", has_image: false, image: 'false',
+      slug: bederni-pas-eko, title: "Bedern\xED p\xE1s eko"}
+    - {cat_slug: odevy-a-doplnky, cat_title: "Od\u011Bvy a dopl\u0148ky", group_slug: bederni-pasy-a-kukly,
+      group_title: "Bedern\xED p\xE1sy a kukly", has_image: false, image: 'false',
+      slug: bederni-pas-siroky, title: "Bedern\xED p\xE1s \u0161irok\xFD"}
+    - {cat_slug: odevy-a-doplnky, cat_title: "Od\u011Bvy a dopl\u0148ky", group_slug: bederni-pasy-a-kukly,
+      group_title: "Bedern\xED p\xE1sy a kukly", has_image: false, image: 'false',
+      slug: kukly, title: Kukly}
+    slug: bederni-pasy-a-kukly
+    title: "Bedern\xED p\xE1sy a kukly"
   - cat_slug: odevy-a-doplnky
     group_slug: chapsy-a-minichaps-ostruhy
     has_image: false
@@ -648,52 +677,9 @@
       slug: reminky-k-ostruham, title: "\u0158em\xEDnky k ostruh\xE1m"}
     slug: chapsy-a-minichaps-ostruhy
     title: Chapsy a minichaps, ostruhy
-  - cat_slug: odevy-a-doplnky
-    group_slug: bederni-pasy-a-kukly
-    has_image: false
-    has_index: false
-    products:
-    - {cat_slug: odevy-a-doplnky, cat_title: "Od\u011Bvy a dopl\u0148ky", group_slug: bederni-pasy-a-kukly,
-      group_title: "Bedern\xED p\xE1sy a kukly", has_image: false, image: 'false',
-      slug: bederni-pas-eko, title: "Bedern\xED p\xE1s eko"}
-    - {cat_slug: odevy-a-doplnky, cat_title: "Od\u011Bvy a dopl\u0148ky", group_slug: bederni-pasy-a-kukly,
-      group_title: "Bedern\xED p\xE1sy a kukly", has_image: false, image: 'false',
-      slug: bederni-pas-siroky, title: "Bedern\xED p\xE1s \u0161irok\xFD"}
-    - {cat_slug: odevy-a-doplnky, cat_title: "Od\u011Bvy a dopl\u0148ky", group_slug: bederni-pasy-a-kukly,
-      group_title: "Bedern\xED p\xE1sy a kukly", has_image: false, image: 'false',
-      slug: kukly, title: Kukly}
-    slug: bederni-pasy-a-kukly
-    title: "Bedern\xED p\xE1sy a kukly"
-  - cat_slug: odevy-a-doplnky
-    group_slug: bundy
-    has_image: false
-    has_index: false
-    products:
-    - {cat_slug: odevy-a-doplnky, cat_title: "Od\u011Bvy a dopl\u0148ky", group_slug: bundy,
-      group_title: Bundy, has_image: false, image: 'false', slug: bunda-fleesova,
-      title: "Bunda fleesov\xE1"}
-    - {cat_slug: odevy-a-doplnky, cat_title: "Od\u011Bvy a dopl\u0148ky", group_slug: bundy,
-      group_title: Bundy, has_image: false, image: 'false', slug: bunda-softshell,
-      title: Bunda softshell}
-    slug: bundy
-    title: Bundy
   slug: odevy-a-doplnky
   title: "Od\u011Bvy a dopl\u0148ky"
 - groups:
-  - cat_slug: bytovy-textil
-    group_slug: ubrusy
-    has_image: false
-    has_index: true
-    products: []
-    slug: ubrusy
-    title: Ubrusy
-  - cat_slug: bytovy-textil
-    group_slug: potahy-na-sedacky-kresla
-    has_image: false
-    has_index: true
-    products: []
-    slug: potahy-na-sedacky-kresla
-    title: "Potahy na seda\u010Dky, k\u0159esla"
   - cat_slug: bytovy-textil
     group_slug: lozni-pradlo
     has_image: false
@@ -702,11 +688,25 @@
     slug: lozni-pradlo
     title: "Lo\u017En\xED pr\xE1dlo"
   - cat_slug: bytovy-textil
+    group_slug: potahy-na-sedacky-kresla
+    has_image: false
+    has_index: true
+    products: []
+    slug: potahy-na-sedacky-kresla
+    title: "Potahy na seda\u010Dky, k\u0159esla"
+  - cat_slug: bytovy-textil
     group_slug: zaclony-a-zavesy
     has_image: false
     has_index: true
     products: []
     slug: zaclony-a-zavesy
     title: "Z\xE1clony a z\xE1v\u011Bsy"
+  - cat_slug: bytovy-textil
+    group_slug: ubrusy
+    has_image: false
+    has_index: true
+    products: []
+    slug: ubrusy
+    title: Ubrusy
   slug: bytovy-textil
   title: "Bytov\xFD textil"

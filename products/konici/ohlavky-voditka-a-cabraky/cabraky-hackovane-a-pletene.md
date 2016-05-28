@@ -1,13 +1,13 @@
 ---
 layout: product
+cat_slug : konici
+has_image : False
+title : Čabraky háčkované a pletené
+image : false
+slug : cabraky-hackovane-a-pletene
+cat_title : Koníci
 group_slug : ohlavky-voditka-a-cabraky
 group_title : Ohlávky, vodítka a čabraky
-title : Čabraky háčkované a pletené
-cat_title : Koníci
-cat_slug : konici
-slug : cabraky-hackovane-a-pletene
-has_image : False
-image : false
 pricing:
   - variant : Čabraka háčkovaná
     price   : 390

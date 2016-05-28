@@ -1,13 +1,13 @@
 ---
 layout: product
+cat_slug : pejsci-a-kocicky
+has_image : False
+title : Činka
+image : false
+slug : cinka
+cat_title : Pejsci a kočičky
 group_slug : hracky
 group_title : Hračky
-title : Činka
-cat_title : Pejsci a kočičky
-cat_slug : pejsci-a-kocicky
-slug : cinka
-has_image : False
-image : false
 pricing:
   - variant : Činka 20cm
     price   : 40

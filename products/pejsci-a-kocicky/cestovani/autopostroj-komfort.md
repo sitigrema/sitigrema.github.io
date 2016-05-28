@@ -1,13 +1,13 @@
 ---
 layout: product
+cat_slug : pejsci-a-kocicky
+has_image : True
+title : Autopostroj komfort
+image : /products/pejsci-a-kocicky/cestovani/autopostroj-komfort.jpg
+slug : autopostroj-komfort
+cat_title : Pejsci a kočičky
 group_slug : cestovani
 group_title : Cestování
-title : Autopostroj komfort
-cat_title : Pejsci a kočičky
-cat_slug : pejsci-a-kocicky
-slug : autopostroj-komfort
-has_image : True
-image : /products/pejsci-a-kocicky/cestovani/autopostroj-komfort.jpg
 pricing:
   - variant : Postroj XS (obvod hrudníku 20-40cm)
     price   : 490

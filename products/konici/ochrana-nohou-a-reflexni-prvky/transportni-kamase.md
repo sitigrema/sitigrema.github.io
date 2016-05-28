@@ -1,13 +1,13 @@
 ---
 layout: product
+cat_slug : konici
+has_image : False
+title : Transportní kamaše
+image : false
+slug : transportni-kamase
+cat_title : Koníci
 group_slug : ochrana-nohou-a-reflexni-prvky
 group_title : Ochrana nohou a reflexní prvky
-title : Transportní kamaše
-cat_title : Koníci
-cat_slug : konici
-slug : transportni-kamase
-has_image : False
-image : false
 ---
 
 Transportní kamaše vám ušiji ve velikostech pony, cob, full.

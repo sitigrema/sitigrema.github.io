@@ -1,13 +1,13 @@
 ---
 layout: product
+cat_slug : pejsci-a-kocicky
+has_image : False
+title : Náhubek "Trubička"
+image : false
+slug : nahubek-trubicka
+cat_title : Pejsci a kočičky
 group_slug : vycvik
 group_title : Výcvik
-title : Náhubek "Trubička"
-cat_title : Pejsci a kočičky
-cat_slug : pejsci-a-kocicky
-slug : nahubek-trubicka
-has_image : False
-image : false
 pricing:
   - variant : Malý pes
     price   : 120

@@ -1,11 +1,11 @@
 ---
 layout: product_group
-group_slug : ohlavky-voditka-a-cabraky
-has_index : False
-title : Ohlávky, vodítka a čabraky
-has_image : False
 cat_slug : konici
+has_image : False
+title : Ohlávky, vodítka a čabraky
 slug : ohlavky-voditka-a-cabraky
+has_index : False
+group_slug : ohlavky-voditka-a-cabraky
 products:
   - slug: ohlavka
     title: Ohlávka

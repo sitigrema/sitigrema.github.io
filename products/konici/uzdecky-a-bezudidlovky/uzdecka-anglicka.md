@@ -1,13 +1,13 @@
 ---
 layout: product
+cat_slug : konici
+has_image : True
+title : Uzdečka anglická
+image : /products/konici/uzdecky-a-bezudidlovky/uzdecka-anglicka.jpg
+slug : uzdecka-anglicka
+cat_title : Koníci
 group_slug : uzdecky-a-bezudidlovky
 group_title : Uzdečky a bezudidlovky
-title : Uzdečka anglická
-cat_title : Koníci
-cat_slug : konici
-slug : uzdecka-anglicka
-has_image : True
-image : /products/konici/uzdecky-a-bezudidlovky/uzdecka-anglicka.jpg
 pricing:
   - variant : Uzdečka kompletní, nepodložená
     price   : 490

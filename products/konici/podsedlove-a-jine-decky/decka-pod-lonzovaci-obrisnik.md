@@ -1,13 +1,13 @@
 ---
 layout: product
+cat_slug : konici
+has_image : True
+title : Dečka pod lonžovací obřišník
+image : /products/konici/podsedlove-a-jine-decky/decka-pod-lonzovaci-obrisnik.jpg
+slug : decka-pod-lonzovaci-obrisnik
+cat_title : Koníci
 group_slug : podsedlove-a-jine-decky
 group_title : Podsedlové a jiné dečky
-title : Dečka pod lonžovací obřišník
-cat_title : Koníci
-cat_slug : konici
-slug : decka-pod-lonzovaci-obrisnik
-has_image : True
-image : /products/konici/podsedlove-a-jine-decky/decka-pod-lonzovaci-obrisnik.jpg
 pricing:
   - variant : Dečka pod lonžovací obřišník
     price   : 390
