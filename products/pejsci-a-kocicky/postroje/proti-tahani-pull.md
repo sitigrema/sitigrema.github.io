@@ -1,13 +1,14 @@
 ---
 layout: product
-cat_slug : pejsci-a-kocicky
-has_image : False
 title : Proti tahání Pull
-image : false
-slug : proti-tahani-pull
 cat_title : Pejsci a kočičky
-group_slug : postroje
 group_title : Postroje
+slug : proti-tahani-pull
+group_slug : postroje
+has_image : False
+cat_slug : pejsci-a-kocicky
+image : false
+description : Postroj proti tahání Pull je postroj, který zabraňuje tahání spodní pohyblivou částí postroje, která při tahu pejska se stáhne a znemožní mu pohyb dopředu.
 pricing:
   - variant : Postroj XS (obvod hrudníku 20-40cm)
     price   : 250
@@ -23,7 +24,9 @@ pricing:
     price   : 610
 ---
 
-Postroj proti tahání Pull je postroj, který zabraňuje tahání spodní pohyblivou částí postroje, která při tahu pejska se stáhne a znemožní mu pohyb dopředu. Barev a barevných kombinací je nepřeberné množství.
+Postroj proti tahání Pull je postroj, který zabraňuje tahání spodní pohyblivou částí postroje, která při tahu pejska se stáhne a znemožní mu pohyb dopředu.
+
+Barev a barevných kombinací je nepřeberné množství.
 
 Ceník níže uvedený je pouze za postroj, bez vodítka. V případě zájmu vám do barvy ušijeme vodítko.
 

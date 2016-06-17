@@ -1,13 +1,14 @@
 ---
 layout: product
-cat_slug : konici
-has_image : False
 title : Lonžovací obřišníky
-image : false
-slug : lonzovaci-obrisniky
 cat_title : Koníci
-group_slug : lonzovaci-potreby
 group_title : Lonžovací potřeby
+slug : lonzovaci-obrisniky
+group_slug : lonzovaci-potreby
+has_image : False
+cat_slug : konici
+image : false
+description : Nejlevnější obřišníky jsou vyráběny z nylonových popruhů s kováním, podložené obřišníkovým pásem s výplní 1cm, látka většinou bavlna.
 ---
 
 Nejlevnější obřišníky jsou vyráběny z nylonových popruhů s kováním, podložené obřišníkovým pásem s výplní 1cm, látka většinou bavlna.

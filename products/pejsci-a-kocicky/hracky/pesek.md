@@ -1,13 +1,14 @@
 ---
 layout: product
-cat_slug : pejsci-a-kocicky
-has_image : False
 title : Pešek
-image : false
-slug : pesek
 cat_title : Pejsci a kočičky
-group_slug : hracky
 group_title : Hračky
+slug : pesek
+group_slug : hracky
+has_image : False
+cat_slug : pejsci-a-kocicky
+image : false
+description : Pešek je vyroben z pevné látky nebo juty, výplň je drcený molitan.
 pricing:
   - variant : Malý pes
     price   : 60
@@ -17,5 +18,7 @@ pricing:
     price   : 120
 ---
 
-Pešek je vyroben z pevné látky nebo juty, výplň je drcený molitan. Barva dle skladové dostupnosti.  V případě že chcete hračku menší či větší tak mne prosím kontaktujte, upravíme cenu.
+Pešek je vyroben z pevné látky nebo juty, výplň je drcený molitan.
+
+Barva dle skladové dostupnosti. V případě že chcete hračku menší či větší tak mne prosím kontaktujte, upravíme cenu.
 

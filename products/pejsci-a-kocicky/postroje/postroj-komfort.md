@@ -1,13 +1,14 @@
 ---
 layout: product
-cat_slug : pejsci-a-kocicky
-has_image : False
 title : Postroj Komfort
-image : false
-slug : postroj-komfort
 cat_title : Pejsci a kočičky
-group_slug : postroje
 group_title : Postroje
+slug : postroj-komfort
+group_slug : postroje
+has_image : False
+cat_slug : pejsci-a-kocicky
+image : false
+description : Postroj komfort jsou luxusní kšandičky, měkce podložené fleesem.
 pricing:
   - variant : Postroj XS (obvod hrudníku 20-40cm)
     price   : 250
@@ -24,6 +25,7 @@ pricing:
 ---
 
 Postroj komfort jsou luxusní kšandičky, měkce podložené fleesem.
+
 Barev a barevných kombinací je nepřeberné množství. Při objednávce uveďte, jakou chcete velikost a barvu.
 
 Ceník níže uvedený je pouze za postroj, bez vodítka. V případě zájmu vám do barvy ušijeme vodítko.

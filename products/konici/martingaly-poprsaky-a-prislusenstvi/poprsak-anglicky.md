@@ -1,13 +1,14 @@
 ---
 layout: product
-cat_slug : konici
-has_image : True
 title : Poprsák anglický
-image : /products/konici/martingaly-poprsaky-a-prislusenstvi/poprsak-anglicky.jpg
-slug : poprsak-anglicky
 cat_title : Koníci
-group_slug : martingaly-poprsaky-a-prislusenstvi
 group_title : Martingaly, poprsáky a příslušenství
+slug : poprsak-anglicky
+group_slug : martingaly-poprsaky-a-prislusenstvi
+has_image : True
+cat_slug : konici
+image : /products/konici/martingaly-poprsaky-a-prislusenstvi/poprsak-anglicky.jpg
+description : Poprsák je vyroben z pevných nylonových popruhů s kováním. Je nastavitelný, ale doporučuji si koníka přeměřit.
 pricing:
   - variant : Poprsák nepodložený pony
     price   : 350

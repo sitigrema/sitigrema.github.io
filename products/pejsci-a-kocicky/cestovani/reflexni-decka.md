@@ -1,13 +1,14 @@
 ---
 layout: product
-cat_slug : pejsci-a-kocicky
-has_image : False
 title : Reflexní dečka
-image : false
-slug : reflexni-decka
 cat_title : Pejsci a kočičky
-group_slug : cestovani
 group_title : Cestování
+slug : reflexni-decka
+group_slug : cestovani
+has_image : False
+cat_slug : pejsci-a-kocicky
+image : false
+description : Reflexní dečku oceníte v jakémkoliv případě, kdy je šero či tma. Reflexní dečku můžeme vyrobit z jakékoliv látky a barvy, též lze zvolit z několika typů reflexním doplňků.
 pricing:
   - variant : Reflexní dečka XS (obvod hrudníku 20-40cm)
     price   : 490
@@ -23,5 +24,7 @@ pricing:
     price   : 590
 ---
 
-Reflexní dečku oceníte v jakémkoliv případě, kdy je šero či tma. Reflexní dečku můžeme vyrobit z jakékoliv látky a barvy, též lze zvolit z několika typů reflexním doplňků. Dečku lze zvolit i tak, že za příplatek 100,-Kč, budou reflexní prvky na suchý zip a můžete je kdykoliv sundat. Ceník níže uvedený, je za tenké letní dečky z fleesu, bez možnosti reflexy sundat, v případě zájmu dečku ze softshellu, o zimní dečku či pláštěnku, se ceník liší dle spotřeby materiálu a práce.
+Reflexní dečku oceníte v jakémkoliv případě, kdy je šero či tma. Reflexní dečku můžeme vyrobit z jakékoliv látky a barvy, též lze zvolit z několika typů reflexním doplňků.
+
+Dečku lze zvolit i tak, že za příplatek 100&nbsp;Kč, budou reflexní prvky na suchý zip a můžete je kdykoliv sundat. Ceník níže uvedený, je za tenké letní dečky z fleesu, bez možnosti reflexy sundat, v případě zájmu dečku ze softshellu, o zimní dečku či pláštěnku, se ceník liší dle spotřeby materiálu a práce.
 

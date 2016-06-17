@@ -1,13 +1,14 @@
 ---
 layout: product
-cat_slug : konici
-has_image : True
 title : Podložky pod bandáže
-image : /products/konici/ochrana-nohou-a-reflexni-prvky/podlozky-pod-bandaze.jpg
-slug : podlozky-pod-bandaze
 cat_title : Koníci
-group_slug : ochrana-nohou-a-reflexni-prvky
 group_title : Ochrana nohou a reflexní prvky
+slug : podlozky-pod-bandaze
+group_slug : ochrana-nohou-a-reflexni-prvky
+has_image : True
+cat_slug : konici
+image : /products/konici/ochrana-nohou-a-reflexni-prvky/podlozky-pod-bandaze.jpg
+description : Podložky jsou vyrobeny z látky. Výplň podložek je molitan.Mohou a nemusí být se zapínáním na suchý zip.
 pricing:
   - variant : Podložky, tlouštka 0,5cm, pony, 4ks
     price   : 400
@@ -19,8 +20,9 @@ pricing:
     price   : 500
 ---
 
-Podložky jsou vyrobeny z látky. Výplň podložek je molitan. 
-Mohou a nemusí být se zapínáním na suchý zip. 
+Podložky jsou vyrobeny z látky. Výplň podložek je molitan.
+Mohou a nemusí být se zapínáním na suchý zip.
+
 V případě zájmu o zapínání na suchý zip je příplatek 30&nbsp;Kč za jednu podložku.
 
 Tloušťka podložek může být 0,5cm a nebo 1cm. V případě zájmu mohu za příplatek vyrobit i silnější.

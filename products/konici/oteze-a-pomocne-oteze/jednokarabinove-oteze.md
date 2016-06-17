@@ -1,13 +1,14 @@
 ---
 layout: product
-cat_slug : konici
-has_image : True
 title : Jednokarabinové otěže
-image : /products/konici/oteze-a-pomocne-oteze/jednokarabinove-oteze.jpg
-slug : jednokarabinove-oteze
 cat_title : Koníci
-group_slug : oteze-a-pomocne-oteze
 group_title : Otěže a pomocné otěže
+slug : jednokarabinove-oteze
+group_slug : oteze-a-pomocne-oteze
+has_image : True
+cat_slug : konici
+image : /products/konici/oteze-a-pomocne-oteze/jednokarabinove-oteze.jpg
+description : Jednokarabinové otěže jsou vhodné pro ježdění koníka na ohlávce. Velice často je využívají příznivci přirozené komunikace. 
 pricing:
   - variant : Jednokarabinové otěže ploché
     price   : 300

@@ -1,13 +1,14 @@
 ---
 layout: product
-cat_slug : konici
-has_image : True
 title : Průvlečky
-image : /products/konici/oteze-a-pomocne-oteze/pruvlecky.jpg
-slug : pruvlecky
 cat_title : Koníci
-group_slug : oteze-a-pomocne-oteze
 group_title : Otěže a pomocné otěže
+slug : pruvlecky
+group_slug : oteze-a-pomocne-oteze
+has_image : True
+cat_slug : konici
+image : /products/konici/oteze-a-pomocne-oteze/pruvlecky.jpg
+description : Průvlečky jsou vyráběny z pevných nylonových popruhů.
 pricing:
   - variant : Průvlečky s karabinkami
     price   : 450
@@ -16,6 +17,7 @@ pricing:
 ---
 
 Průvlečky jsou vyráběny z pevných nylonových popruhů.
+
 Doporučuji si průvlečky při objednávce přeměřit, případně přeměřit koníka, aby jste si neobjednali zbytečně krátké nebo dlouhé.
 Samostatné očko na podbřišník pro rychlé odepínání průvleček stojí 50&nbsp;Kč.
 Možnost objednání různých barev.

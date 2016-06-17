@@ -1,11 +1,11 @@
 ---
 layout: product_group
-cat_slug : konici
-has_image : False
 title : Podsedlové a jiné dečky
+has_image : False
 slug : podsedlove-a-jine-decky
-has_index : False
 group_slug : podsedlove-a-jine-decky
+cat_slug : konici
+has_index : False
 products:
   - slug: decka-obdelnikova
     title: Dečka obdélníková

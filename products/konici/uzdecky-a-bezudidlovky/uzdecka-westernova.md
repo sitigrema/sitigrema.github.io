@@ -1,13 +1,14 @@
 ---
 layout: product
-cat_slug : konici
-has_image : False
 title : Uzdečka westernová
-image : false
-slug : uzdecka-westernova
 cat_title : Koníci
-group_slug : uzdecky-a-bezudidlovky
 group_title : Uzdečky a bezudidlovky
+slug : uzdecka-westernova
+group_slug : uzdecky-a-bezudidlovky
+has_image : False
+cat_slug : konici
+image : false
+description : Všechny uzdečky jsou vyrobeny z kvalitních pevných nylonových popruhů s kováním.
 pricing:
   - variant : Uzdečka bez nánosníku, nepodložená
     price   : 390
@@ -28,6 +29,7 @@ pricing:
 ---
 
 Všechny uzdečky jsou vyrobeny z kvalitních pevných nylonových popruhů s kováním.
+
 Uzdečky jsou běžně zakončeny u udidla přezkami v nebo v případě zájmu za příplatek 60&nbsp;Kč karabinkami.
 K uzdečkám mohu dodat i "náhradní díly".
 

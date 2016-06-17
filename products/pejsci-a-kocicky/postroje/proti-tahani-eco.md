@@ -1,13 +1,14 @@
 ---
 layout: product
-cat_slug : pejsci-a-kocicky
-has_image : False
 title : Proti tahání Eco
-image : false
-slug : proti-tahani-eco
 cat_title : Pejsci a kočičky
-group_slug : postroje
 group_title : Postroje
+slug : proti-tahani-eco
+group_slug : postroje
+has_image : False
+cat_slug : pejsci-a-kocicky
+image : false
+description : Postroj proti tahání je vhodný pro jakékoliv plemeno.
 pricing:
   - variant : Postroj XS (obvod hrudníku 20-40cm)
     price   : 190
@@ -23,7 +24,9 @@ pricing:
     price   : 490
 ---
 
-Postroj proti tahání je vhodný pro jakékoliv plemeno. Barev a barevných kombinací je nepřeberné množství.
+Postroj proti tahání je vhodný pro jakékoliv plemeno.
+
+Barev a barevných kombinací je nepřeberné množství.
 
 Ceník níže uvedený je pouze za postroj, bez vodítka. V případě zájmu vám do barvy ušijeme vodítko.
 

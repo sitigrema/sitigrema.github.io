@@ -1,11 +1,11 @@
 ---
 layout: product_group
-cat_slug : pejsci-a-kocicky
-has_image : False
 title : Cestování
+has_image : False
 slug : cestovani
-has_index : False
 group_slug : cestovani
+cat_slug : pejsci-a-kocicky
+has_index : False
 products:
   - slug: autopostroj-eco
     title: Autopostroj eco

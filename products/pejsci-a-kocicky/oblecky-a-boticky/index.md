@@ -1,11 +1,11 @@
 ---
 layout: product_group
-cat_slug : pejsci-a-kocicky
-has_image : False
 title : Oblečky a botičky
+has_image : False
 slug : oblecky-a-boticky
-has_index : True
 group_slug : oblecky-a-boticky
+cat_slug : pejsci-a-kocicky
+has_index : True
 products:
   - slug: boticky
     title: Botičky
@@ -36,4 +36,8 @@ products:
     has_image: False
 ---
 
-V případě zájmu, můžeme na vašeho pejska ušít slušivou mikinku nebo obleček, popřípadě uháčkovat či uplést svetřík. Fantazii a hlavně praktičnosti se meze nekladou. Cena je vždy dle dohody jak zakázka bude vypadat, spotřeby materiálu a práce. Barev a barevných kombinací je nepřeberné množství.
+V případě zájmu, můžeme na vašeho pejska ušít slušivou mikinku nebo obleček, popřípadě uháčkovat či uplést svetřík.
+
+Fantazii a hlavně praktičnosti se meze nekladou. Cena je vždy dle dohody jak zakázka bude vypadat, spotřeby materiálu a práce.
+
+Barev a barevných kombinací je nepřeberné množství.

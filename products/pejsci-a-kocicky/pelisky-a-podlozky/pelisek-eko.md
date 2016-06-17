@@ -1,13 +1,14 @@
 ---
 layout: product
-cat_slug : pejsci-a-kocicky
-has_image : True
 title : Pelíšek eko
-image : /products/pejsci-a-kocicky/pelisky-a-podlozky/pelisek-eko.jpg
-slug : pelisek-eko
 cat_title : Pejsci a kočičky
-group_slug : pelisky-a-podlozky
 group_title : Pelíšky a podložky
+slug : pelisek-eko
+group_slug : pelisky-a-podlozky
+has_image : True
+cat_slug : pejsci-a-kocicky
+image : /products/pejsci-a-kocicky/pelisky-a-podlozky/pelisek-eko.jpg
+description : Pelíšky lze ušít s výplní drcený molitan či jako podložku - tedy z molitanové desky.
 pricing:
   - variant : Pelíšek 30 x 30cm
     price   : 290
@@ -27,5 +28,9 @@ pricing:
     price   : 650
 ---
 
-Pelíšky lze ušít s výplní drcený molitan či jako podložku – tedy z molitanové desky. Barev a barevných kombinací je nepřeberné množství. Pelíšek lze udělat oválný či čtvercový. Ceník níže uvedený je za pelíšek s výplní 4-5cm drceným molitanem, v případě zájmu o jinou tloušťku či jiný rozměr mne prosím kontaktujte, po zadání požadavku vám vystavíme cenu pelíšku na míru přímo pro vás.
+Pelíšky lze ušít s výplní drcený molitan či jako podložku - tedy z molitanové desky.
+
+Barev a barevných kombinací je nepřeberné množství. Pelíšek lze udělat oválný či čtvercový.
+
+Ceník níže uvedený je za pelíšek s výplní 4-5cm drceným molitanem, v případě zájmu o jinou tloušťku či jiný rozměr mne prosím kontaktujte, po zadání požadavku vám vystavíme cenu pelíšku na míru přímo pro vás.
 

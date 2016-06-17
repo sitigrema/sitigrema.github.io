@@ -1,11 +1,11 @@
 ---
 layout: product_group
-cat_slug : odevy-a-doplnky
-has_image : False
 title : Bundy
+has_image : False
 slug : bundy
-has_index : False
 group_slug : bundy
+cat_slug : odevy-a-doplnky
+has_index : False
 products:
   - slug: bunda-fleesova
     title: Bunda fleesová

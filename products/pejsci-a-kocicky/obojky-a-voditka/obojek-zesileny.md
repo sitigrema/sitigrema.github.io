@@ -1,13 +1,14 @@
 ---
 layout: product
-cat_slug : pejsci-a-kocicky
-has_image : True
 title : Obojek zesílený
-image : /products/pejsci-a-kocicky/obojky-a-voditka/obojek-zesileny.jpg
-slug : obojek-zesileny
 cat_title : Pejsci a kočičky
-group_slug : obojky-a-voditka
 group_title : Obojky a vodítka
+slug : obojek-zesileny
+group_slug : obojky-a-voditka
+has_image : True
+cat_slug : pejsci-a-kocicky
+image : /products/pejsci-a-kocicky/obojky-a-voditka/obojek-zesileny.jpg
+description : Obojky lze vyrobit v různých barvách, šířkách a délkách. Obojek zesílený je vyroben z dvojitého nylonového popruhu, kovový půlkruh a kovová přezka.
 pricing:
   - variant : XS (15-25cm)
     price   : 170
@@ -21,5 +22,11 @@ pricing:
     price   : 210
 ---
 
-Obojky lze vyrobit v různých barvách, šířkách a délkách. Obojek zesílený je vyroben z dvojitého nylonového popruhu, kovový půlkruh a kovová přezka. V případě zájmu o cvak přezku z plastu je příplatek 50,-Kč, cvak přezka kovová 80,-Kč. Obojek lze vypodložit fleesem za příplatek 80,-Kč. Ceník uvedený níže je platný pro šířku popruhů 0,5cm až 2cm, v případě, že chcete popruh širší například pro chrta nebo jiný rozměr než je v popisku, prosím kontaktujte mne, že máte jiný požadavek, cena se odvodí dle spotřeby materiálu a práce.
+Obojky lze vyrobit v různých barvách, šířkách a délkách. Obojek zesílený je vyroben z dvojitého nylonového popruhu, kovový půlkruh a kovová přezka.
+
+V případě zájmu o cvak přezku z plastu je příplatek 50 Kč, cvak přezka kovová 80 Kč.
+Obojek lze vypodložit fleesem za příplatek 80 Kč.
+
+Ceník uvedený níže je platný pro šířku popruhů 0,5cm až 2cm.
+V případě, že chcete popruh širší například pro chrta nebo jiný rozměr než je v popisku, prosím kontaktujte mě, že máte jiný požadavek. Cena se odvodí dle spotřeby materiálu a práce.
 

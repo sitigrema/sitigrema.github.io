@@ -57,7 +57,8 @@ class GremaProduct():
             return
 
         # read description and pricelist
-
+        description = ""
+        description_done = False
         product_text = ""
         pricelist = []
         for pline in open(self.data_path).readlines():
@@ -65,14 +66,19 @@ class GremaProduct():
             if len(r) == 2 and r[1].strip().isdigit():
                 pricelist.append(r)
                 continue
+            if pline.strip() == "":
+                description_done = True
+            if not description_done:
+                description += pline
             product_text += pline
-
+        description = description.replace("\n", "")
 	# write file
 
         with open(os.path.join(root_dir, self.meta["slug"] + ".md"), "w") as f:
             f.write("---\nlayout: product\n")
             for key in self.meta:
                 f.write("{} : {}\n".format(key, self.meta[key]))
+            f.write("description : {}\n".format(description))
             if pricelist:
                 f.write("pricing:\n")
                 for v, c in pricelist:

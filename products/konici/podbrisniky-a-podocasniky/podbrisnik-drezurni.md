@@ -1,13 +1,14 @@
 ---
 layout: product
-cat_slug : konici
-has_image : True
 title : Podbřišník drezurní
-image : /products/konici/podbrisniky-a-podocasniky/podbrisnik-drezurni.jpg
-slug : podbrisnik-drezurni
 cat_title : Koníci
-group_slug : podbrisniky-a-podocasniky
 group_title : Podbřišníky a podocasníky
+slug : podbrisnik-drezurni
+group_slug : podbrisniky-a-podocasniky
+has_image : True
+cat_slug : konici
+image : /products/konici/podbrisniky-a-podocasniky/podbrisnik-drezurni.jpg
+description : Podbřišník je v základním provedení bavlněný. Může být klasicky rovný a nebo anatomicky tvarovaný. 
 ---
 
 Podbřišník je v základním provedení bavlněný. 

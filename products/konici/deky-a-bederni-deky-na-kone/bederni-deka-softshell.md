@@ -1,13 +1,14 @@
 ---
 layout: product
-cat_slug : konici
-has_image : False
 title : Bederní deka softshell
-image : false
-slug : bederni-deka-softshell
 cat_title : Koníci
-group_slug : deky-a-bederni-deky-na-kone
 group_title : Deky a bederní deky na koně
+slug : bederni-deka-softshell
+group_slug : deky-a-bederni-deky-na-kone
+has_image : False
+cat_slug : konici
+image : false
+description : Bederní deka je na lícní straně softshellová, rubová strana může být podšitá fleesem, popřípadě za příplatek nukubou či jiným materiálem.
 pricing:
   - variant : Bederní deka softshell pony
     price   : 1090

@@ -1,22 +1,22 @@
 ---
 layout: product
-cat_slug : konici
-has_image : True
 title : Třmenové řemeny klasické
-image : /products/konici/trmeny-a-trmenove-remeny/trmenove-remeny-klasicke.jpg
-slug : trmenove-remeny-klasicke
 cat_title : Koníci
-group_slug : trmeny-a-trmenove-remeny
 group_title : Třmeny a třmenové řemeny
+slug : trmenove-remeny-klasicke
+group_slug : trmeny-a-trmenove-remeny
+has_image : True
+cat_slug : konici
+image : /products/konici/trmeny-a-trmenove-remeny/trmenove-remeny-klasicke.jpg
+description : Řemeny jsou šité z kvalitních pevných popruhů a můžete je objednat v různých barevných kombinacích.
 pricing:
   - variant : Třmenové řemeny klasické
     price   : 390
 ---
 
-Řemeny jsou šité z kvalitních pevných popruhů.
-Možnost objednání různých barevných kombinací.
+Řemeny jsou šité z kvalitních pevných popruhů a můžete je objednat v různých barevných kombinacích.
 
-Velikost, uvedena je celková délka:
+Celková délka:
 
  - Dětské 1,2m
  - Dospělé 1,5m

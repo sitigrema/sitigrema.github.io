@@ -1,13 +1,14 @@
 ---
 layout: product
-cat_slug : konici
-has_image : False
 title : Podsedlová dečka dostihová
-image : false
-slug : podsedlova-decka-dostihova
 cat_title : Koníci
-group_slug : podsedlove-a-jine-decky
 group_title : Podsedlové a jiné dečky
+slug : podsedlova-decka-dostihova
+group_slug : podsedlove-a-jine-decky
+has_image : False
+cat_slug : konici
+image : false
+description : Dostihová dečka v základním provedení je vyrobena pouze z látky, bez výplně.Dečku lze vyrobit i s výplní - molitan v síle 0,5cm, 1cm nebo po domluvě i silnější.
 pricing:
   - variant : Dečka pod dostihové sedlo
     price   : 600
@@ -15,6 +16,7 @@ pricing:
 
 Dostihová dečka v základním provedení je vyrobena pouze z látky, bez výplně.
 Dečku lze vyrobit i s výplní - molitan v síle 0,5cm, 1cm nebo po domluvě i silnější.
+
 Tvar dečky je většinou obdélníkový.
 Při objednávce prosím definujte jak chcete, aby dečka vypadala, protože možností provedení je nespočet.
 

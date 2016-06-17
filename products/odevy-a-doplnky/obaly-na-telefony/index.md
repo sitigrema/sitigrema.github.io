@@ -1,11 +1,11 @@
 ---
 layout: product_group
-cat_slug : odevy-a-doplnky
-has_image : False
 title : Obaly na telefony
+has_image : False
 slug : obaly-na-telefony
-has_index : False
 group_slug : obaly-na-telefony
+cat_slug : odevy-a-doplnky
+has_index : False
 products:
 ---
 

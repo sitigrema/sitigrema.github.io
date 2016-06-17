@@ -1,13 +1,14 @@
 ---
 layout: product
-cat_slug : pejsci-a-kocicky
-has_image : False
 title : Obojek posuvný
-image : false
-slug : obojek-posuvny
 cat_title : Pejsci a kočičky
-group_slug : obojky-a-voditka
 group_title : Obojky a vodítka
+slug : obojek-posuvny
+group_slug : obojky-a-voditka
+has_image : True
+cat_slug : pejsci-a-kocicky
+image : /products/pejsci-a-kocicky/obojky-a-voditka/obojek-posuvny.jpg
+description : Obojky lze vyrobit v různých délkách, šířkách a barvách. Standardní provedení je nylonový popruh, kovový půlkruh, kovová přezka a posuvná zarážka, která je většinou plastová.
 pricing:
   - variant : XS (15-25cm)
     price   : 120
@@ -21,5 +22,9 @@ pricing:
     price   : 160
 ---
 
-Obojky lze vyrobit v různých délkách, šířkách a barvách. Standartní provedení je nylonový popruh, kovový půlkruh, kovová přezka a posuvná zarážka, která je většinou plastová. V případě zájmu o cvak přezku z plastu je příplatek 50,-Kč, cvak přezka kovová 80,-Kč. Ceník uvedený níže je platný pro šířku popruhů 0,5cm až 2cm, v případě, že chcete popruh širší například pro chrta nebo jiný rozměr než je v popisku, prosím kontaktujte mne, že máte jiný požadavek, cena se odvodí dle spotřeby materiálu a práce.
+Obojky lze vyrobit v různých délkách, šířkách a barvách. Standardní provedení je nylonový popruh, kovový půlkruh, kovová přezka a posuvná zarážka, která je většinou plastová.
+
+V případě zájmu o cvak přezku z plastu je příplatek 50&nbsp;Kč, cvak přezka kovová 807&nbsp;Kč.
+Ceník uvedený níže je platný pro šířku popruhů 0,5cm až 2cm, v případě, že chcete popruh širší například pro chrta nebo jiný rozměr než je v popisku,
+kontaktujte mě, že máte jiný požadavek. Cena se poté odvodí dle spotřeby materiálu a práce.
 

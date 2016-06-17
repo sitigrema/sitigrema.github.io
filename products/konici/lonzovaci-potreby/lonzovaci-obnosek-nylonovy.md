@@ -1,13 +1,14 @@
 ---
 layout: product
-cat_slug : konici
-has_image : False
 title : Lonžovací obnosek nylonový
-image : false
-slug : lonzovaci-obnosek-nylonovy
 cat_title : Koníci
-group_slug : lonzovaci-potreby
 group_title : Lonžovací potřeby
+slug : lonzovaci-obnosek-nylonovy
+group_slug : lonzovaci-potreby
+has_image : False
+cat_slug : konici
+image : false
+description : Lonžovací obnosek je vyráběn z nylonového popruhu s kováním, na nátylníku a nánosníku je komfortně podložen fleesem. 
 pricing:
   - variant : Lonžovací obnosek nylonový
     price   : 790

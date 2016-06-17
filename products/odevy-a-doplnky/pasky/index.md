@@ -1,11 +1,11 @@
 ---
 layout: product_group
-cat_slug : odevy-a-doplnky
-has_image : False
 title : Pásky
+has_image : False
 slug : pasky
-has_index : False
 group_slug : pasky
+cat_slug : odevy-a-doplnky
+has_index : False
 products:
 ---
 

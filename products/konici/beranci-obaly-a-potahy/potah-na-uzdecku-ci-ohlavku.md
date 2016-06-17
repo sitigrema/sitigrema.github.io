@@ -1,39 +1,26 @@
 ---
 layout: product
-cat_slug : konici
-has_image : False
 title : Potah na uzdečku či ohlávku
-image : false
-slug : potah-na-uzdecku-ci-ohlavku
 cat_title : Koníci
-group_slug : beranci-obaly-a-potahy
 group_title : Beránci, obaly a potahy
+slug : potah-na-uzdecku-ci-ohlavku
+group_slug : beranci-obaly-a-potahy
+has_image : False
+cat_slug : konici
+image : false
+description : Potah je vhodný pro koně co se odírají či jako modní doplněk pro sladění vašeho setu.
+pricing:
+  - variant : Potah na uzdečku či ohlávku - fleesový
+    price   : 80
+  - variant : Potah na uzdečku či ohlávku - umělý beránek
+    price   : 100
+  - variant : Potah na uzdečku či ohlávku - pravý beránek
+    price   : 150
 ---
 
-Potah na uzdečku či ohlávku - fleesový
---------------------------------------
-
-Za cenu 80&nbsp;Kč je k dostání 1ks potahu se suchým zipem.
+Potah je vhodný pro koně co se odírají či jako modní doplněk pro sladění vašeho setu.
 
 Prosím v objednávce specifikujte na jakou část uzdečky či ohlávky si potah přejete.
-Vhodné pro koně co se odírají či jako modní doplněk pro sladění vašeho setu.
 Možnost objednání různých barev.
-
-Potah na uzdečku či ohlávku - umělý beránek
--------------------------------------------
-
-Za cenu 100&nbsp;Kč je k dostání 1ks potahu se suchým zipem.
-
-Prosím v objednávce specifikujte na jakou část uzdečky či ohlávky si potah přejete.
-Vhodné pro koně co se odírají či jako modní doplněk pro sladění vašeho setu.
-Možnost objednání různých barev.
-
-Potah na uzdečku či ohlávku - pravý beránek
--------------------------------------------
-
-Za cenu 150&nbsp;Kč je k dostání 1ks potahu se suchým zipem.
-
-Prosím v objednávce specifikujte na jakou část uzdečky či ohlávky si potah přejete.
-Vhodné pro koně co se odírají či jako modní doplněk pro sladění vašeho setu.
-K dostání v přírodní barvě, tmavě hnědé, černé a v hnědobílé – žíhané.
+Potah z pravého beránka je k dostání v přírodní barvě, tmavě hnědé, černé a v hnědobílé - žíhané.
 

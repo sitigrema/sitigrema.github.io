@@ -1,13 +1,14 @@
 ---
 layout: product
-cat_slug : pejsci-a-kocicky
-has_image : False
 title : Přetahovadlo
-image : false
-slug : pretahovadlo
 cat_title : Pejsci a kočičky
-group_slug : hracky
 group_title : Hračky
+slug : pretahovadlo
+group_slug : hracky
+has_image : False
+cat_slug : pejsci-a-kocicky
+image : false
+description : Přetahovadlo je vyrobeno z pletených lan či pruhů látky.
 pricing:
   - variant : Přetahovadlo 40cm
     price   : 40
@@ -19,5 +20,7 @@ pricing:
     price   : 70
 ---
 
-Přetahovadlo je vyrobeno z pletených lan či pruhů látky. Barva dle skladové dostupnosti.  V případě že chcete hračku menší či větší tak mne prosím kontaktujte, upravíme cenu.
+Přetahovadlo je vyrobeno z pletených lan či pruhů látky.
+
+Barva dle skladové dostupnosti. V případě že chcete hračku menší či větší tak mne prosím kontaktujte, upravíme cenu.
 

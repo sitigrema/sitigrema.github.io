@@ -1,13 +1,14 @@
 ---
 layout: product
-cat_slug : konici
-has_image : True
 title : Martingal anglický
-image : /products/konici/martingaly-poprsaky-a-prislusenstvi/martingal-anglicky.jpg
-slug : martingal-anglicky
 cat_title : Koníci
-group_slug : martingaly-poprsaky-a-prislusenstvi
 group_title : Martingaly, poprsáky a příslušenství
+slug : martingal-anglicky
+group_slug : martingaly-poprsaky-a-prislusenstvi
+has_image : True
+cat_slug : konici
+image : /products/konici/martingaly-poprsaky-a-prislusenstvi/martingal-anglicky.jpg
+description : Martingal je vyroben z pevných nylonových popruhů s kováním.
 pricing:
   - variant : Martingal pony
     price   : 350

@@ -1,13 +1,14 @@
 ---
 layout: product
-cat_slug : pejsci-a-kocicky
-has_image : False
 title : Pelíšek komfort
-image : false
-slug : pelisek-komfort
 cat_title : Pejsci a kočičky
-group_slug : pelisky-a-podlozky
 group_title : Pelíšky a podložky
+slug : pelisek-komfort
+group_slug : pelisky-a-podlozky
+has_image : False
+cat_slug : pejsci-a-kocicky
+image : false
+description : Pelíšek komfort je vyplněn drceným molitanem v tloušťce 8-10cm.
 pricing:
   - variant : Pelíšek 30 x 30cm
     price   : 420
@@ -27,5 +28,7 @@ pricing:
     price   : 1120
 ---
 
-Pelíšek komfort je vyplněn drceným molitanem v tloušťce 8-10cm. Barev a barevných kombinací je nepřeberné množství. Pelíšek lze udělat oválný či čtvercový. V případě zájmu o jiný rozměr pelíšku mne prosím kontaktujte a já vám ho nacením.
+Pelíšek komfort je vyplněn drceným molitanem v tloušťce 8-10cm.
+
+Barev a barevných kombinací je nepřeberné množství. Pelíšek lze udělat oválný či čtvercový. V případě zájmu o jiný rozměr pelíšku mne prosím kontaktujte a já vám ho nacením.
 

@@ -1,13 +1,14 @@
 ---
 layout: product
-cat_slug : pejsci-a-kocicky
-has_image : False
 title : Autopostroj eco
-image : false
-slug : autopostroj-eco
 cat_title : Pejsci a kočičky
-group_slug : cestovani
 group_title : Cestování
+slug : autopostroj-eco
+group_slug : cestovani
+has_image : False
+cat_slug : pejsci-a-kocicky
+image : false
+description : Autopostroj eco vyrábíme z pevných nylonových popruhů a kování. Na postroji v místě zad pejska, či kočičky je umístěn kroužek, do kterého lze zapnout spojku k zástrčce autopásu.
 pricing:
   - variant : Postroj XS (obvod hrudníku 20-40cm)
     price   : 190
@@ -23,5 +24,7 @@ pricing:
     price   : 290
 ---
 
-Autopostroj eco vyrábíme z pevných nylonových popruhů a kování.  Na postroji v místě zad pejska, či kočičky je umístěn kroužek, do kterého lze zapnout spojku k zástrčce autopásu. Spojka k autopásu je v případě objednání postroje za příplatek 100,-Kč. Barev a barevných kombinací je nepřeberné množství.
+Autopostroj eco vyrábíme z pevných nylonových popruhů a kování. Na postroji v místě zad pejska, či kočičky je umístěn kroužek, do kterého lze zapnout spojku k zástrčce autopásu.
+
+Spojka k autopásu je v případě objednání postroje za příplatek 100&nbsp;Kč. Barev a barevných kombinací je nepřeberné množství.
 

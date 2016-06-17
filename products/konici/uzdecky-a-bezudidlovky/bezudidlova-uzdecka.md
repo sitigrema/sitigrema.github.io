@@ -1,26 +1,27 @@
 ---
 layout: product
-cat_slug : konici
-has_image : True
 title : Bezudidlová uzdečka
-image : /products/konici/uzdecky-a-bezudidlovky/bezudidlova-uzdecka.jpg
-slug : bezudidlova-uzdecka
 cat_title : Koníci
-group_slug : uzdecky-a-bezudidlovky
 group_title : Uzdečky a bezudidlovky
+slug : bezudidlova-uzdecka
+group_slug : uzdecky-a-bezudidlovky
+has_image : True
+cat_slug : konici
+image : /products/konici/uzdecky-a-bezudidlovky/bezudidlova-uzdecka.jpg
+description : Uzdečka obsahuje nátylník, lícnice, podhrdelník, čelenku, nánosník.Podložená může být fleesem na nátylníku, čelence a na nánosníku.
 pricing:
-  - variant : Bezudidlová uzdečka – s kroužky na nánosníku, nepodložená
+  - variant : Bezudidlová uzdečka - s kroužky na nánosníku, nepodložená
     price   : 490
-  - variant : Bezudidlová uzdečka – s kroužky na nánosníku, podložená
+  - variant : Bezudidlová uzdečka - s kroužky na nánosníku, podložená
     price   : 590
 ---
 
-Uzdečka obsahuje nátylník, lícnice, podhrdelník, čelenku, nánosník. 
-Podložená může být fleesem na nátylníku, čelence a na nánosníku. 
+Uzdečka obsahuje nátylník, lícnice, podhrdelník, čelenku, nánosník.
+Podložená může být fleesem na nátylníku, čelence a na nánosníku.
 
-Možnost objednání různých barevných kombinací. 
-Uzdečka je vyrobena z kvalitních pevných nylonových popruhů s kováním ve velikostech pony, cob, full, XLfull. 
+Možnost objednání různých barevných kombinací.
+Uzdečka je vyrobena z kvalitních pevných nylonových popruhů s kováním ve velikostech pony, cob, full, XLfull.
 
-V případě že si nejste jisti, jakou máte velikost zhotovím vám jí na míru dle zaslaných rozměrů podle vaší uzdečky. 
-K uzdečkám mohu dodat i tzv "náhradní díly".
+V případě že si nejste jisti, jakou máte velikost zhotovím vám jí na míru dle zaslaných rozměrů podle vaší uzdečky.
+K uzdečkám mohu dodat i "náhradní díly".
 

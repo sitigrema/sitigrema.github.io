@@ -3,15 +3,15 @@ requirejs.config({
     baseUrl: "js",
     paths: {
         'jquery': ['/static/js/jquery.min'],
-        'bootstrap': ['/static/js/bootstrap.min']
+        'bootstrap': ['/static/js/bootstrap.min'],
+        'social': ['/static/js/social']
     },
     shim: {
-        /* Set bootstrap dependencies (just jQuery) */
         'bootstrap' : ['jquery']
     }
 });
 
-require(['jquery', 'bootstrap'], function($) {
+require(['jquery', 'bootstrap', 'social'], function($) {
     console.log("Loaded :)");
     return {};
 });

@@ -1,11 +1,11 @@
 ---
 layout: product_group
-cat_slug : odevy-a-doplnky
-has_image : False
 title : Mikiny
+has_image : False
 slug : mikiny
-has_index : False
 group_slug : mikiny
+cat_slug : odevy-a-doplnky
+has_index : False
 products:
 ---
 

@@ -1,13 +1,14 @@
 ---
 layout: product
-cat_slug : pejsci-a-kocicky
-has_image : False
 title : Postroj Klasik
-image : false
-slug : postroj-klasik
 cat_title : Pejsci a kočičky
-group_slug : postroje
 group_title : Postroje
+slug : postroj-klasik
+group_slug : postroje
+has_image : False
+cat_slug : pejsci-a-kocicky
+image : false
+description : Klasické kšandičky, které každý zná, jsou snad nejpoužívanější a nejlevnější variantou postrojů na trhu.
 pricing:
   - variant : Postroj XS (obvod hrudníku 20-40cm)
     price   : 190
@@ -23,7 +24,9 @@ pricing:
     price   : 490
 ---
 
-Klasické kšandičky, které každý zná, jsou snad nejpoužívanější a nejlevnější variantou postrojů na trhu. Barev a barevných kombinací je nepřeberné množství. Při objednávce uveďte, jakou chcete velikost a barvu.
+Klasické kšandičky, které každý zná, jsou snad nejpoužívanější a nejlevnější variantou postrojů na trhu.
+
+Barev a barevných kombinací je nepřeberné množství. Při objednávce uveďte, jakou chcete velikost a barvu.
 
 Ceník níže uvedený je pouze za postroj, bez vodítka. V případě zájmu vám do barvy ušijeme vodítko.
 

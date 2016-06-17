@@ -1,13 +1,14 @@
 ---
 layout: product
-cat_slug : konici
-has_image : True
 title : Uzdečka jednořemínková v kombinaci s provazovou ohlávkou
-image : /products/konici/uzdecky-a-bezudidlovky/uzdecka-jednoreminkova-v-kombinaci-s-provazovou-ohlavkou.jpg
-slug : uzdecka-jednoreminkova-v-kombinaci-s-provazovou-ohlavkou
 cat_title : Koníci
-group_slug : uzdecky-a-bezudidlovky
 group_title : Uzdečky a bezudidlovky
+slug : uzdecka-jednoreminkova-v-kombinaci-s-provazovou-ohlavkou
+group_slug : uzdecky-a-bezudidlovky
+has_image : True
+cat_slug : konici
+image : /products/konici/uzdecky-a-bezudidlovky/uzdecka-jednoreminkova-v-kombinaci-s-provazovou-ohlavkou.jpg
+description : Uzdečka jednořemínková s ohlávkou obsahuje kombinaci jednoduché uzdečky a ohlávky. Je vyrobena z kvalitních pevných nylonových popruhů s kováním a může být podložená feesem v oblasti nátylníku.
 pricing:
   - variant : Uzdečka jednořemínková v kombinaci s provazovou ohlávkou, nepodložená
     price   : 340

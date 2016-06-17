@@ -1,13 +1,14 @@
 ---
 layout: product
-cat_slug : konici
-has_image : True
 title : Uzdečka v kombinaci s provazovou ohlávkou
-image : /products/konici/uzdecky-a-bezudidlovky/uzdecka-v-kombinaci-s-provazovou-ohlavkou.jpg
-slug : uzdecka-v-kombinaci-s-provazovou-ohlavkou
 cat_title : Koníci
-group_slug : uzdecky-a-bezudidlovky
 group_title : Uzdečky a bezudidlovky
+slug : uzdecka-v-kombinaci-s-provazovou-ohlavkou
+group_slug : uzdecky-a-bezudidlovky
+has_image : True
+cat_slug : konici
+image : /products/konici/uzdecky-a-bezudidlovky/uzdecka-v-kombinaci-s-provazovou-ohlavkou.jpg
+description : Uzdečka s ohlávkou obsahuje kombinaci uzdečky a provazové ohlávky.
 pricing:
   - variant : Uzdečka bez podhrdelníku v kombinaci s provazovou ohlávkou, nepodložená
     price   : 450
@@ -19,7 +20,9 @@ pricing:
     price   : 640
 ---
 
-Uzdečka s ohlávkou obsahuje kombinaci uzdečky a provazové ohlávky. Uzdečka je vyrobena z kvalitních pevných nylonových popruhů s kováním a může být podložená fleesem v oblasti nátylníku a čelenky. Uzdečka v první variantě obsahuje nátylník, čelenku a lícnice. K uzdečce náleží provazová ohlávka z kvalitního nylonu, ta je provlečena čelenkou.
+Uzdečka s ohlávkou obsahuje kombinaci uzdečky a provazové ohlávky.
+
+Uzdečka je vyrobena z kvalitních pevných nylonových popruhů s kováním a může být podložená fleesem v oblasti nátylníku a čelenky. Uzdečka v první variantě obsahuje nátylník, čelenku a lícnice. K uzdečce náleží provazová ohlávka z kvalitního nylonu, ta je provlečena čelenkou.
 
 Druhá varianta uzdečky obsahuje, nátylník, čelenku, lícnice a podhrdelník, provazová ohlávka je čelenkou neprotahuje.
 

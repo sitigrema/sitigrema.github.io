@@ -1,13 +1,14 @@
 ---
 layout: product
-cat_slug : pejsci-a-kocicky
-has_image : True
 title : Vodítka klasik
-image : /products/pejsci-a-kocicky/obojky-a-voditka/voditka-klasik.jpg
-slug : voditka-klasik
 cat_title : Pejsci a kočičky
-group_slug : obojky-a-voditka
 group_title : Obojky a vodítka
+slug : voditka-klasik
+group_slug : obojky-a-voditka
+has_image : True
+cat_slug : pejsci-a-kocicky
+image : /products/pejsci-a-kocicky/obojky-a-voditka/voditka-klasik.jpg
+description : Vodítka pro pejsky či kočičky vyrábíme standartně z popruhů 0,5cm -2,5cm a kovové karabinky.
 pricing:
   - variant : Vodítko 1,5m
     price   : 140
@@ -19,5 +20,7 @@ pricing:
     price   : 200
 ---
 
-Vodítka pro pejsky či kočičky vyrábíme standartně z popruhů 0,5cm -2,5cm a kovové karabinky. Barev máme nepřeberné množství. V případě zájmu o širší se cena bude lišit dle spotřeby materiálu.
+Vodítka pro pejsky či kočičky vyrábíme standartně z popruhů 0,5cm -2,5cm a kovové karabinky.
+
+Barev máme nepřeberné množství. V případě zájmu o širší se cena bude lišit dle spotřeby materiálu.
 

@@ -1,13 +1,14 @@
 ---
 layout: product
-cat_slug : konici
-has_image : False
 title : Podsedlová dečka barokní
-image : false
-slug : podsedlova-decka-barokni
 cat_title : Koníci
-group_slug : podsedlove-a-jine-decky
 group_title : Podsedlové a jiné dečky
+slug : podsedlova-decka-barokni
+group_slug : podsedlove-a-jine-decky
+has_image : False
+cat_slug : konici
+image : false
+description : Barokní dečka v základním provedení je vyrobena z látky, s výplní - molitan v síle 0,5cm, 1cm nebo po domluvě i silnější.Tvar dečky je většinou obdélníkový.
 ---
 
 Barokní dečka v základním provedení je vyrobena z látky, s výplní - molitan v síle 0,5cm, 1cm nebo po domluvě i silnější.

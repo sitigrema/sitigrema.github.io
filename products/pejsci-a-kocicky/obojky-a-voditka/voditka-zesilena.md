@@ -1,13 +1,14 @@
 ---
 layout: product
-cat_slug : pejsci-a-kocicky
-has_image : False
 title : Vodítka zesílená
-image : false
-slug : voditka-zesilena
 cat_title : Pejsci a kočičky
-group_slug : obojky-a-voditka
 group_title : Obojky a vodítka
+slug : voditka-zesilena
+group_slug : obojky-a-voditka
+has_image : False
+cat_slug : pejsci-a-kocicky
+image : false
+description : Vodítka zesílená jsou vyrobena z dvojitého popruhu 0,5cm – 2,5cm a kovové karabinky.
 pricing:
   - variant : Vodítko 1,5m
     price   : 200
@@ -19,5 +20,7 @@ pricing:
     price   : 320
 ---
 
-Vodítka zesílená jsou vyrobena z dvojitého popruhu 0,5cm – 2,5cm a kovové karabinky. Barev máme nepřeberné množství. V případě zájmu o širší se cena bude lišit dle spotřeby materiálu. Vhodné jsou například pro pejsky, co vodítka koušou nebo obří plemena.
+Vodítka zesílená jsou vyrobena z dvojitého popruhu 0,5cm – 2,5cm a kovové karabinky.
+
+Barev máme nepřeberné množství. V případě zájmu o širší se cena bude lišit dle spotřeby materiálu. Vhodné jsou například pro pejsky, co vodítka koušou nebo obří plemena.
 

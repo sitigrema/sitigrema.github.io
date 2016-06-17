@@ -1,13 +1,14 @@
 ---
 layout: product
-cat_slug : konici
-has_image : True
 title : Lonže a dvojité lonže
-image : /products/konici/lonzovaci-potreby/lonze-a-dvojite-lonze.jpg
-slug : lonze-a-dvojite-lonze
 cat_title : Koníci
-group_slug : lonzovaci-potreby
 group_title : Lonžovací potřeby
+slug : lonze-a-dvojite-lonze
+group_slug : lonzovaci-potreby
+has_image : True
+cat_slug : konici
+image : /products/konici/lonzovaci-potreby/lonze-a-dvojite-lonze.jpg
+description : Možnost objednání různých barev. Cena dle délky a typu materiálu.
 ---
 
 Možnost objednání různých barev. Cena dle délky a typu materiálu.

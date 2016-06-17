@@ -1,13 +1,14 @@
 ---
 layout: product
-cat_slug : konici
-has_image : True
 title : Ohlávka Dually Halter
-image : /products/konici/ohlavky-voditka-a-cabraky/ohlavka-dually-halter.jpg
-slug : ohlavka-dually-halter
 cat_title : Koníci
-group_slug : ohlavky-voditka-a-cabraky
 group_title : Ohlávky, vodítka a čabraky
+slug : ohlavka-dually-halter
+group_slug : ohlavky-voditka-a-cabraky
+has_image : True
+cat_slug : konici
+image : /products/konici/ohlavky-voditka-a-cabraky/ohlavka-dually-halter.jpg
+description : Ohlávka je vyrobena z pevných nylonových popruhů s kováním. Podložená fleesem může a nemusí být na nátylníku a nánosníku.
 pricing:
   - variant : Ohlávka Dually Halter nepodložená
     price   : 650
@@ -15,13 +16,14 @@ pricing:
     price   : 750
 ---
 
-Ohlávka je vyrobena z pevných nylonových popruhů s kováním.
-Podložená fleesem může a nemusí být na nátylníku a nánosníku.
+Ohlávka je vyrobena z pevných nylonových popruhů s kováním. Podložená fleesem může a nemusí být na nátylníku a nánosníku.
+
 Podložení na lícnicích je za příplatek 50&nbsp;Kč.
 Ohlávka je nastavitelná.
 Možnost objednání různých barev a barevných kombinací.
 
 ### UPOZORNĚNÍ
+
 Ohlávka Dually Halter je výcviková ohlávka.
 Používá se pouze při výcviku, nikdy koně za dually neuvazujte nebo mu jí nenechávejte ve stáji či výběhu, aby si koník neublížil zachycením kroužku o nějaký předmět.
 

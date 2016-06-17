@@ -1,13 +1,14 @@
 ---
 layout: product
-cat_slug : konici
-has_image : False
 title : Uzdečka s Hackamore
-image : false
-slug : uzdecka-s-hackamore
 cat_title : Koníci
-group_slug : uzdecky-a-bezudidlovky
 group_title : Uzdečky a bezudidlovky
+slug : uzdecka-s-hackamore
+group_slug : uzdecky-a-bezudidlovky
+has_image : False
+cat_slug : konici
+image : false
+description : Uzdečka s Hackamore obsahuje nátylník, čelenku, lícnice, podhrdelník a hackamore ramena s nánosníkem a podbradníkem.
 pricing:
   - variant : Uzdečka s Hackamore, nepodložená, pony
     price   : 1390
@@ -24,7 +25,8 @@ pricing:
 ---
 
 Uzdečka s Hackamore obsahuje nátylník, čelenku, lícnice, podhrdelník a hackamore ramena s nánosníkem a podbradníkem.
-Je vyrobena z kvalitních pevných nylonových popruhů s kováním a 
+
+Je vyrobena z kvalitních pevných nylonových popruhů s kováním a
 může být podložená fleesem  v oblasti nátylníku, čelenky, nánosníku.
 
 Uzdečky jsou vyráběny v různých barevných kombinacích ve velikostech pony, cob, full, XLfull.

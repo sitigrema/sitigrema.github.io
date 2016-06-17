@@ -1,13 +1,14 @@
 ---
 layout: product
-cat_slug : konici
-has_image : True
 title : Výstavní a předváděcí vodítka
-image : /products/konici/vystavy-a-predvadeni/vystavni-a-predvadeci-voditka.jpg
-slug : vystavni-a-predvadeci-voditka
 cat_title : Koníci
-group_slug : vystavy-a-predvadeni
 group_title : Výstavy a předvádění
+slug : vystavni-a-predvadeci-voditka
+group_slug : vystavy-a-predvadeni
+has_image : True
+cat_slug : konici
+image : /products/konici/vystavy-a-predvadeni/vystavni-a-predvadeci-voditka.jpg
+description : 
 pricing:
   - variant : Vodítko 1,5m s klasickou karabinkou
     price   : 200
@@ -39,19 +40,19 @@ Vodítka lanová
 --------------
 
 Vodítko je vyrobeno z pevného lana.
-Panik karabinka je za příplatek 50&nbsp;Kč. 
-Možnost objednání různých barev a barevných kombinací. 
+Panik karabinka je za příplatek 50&nbsp;Kč.
+Možnost objednání různých barev a barevných kombinací.
 
 Vodítka plochá
 --------------
 
 Vodítko je vyrobeno z pevných nylonových popruhů s kováním.
-Panik karabinka je za příplatek 50&nbsp;Kč. 
+Panik karabinka je za příplatek 50&nbsp;Kč.
 Možnost objednání různých barev a barevných kombinací.
 
 Vodítko s řetízkem
 ------------------
 
-Vodítko je vyrobeno z pevných nylonových popruhů s kováním nebo z pevného lana. 
+Vodítko je vyrobeno z pevných nylonových popruhů s kováním nebo z pevného lana.
 Možnost objednání různých barev a barevných kombinací.
 

@@ -1,13 +1,14 @@
 ---
 layout: product
-cat_slug : pejsci-a-kocicky
-has_image : True
 title : Postroj Active
-image : /products/pejsci-a-kocicky/postroje/postroj-active.jpg
-slug : postroj-active
 cat_title : Pejsci a kočičky
-group_slug : postroje
 group_title : Postroje
+slug : postroj-active
+group_slug : postroje
+has_image : True
+cat_slug : pejsci-a-kocicky
+image : /products/pejsci-a-kocicky/postroje/postroj-active.jpg
+description : Luxusní postroj pro aktivní pejsky ideální pro luxusní pohodlí, sport a práci.
 pricing:
   - variant : Postroj XS (obvod hrudníku 20-40cm)
     price   : 590
@@ -23,7 +24,9 @@ pricing:
     price   : 1090
 ---
 
-Luxusní postroj pro aktivní pejsky ideální pro luxusní pohodlí, sport a práci. Postroj je v ramenou pejska a v obvodu hrudníku nastavitelný. Měkce podložen prakticky v 90% plochy postroje. Postroj je velmi lehký a pevný.
+Luxusní postroj pro aktivní pejsky ideální pro luxusní pohodlí, sport a práci.
+
+Postroj je v ramenou pejska a v obvodu hrudníku nastavitelný. Měkce podložen prakticky v 90% plochy postroje. Postroj je velmi lehký a pevný.
 
 Uvedené ceny jsou pouze za postroj, bez vodítka. V případě zájmu vám do barvy ušijeme vodítko.
 

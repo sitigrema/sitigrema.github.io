@@ -1,13 +1,14 @@
 ---
 layout: product
-cat_slug : konici
-has_image : False
 title : Vyvazovací otěže s gumou
-image : false
-slug : vyvazovaci-oteze-s-gumou
 cat_title : Koníci
-group_slug : lonzovaci-potreby
 group_title : Lonžovací potřeby
+slug : vyvazovaci-oteze-s-gumou
+group_slug : lonzovaci-potreby
+has_image : False
+cat_slug : konici
+image : false
+description : Vyvazovaní otěže jsou vyrobeny z nylonových popruhů s kováním, proložené gumou pro pružnost otěží.
 pricing:
   - variant : Vyvazovací otěže s gumou, zakončení přezky, pony
     price   : 300

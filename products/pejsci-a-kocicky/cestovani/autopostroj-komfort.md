@@ -1,13 +1,14 @@
 ---
 layout: product
-cat_slug : pejsci-a-kocicky
-has_image : True
 title : Autopostroj komfort
-image : /products/pejsci-a-kocicky/cestovani/autopostroj-komfort.jpg
-slug : autopostroj-komfort
 cat_title : Pejsci a kočičky
-group_slug : cestovani
 group_title : Cestování
+slug : autopostroj-komfort
+group_slug : cestovani
+has_image : True
+cat_slug : pejsci-a-kocicky
+image : /products/pejsci-a-kocicky/cestovani/autopostroj-komfort.jpg
+description : Autopostroj komfort je vyroben z pevných nylonových popruhů s kováním, komfortně vypodložen v oblasti hrudníku a prsou.
 pricing:
   - variant : Postroj XS (obvod hrudníku 20-40cm)
     price   : 490
@@ -23,5 +24,8 @@ pricing:
     price   : 590
 ---
 
-Autopostroj komfort je vyroben z pevných nylonových popruhů s kováním, komfortně vypodložen v oblasti hrudníku a prsou. Na postroji v místě zad pejska, či kočičky je umístěn kroužek, do kterého lze zapnout spojku k zástrčce autopásu. Spojka k autopásu je v případě objednání postroje za příplatek 100,-Kč. Barev a barevných kombinací je nepřeberné množství.
+Autopostroj komfort je vyroben z pevných nylonových popruhů s kováním, komfortně vypodložen v oblasti hrudníku a prsou.
+
+Na postroji v místě zad pejska, či kočičky je umístěn kroužek, do kterého lze zapnout spojku k zástrčce autopásu.
+Spojka k autopásu je v případě objednání postroje za příplatek 100&nbsp;Kč. Barev a barevných kombinací je nepřeberné množství.
 

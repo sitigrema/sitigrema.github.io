@@ -1,13 +1,14 @@
 ---
 layout: product
-cat_slug : pejsci-a-kocicky
-has_image : False
 title : Bobík
-image : false
-slug : bobik
 cat_title : Pejsci a kočičky
-group_slug : hracky
 group_title : Hračky
+slug : bobik
+group_slug : hracky
+has_image : False
+cat_slug : pejsci-a-kocicky
+image : false
+description : 
 ---
 
 
