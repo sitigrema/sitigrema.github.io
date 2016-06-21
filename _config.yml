@@ -2,8 +2,6 @@
 # Descriptive metadata
 #
 
-# url without trailing slash
-
 url:            https://sitigrema.cz
 
 language:       cs
@@ -11,7 +9,6 @@ analytics:      UA-60568686-1
 name:           Grema
 title:          Šití Grema
 description:    Výroba chovatelských potřeb a zakázkové šití pro koně, pejsky a další zvířecí miláčky.
-image:          /static/img/cover1.jpg
 keywords:
     - šití
     - chovatelské potřeby
@@ -28,15 +25,15 @@ contact:
 author:
     name:       imm studios, z.s.
     email:      martas@imm.cz
-    url:        http://imm.cz
+    url:        https://imm.cz
     facebook:   https://www.facebook.com/immstudios
     twitter:    https://twitter.com/immstudios
+    github:     https://github.com/immstudios
 
 #
 # Build options
 #
 
-# Additional CSS
 css:
     - https://fonts.googleapis.com/css?family=Lobster
     - https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,700&subset=latin,latin-ext
@@ -46,6 +43,7 @@ css:
 js:
     - /static/js/social.js
 
+image:          /static/img/cover1.jpg
 favicons_path:  /static/img/favicons
 theme_color:    AB6431
 

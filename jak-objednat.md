@@ -13,7 +13,7 @@ Při objednávkách definujte velikost, barvu a provedení výrobků.
 Nezapomeňte uvést dodací adresu či den kdy si je osobně vyzvednete.
 
 Poštovné se řídí dle platného ceníku české pošty.
-Místo pro osobní vyzvednutí je **Praha 5 - Radotín**, vyzvednutí zde není zpoplatněno.
+Zboží si také můžete zdarma vyzvednout v **Rudné u Prahy**.
 
 
 Vrácení zboží
