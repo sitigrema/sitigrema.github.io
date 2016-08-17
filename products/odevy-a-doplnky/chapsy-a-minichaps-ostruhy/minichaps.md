@@ -1,13 +1,13 @@
 ---
 layout: product
-title : Minichaps
-cat_title : Oděvy a doplňky
-group_title : Chapsy a minichaps, ostruhy
-slug : minichaps
-group_slug : chapsy-a-minichaps-ostruhy
 has_image : False
-cat_slug : odevy-a-doplnky
+title : Minichaps
+group_slug : chapsy-a-minichaps-ostruhy
+group_title : Chapsy a minichaps, ostruhy
 image : false
+cat_slug : odevy-a-doplnky
+slug : minichaps
+cat_title : Oděvy a doplňky
 description : Minichaps vám můžeme ušít z různých druhů materiálu, které vám vyhovují. Jedná se převážně o kombinace neopren, barevná látka, případně softshell.
 pricing:
   - variant : Minichaps

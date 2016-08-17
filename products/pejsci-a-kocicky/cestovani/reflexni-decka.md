@@ -1,13 +1,13 @@
 ---
 layout: product
-title : Reflexní dečka
-cat_title : Pejsci a kočičky
-group_title : Cestování
-slug : reflexni-decka
-group_slug : cestovani
 has_image : False
-cat_slug : pejsci-a-kocicky
+title : Reflexní dečka
+group_slug : cestovani
+group_title : Cestování
 image : false
+cat_slug : pejsci-a-kocicky
+slug : reflexni-decka
+cat_title : Pejsci a kočičky
 description : Reflexní dečku oceníte v jakémkoliv případě, kdy je šero či tma. Reflexní dečku můžeme vyrobit z jakékoliv látky a barvy, též lze zvolit z několika typů reflexním doplňků.
 pricing:
   - variant : Reflexní dečka XS (obvod hrudníku 20-40cm)

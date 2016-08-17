@@ -1,13 +1,13 @@
 ---
 layout: product
-title : Očko k podbřišníku
-cat_title : Koníci
-group_title : Martingaly, poprsáky a příslušenství
-slug : ocko-k-podbrisniku
-group_slug : martingaly-poprsaky-a-prislusenstvi
 has_image : True
-cat_slug : konici
+title : Očko k podbřišníku
+group_slug : martingaly-poprsaky-a-prislusenstvi
+group_title : Martingaly, poprsáky a příslušenství
 image : /products/konici/martingaly-poprsaky-a-prislusenstvi/ocko-k-podbrisniku.jpg
+cat_slug : konici
+slug : ocko-k-podbrisniku
+cat_title : Koníci
 description : Očko k podbřišníku slouží k rychlému odepínání martingalu či poprsáku.
 pricing:
   - variant : Očko na podbřišník

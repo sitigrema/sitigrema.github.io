@@ -1,13 +1,13 @@
 ---
 layout: product
-title : Dečka obdélníková
-cat_title : Koníci
-group_title : Podsedlové a jiné dečky
-slug : decka-obdelnikova
-group_slug : podsedlove-a-jine-decky
 has_image : True
-cat_slug : konici
+title : Dečka obdélníková
+group_slug : podsedlove-a-jine-decky
+group_title : Podsedlové a jiné dečky
 image : /products/konici/podsedlove-a-jine-decky/decka-obdelnikova.jpg
+cat_slug : konici
+slug : decka-obdelnikova
+cat_title : Koníci
 description : Obdélníková dečka v základním provedení je vyrobena z látky, s výplní - molitan v síle 0,5cm, 1cm nebo po domluvě i silnější.
 pricing:
   - variant : Dečka obdélníková

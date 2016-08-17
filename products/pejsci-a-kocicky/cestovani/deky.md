@@ -1,13 +1,13 @@
 ---
 layout: product
-title : Deky
-cat_title : Pejsci a kočičky
-group_title : Cestování
-slug : deky
-group_slug : cestovani
 has_image : False
-cat_slug : pejsci-a-kocicky
+title : Deky
+group_slug : cestovani
+group_title : Cestování
 image : false
+cat_slug : pejsci-a-kocicky
+slug : deky
+cat_title : Pejsci a kočičky
 description : Deky vyrábíme s fleesu. Barev a barevných kombinací je nepřeberné množství.
 pricing:
   - variant : Deka 100 x 100cm

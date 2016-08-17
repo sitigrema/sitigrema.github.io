@@ -1,13 +1,13 @@
 ---
 layout: product
-title : Bunda softshell
-cat_title : Oděvy a doplňky
-group_title : Bundy
-slug : bunda-softshell
-group_slug : bundy
 has_image : False
-cat_slug : odevy-a-doplnky
+title : Bunda softshell
+group_slug : bundy
+group_title : Bundy
 image : false
+cat_slug : odevy-a-doplnky
+slug : bunda-softshell
+cat_title : Oděvy a doplňky
 description : Bundy ze softshellu vyrábíme v mnoha velikostech, barev a barevných kombinací. Lze ušít pouze lehkou bundu a nebo jí i za příplatek zesílit pro chladnější dny.
 pricing:
   - variant : Bunda fleesová dětská

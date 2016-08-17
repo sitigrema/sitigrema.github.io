@@ -1,13 +1,13 @@
 ---
 layout: product
-title : Dečka flees
-cat_title : Pejsci a kočičky
-group_title : Oblečky a botičky
-slug : decka-flees
-group_slug : oblecky-a-boticky
 has_image : True
-cat_slug : pejsci-a-kocicky
+title : Dečka flees
+group_slug : oblecky-a-boticky
+group_title : Oblečky a botičky
 image : /products/pejsci-a-kocicky/oblecky-a-boticky/decka-flees.jpg
+cat_slug : pejsci-a-kocicky
+slug : decka-flees
+cat_title : Pejsci a kočičky
 description : Dečka z fleesu pro pejsky je vyrobena z jedné vrstvy kvalitního fleesu.
 ---
 

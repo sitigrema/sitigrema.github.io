@@ -1,13 +1,13 @@
 ---
 layout: product
-title : Lonžovací nánosník
-cat_title : Koníci
-group_title : Lonžovací potřeby
-slug : lonzovaci-nanosnik
-group_slug : lonzovaci-potreby
 has_image : False
-cat_slug : konici
+title : Lonžovací nánosník
+group_slug : lonzovaci-potreby
+group_title : Lonžovací potřeby
 image : false
+cat_slug : konici
+slug : lonzovaci-nanosnik
+cat_title : Koníci
 description : Nánosník lze upevnit na jakoukoliv uzdečku.Je vyroben z kvalitních popruhů s kvalitním kováním, měkce vypodložen polstrováním z fleesu vyplněným paměťovou pěnou či molitanem.
 pricing:
   - variant : Lonžovací nánosník

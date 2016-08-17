@@ -1,13 +1,13 @@
 ---
 layout: product
-title : Martingalová vidlice k poprsáku
-cat_title : Koníci
-group_title : Martingaly, poprsáky a příslušenství
-slug : martingalova-vidlice-k-poprsaku
-group_slug : martingaly-poprsaky-a-prislusenstvi
 has_image : True
-cat_slug : konici
+title : Martingalová vidlice k poprsáku
+group_slug : martingaly-poprsaky-a-prislusenstvi
+group_title : Martingaly, poprsáky a příslušenství
 image : /products/konici/martingaly-poprsaky-a-prislusenstvi/martingalova-vidlice-k-poprsaku.jpg
+cat_slug : konici
+slug : martingalova-vidlice-k-poprsaku
+cat_title : Koníci
 description : Martingalová vidlice k poprsáku je vyrobena z nylonových popruhů s kováním.
 pricing:
   - variant : Martingalová vidlice, pevná

@@ -1,11 +1,11 @@
 ---
 layout: product_group
-title : Martingaly, poprsáky a příslušenství
-has_image : False
-slug : martingaly-poprsaky-a-prislusenstvi
-group_slug : martingaly-poprsaky-a-prislusenstvi
-cat_slug : konici
 has_index : False
+title : Martingaly, poprsáky a příslušenství
+group_slug : martingaly-poprsaky-a-prislusenstvi
+has_image : False
+cat_slug : konici
+slug : martingaly-poprsaky-a-prislusenstvi
 products:
   - slug: martingal-anglicky
     title: Martingal anglický
@@ -25,6 +25,9 @@ products:
   - slug: poprsak-dostihovy
     title: Poprsák dostihový
     has_image: False
+  - slug: poprsak-extra-siroky
+    title: Poprsák extra široký
+    has_image: True
   - slug: poprsak-westernovy
     title: Poprsák westernový
     has_image: True

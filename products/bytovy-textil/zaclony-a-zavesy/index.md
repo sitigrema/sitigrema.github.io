@@ -1,11 +1,11 @@
 ---
 layout: product_group
-title : Záclony a závěsy
-has_image : False
-slug : zaclony-a-zavesy
-group_slug : zaclony-a-zavesy
-cat_slug : bytovy-textil
 has_index : True
+title : Záclony a závěsy
+group_slug : zaclony-a-zavesy
+has_image : False
+cat_slug : bytovy-textil
+slug : zaclony-a-zavesy
 products:
 ---
 

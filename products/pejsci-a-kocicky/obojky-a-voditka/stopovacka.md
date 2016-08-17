@@ -1,13 +1,13 @@
 ---
 layout: product
-title : Stopovačka
-cat_title : Pejsci a kočičky
-group_title : Obojky a vodítka
-slug : stopovacka
-group_slug : obojky-a-voditka
 has_image : True
-cat_slug : pejsci-a-kocicky
+title : Stopovačka
+group_slug : obojky-a-voditka
+group_title : Obojky a vodítka
 image : /products/pejsci-a-kocicky/obojky-a-voditka/stopovacka.jpg
+cat_slug : pejsci-a-kocicky
+slug : stopovacka
+cat_title : Pejsci a kočičky
 description : Stopovačky lze vyrobit z nylonových nebo bavlněných popruhů 1-2,5cm, na žádost lze vyrobit i lanovou stopovačku.
 pricing:
   - variant : Stopovačka popruh 5m

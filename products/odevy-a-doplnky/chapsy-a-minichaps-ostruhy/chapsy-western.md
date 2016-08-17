@@ -1,13 +1,13 @@
 ---
 layout: product
-title : Chapsy western
-cat_title : Oděvy a doplňky
-group_title : Chapsy a minichaps, ostruhy
-slug : chapsy-western
-group_slug : chapsy-a-minichaps-ostruhy
 has_image : False
-cat_slug : odevy-a-doplnky
+title : Chapsy western
+group_slug : chapsy-a-minichaps-ostruhy
+group_title : Chapsy a minichaps, ostruhy
 image : false
+cat_slug : odevy-a-doplnky
+slug : chapsy-western
+cat_title : Oděvy a doplňky
 description : Westernové chapsy šijeme převážně se softshellu, už kvůli pevné kvalitě materiálu, ale také proto, že neprofouknou a nepromoknou.
 pricing:
   - variant : Chapsy western

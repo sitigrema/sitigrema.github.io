@@ -1,13 +1,13 @@
 ---
 layout: product
-title : Vodítka plochá
-cat_title : Koníci
-group_title : Ohlávky, vodítka a čabraky
-slug : voditka-plocha
-group_slug : ohlavky-voditka-a-cabraky
 has_image : True
-cat_slug : konici
+title : Vodítka plochá
+group_slug : ohlavky-voditka-a-cabraky
+group_title : Ohlávky, vodítka a čabraky
 image : /products/konici/ohlavky-voditka-a-cabraky/voditka-plocha.jpg
+cat_slug : konici
+slug : voditka-plocha
+cat_title : Koníci
 description : Vodítko je vyrobeno z pevných nylonových popruhů s kováním.
 pricing:
   - variant : Vodítko 1,5m s klasickou karabinkou

@@ -1,13 +1,13 @@
 ---
 layout: product
-title : Vodítko Pružné
-cat_title : Pejsci a kočičky
-group_title : Obojky a vodítka
-slug : voditko-pruzne
-group_slug : obojky-a-voditka
 has_image : False
-cat_slug : pejsci-a-kocicky
+title : Vodítko Pružné
+group_slug : obojky-a-voditka
+group_title : Obojky a vodítka
 image : false
+cat_slug : pejsci-a-kocicky
+slug : voditko-pruzne
+cat_title : Pejsci a kočičky
 description : Vodítko pružné je vhodné pro pejsky do různých sportů, kde se kladou nároky na tah.Pružení vodítka zmírňuje náraz pejska do tahu, když akčně vyrazí vpřed a dochází k plynulejšímu přechodu do tahu než u pevných vodítek.
 pricing:
   - variant : Vodítko ploché pružné

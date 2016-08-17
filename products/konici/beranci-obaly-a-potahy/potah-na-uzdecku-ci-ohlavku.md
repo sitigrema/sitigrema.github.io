@@ -1,13 +1,13 @@
 ---
 layout: product
-title : Potah na uzdečku či ohlávku
-cat_title : Koníci
-group_title : Beránci, obaly a potahy
-slug : potah-na-uzdecku-ci-ohlavku
-group_slug : beranci-obaly-a-potahy
 has_image : False
-cat_slug : konici
+title : Potah na uzdečku či ohlávku
+group_slug : beranci-obaly-a-potahy
+group_title : Beránci, obaly a potahy
 image : false
+cat_slug : konici
+slug : potah-na-uzdecku-ci-ohlavku
+cat_title : Koníci
 description : Potah je vhodný pro koně co se odírají či jako modní doplněk pro sladění vašeho setu.
 pricing:
   - variant : Potah na uzdečku či ohlávku - fleesový

@@ -1,13 +1,13 @@
 ---
 layout: product
-title : Vodítko nastavitelné
-cat_title : Pejsci a kočičky
-group_title : Obojky a vodítka
-slug : voditko-nastavitelne
-group_slug : obojky-a-voditka
 has_image : False
-cat_slug : pejsci-a-kocicky
+title : Vodítko nastavitelné
+group_slug : obojky-a-voditka
+group_title : Obojky a vodítka
 image : false
+cat_slug : pejsci-a-kocicky
+slug : voditko-nastavitelne
+cat_title : Pejsci a kočičky
 description : Vodítko nastavitelné je vyrobeno z nylonového popruhu 0,5cm – 2,5cm, kovových půlkruhů a kovové karabiny.
 pricing:
   - variant : Vodítko 1,5 - 3m

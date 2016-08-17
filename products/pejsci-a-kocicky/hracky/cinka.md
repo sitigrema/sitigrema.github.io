@@ -1,13 +1,13 @@
 ---
 layout: product
-title : Činka
-cat_title : Pejsci a kočičky
-group_title : Hračky
-slug : cinka
-group_slug : hracky
 has_image : False
-cat_slug : pejsci-a-kocicky
+title : Činka
+group_slug : hracky
+group_title : Hračky
 image : false
+cat_slug : pejsci-a-kocicky
+slug : cinka
+cat_title : Pejsci a kočičky
 description : Činka je vyrobena z lana. Barva dle skladové dostupnosti.
 pricing:
   - variant : Činka 20cm

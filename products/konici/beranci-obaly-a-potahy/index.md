@@ -1,11 +1,11 @@
 ---
 layout: product_group
-title : Beránci, obaly a potahy
-has_image : False
-slug : beranci-obaly-a-potahy
-group_slug : beranci-obaly-a-potahy
-cat_slug : konici
 has_index : False
+title : Beránci, obaly a potahy
+group_slug : beranci-obaly-a-potahy
+has_image : False
+cat_slug : konici
+slug : beranci-obaly-a-potahy
 products:
   - slug: obal-na-anglicke-sedlo
     title: Obal na anglické sedlo
@@ -16,6 +16,9 @@ products:
   - slug: obal-na-trmeny
     title: Obal na třmeny
     has_image: True
+  - slug: obal-na-uzdecku
+    title: Obal na uzdečku
+    has_image: False
   - slug: obal-na-westernove-sedlo
     title: Obal na westernové sedlo
     has_image: False

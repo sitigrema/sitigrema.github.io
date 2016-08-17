@@ -1,13 +1,13 @@
 ---
 layout: product
-title : Podbřišník anglický s gumou
-cat_title : Koníci
-group_title : Podbřišníky a podocasníky
-slug : podbrisnik-anglicky-s-gumou
-group_slug : podbrisniky-a-podocasniky
 has_image : True
-cat_slug : konici
+title : Podbřišník anglický s gumou
+group_slug : podbrisniky-a-podocasniky
+group_title : Podbřišníky a podocasníky
 image : /products/konici/podbrisniky-a-podocasniky/podbrisnik-anglicky-s-gumou.jpg
+cat_slug : konici
+slug : podbrisnik-anglicky-s-gumou
+cat_title : Koníci
 description : Podbřišník je v základním provedení bavlněný.Může být klasicky rovný a nebo anatomicky tvarovaný.
 pricing:
   - variant : Podbřišník anglický s gumou do 90cm

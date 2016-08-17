@@ -1,13 +1,13 @@
 ---
 layout: product
-title : Plyšový míček
-cat_title : Pejsci a kočičky
-group_title : Hračky
-slug : plysovy-micek
-group_slug : hracky
 has_image : False
-cat_slug : pejsci-a-kocicky
+title : Plyšový míček
+group_slug : hracky
+group_title : Hračky
 image : false
+cat_slug : pejsci-a-kocicky
+slug : plysovy-micek
+cat_title : Pejsci a kočičky
 description : Míček má vnější materiál flees, vnitřní výplň je drcený molitan.
 pricing:
   - variant : Míček 5cm

@@ -1,13 +1,13 @@
 ---
 layout: product
-title : Třmenové řemeny jednořemenné
-cat_title : Koníci
-group_title : Třmeny a třmenové řemeny
-slug : trmenove-remeny-jednoremenne
-group_slug : trmeny-a-trmenove-remeny
 has_image : False
-cat_slug : konici
+title : Třmenové řemeny jednořemenné
+group_slug : trmeny-a-trmenove-remeny
+group_title : Třmeny a třmenové řemeny
 image : false
+cat_slug : konici
+slug : trmenove-remeny-jednoremenne
+cat_title : Koníci
 description : Řemeny jsou šité z kvalitních pevných popruhů.Ze třmenového zámku pod stehnem vede jen jeden řemen, kryt třmenového zámku tudíž tolik neodstává.
 pricing:
   - variant : Třmenové řemeny jednořemenné

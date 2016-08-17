@@ -1,13 +1,13 @@
 ---
 layout: product
-title : Dečka westernová
-cat_title : Koníci
-group_title : Podsedlové a jiné dečky
-slug : decka-westernova
-group_slug : podsedlove-a-jine-decky
 has_image : True
-cat_slug : konici
+title : Dečka westernová
+group_slug : podsedlove-a-jine-decky
+group_title : Podsedlové a jiné dečky
 image : /products/konici/podsedlove-a-jine-decky/decka-westernova.jpg
+cat_slug : konici
+slug : decka-westernova
+cat_title : Koníci
 description : Westernová dečka v základním provedení je vyrobena z látky, s výplní - molitan v síle 0,5cm, 1cm nebo po domluvě i silnější.
 pricing:
   - variant : Westernová dečka

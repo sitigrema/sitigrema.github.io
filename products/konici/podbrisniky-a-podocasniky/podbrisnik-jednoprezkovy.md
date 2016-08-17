@@ -1,13 +1,13 @@
 ---
 layout: product
-title : Podbřišník jednopřezkový
-cat_title : Koníci
-group_title : Podbřišníky a podocasníky
-slug : podbrisnik-jednoprezkovy
-group_slug : podbrisniky-a-podocasniky
 has_image : True
-cat_slug : konici
+title : Podbřišník jednopřezkový
+group_slug : podbrisniky-a-podocasniky
+group_title : Podbřišníky a podocasníky
 image : /products/konici/podbrisniky-a-podocasniky/podbrisnik-jednoprezkovy.jpg
+cat_slug : konici
+slug : podbrisnik-jednoprezkovy
+cat_title : Koníci
 description : Podbřišník jednopřezkový je bez dotahovací gumy.
 pricing:
   - variant : Podbřišník jednopřezkový do 90cm

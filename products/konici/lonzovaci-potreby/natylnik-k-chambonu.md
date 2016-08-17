@@ -1,13 +1,13 @@
 ---
 layout: product
-title : Nátylník k chambonu
-cat_title : Koníci
-group_title : Lonžovací potřeby
-slug : natylnik-k-chambonu
-group_slug : lonzovaci-potreby
 has_image : True
-cat_slug : konici
+title : Nátylník k chambonu
+group_slug : lonzovaci-potreby
+group_title : Lonžovací potřeby
 image : /products/konici/lonzovaci-potreby/natylnik-k-chambonu.jpg
+cat_slug : konici
+slug : natylnik-k-chambonu
+cat_title : Koníci
 description : Samostatný nátylník k Chambonu. Různé barvy a délky. Zapínání je na suchý zip, v případě zájmu můžeme zapínání udělat na dvě až tři přezky.
 pricing:
   - variant : Nátylník

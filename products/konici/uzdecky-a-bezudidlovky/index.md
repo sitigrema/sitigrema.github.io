@@ -1,11 +1,11 @@
 ---
 layout: product_group
-title : Uzdečky a bezudidlovky
-has_image : False
-slug : uzdecky-a-bezudidlovky
-group_slug : uzdecky-a-bezudidlovky
-cat_slug : konici
 has_index : False
+title : Uzdečky a bezudidlovky
+group_slug : uzdecky-a-bezudidlovky
+has_image : False
+cat_slug : konici
+slug : uzdecky-a-bezudidlovky
 products:
   - slug: bezudidlova-uzdecka
     title: Bezudidlová uzdečka
@@ -19,12 +19,18 @@ products:
   - slug: uzdecka-anglicka
     title: Uzdečka anglická
     has_image: True
+  - slug: uzdecka-barokni
+    title: Uzdečka barokní
+    has_image: False
   - slug: uzdecka-bez-nanosniku
     title: Uzdečka bez nánosníku
     has_image: True
   - slug: uzdecka-dvouuska
     title: Uzdečka dvouuška
     has_image: False
+  - slug: uzdecka-endurance
+    title: Uzdečka endurance
+    has_image: True
   - slug: uzdecka-jednouska
     title: Uzdečka jednouška
     has_image: False
@@ -36,6 +42,9 @@ products:
     has_image: True
   - slug: uzdecka-s-hackamore
     title: Uzdečka s Hackamore
+    has_image: False
+  - slug: uzdecka-spanelska
+    title: Uzdečka španělská
     has_image: False
   - slug: uzdecka-3-v-1-v-kombinaci-s-bezudidlovkou-a-ohlavkou
     title: Uzdečka 3 v 1 v kombinaci s bezudidlovkou a ohlávkou

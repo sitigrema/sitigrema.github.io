@@ -1,13 +1,13 @@
 ---
 layout: product
-title : Deka softshell
-cat_title : Koníci
-group_title : Deky a bederní deky na koně
-slug : deka-softshell
-group_slug : deky-a-bederni-deky-na-kone
 has_image : True
-cat_slug : konici
+title : Deka softshell
+group_slug : deky-a-bederni-deky-na-kone
+group_title : Deky a bederní deky na koně
 image : /products/konici/deky-a-bederni-deky-na-kone/deka-softshell.jpg
+cat_slug : konici
+slug : deka-softshell
+cat_title : Koníci
 description : Deka je na lícové straně vyrobena z kvalitního softshellu, který neprofoukne a odpuzuje vodu.Rubová strana může a nemusí být podšitá fleesem, popřípadě za příplatek nukubou či jiným materiálem.
 pricing:
   - variant : Deka softshell pony

@@ -1,13 +1,13 @@
 ---
 layout: product
+has_image : True
 title : Podbřišník anglický eko
-cat_title : Koníci
-group_title : Podbřišníky a podocasníky
-slug : podbrisnik-anglicky-eko
 group_slug : podbrisniky-a-podocasniky
-has_image : False
+group_title : Podbřišníky a podocasníky
+image : /products/konici/podbrisniky-a-podocasniky/podbrisnik-anglicky-eko.jpg
 cat_slug : konici
-image : false
+slug : podbrisnik-anglicky-eko
+cat_title : Koníci
 description : Podbřišník anglický eko je bez dotahovacích gum a udělá dobrou službu a parádu za přijatelnou cenu.
 pricing:
   - variant : Podbřišník anglický eko do 90cm

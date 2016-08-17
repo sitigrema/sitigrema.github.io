@@ -1,13 +1,13 @@
 ---
 layout: product
-title : Uzdečka anglická
-cat_title : Koníci
-group_title : Uzdečky a bezudidlovky
-slug : uzdecka-anglicka
-group_slug : uzdecky-a-bezudidlovky
 has_image : True
-cat_slug : konici
+title : Uzdečka anglická
+group_slug : uzdecky-a-bezudidlovky
+group_title : Uzdečky a bezudidlovky
 image : /products/konici/uzdecky-a-bezudidlovky/uzdecka-anglicka.jpg
+cat_slug : konici
+slug : uzdecka-anglicka
+cat_title : Koníci
 description : Uzdečka obsahuje nátylník, lícnice, podhrdelník, čelenku a nánosník.Podložená může být fleesem na nátylníku, čelence a na nánosníku.
 pricing:
   - variant : Uzdečka kompletní, nepodložená

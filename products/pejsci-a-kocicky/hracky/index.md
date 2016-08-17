@@ -1,11 +1,11 @@
 ---
 layout: product_group
-title : Hračky
-has_image : False
-slug : hracky
-group_slug : hracky
-cat_slug : pejsci-a-kocicky
 has_index : False
+title : Hračky
+group_slug : hracky
+has_image : False
+cat_slug : pejsci-a-kocicky
+slug : hracky
 products:
   - slug: cinka
     title: Činka

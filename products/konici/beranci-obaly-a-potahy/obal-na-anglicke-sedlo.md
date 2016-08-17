@@ -1,13 +1,13 @@
 ---
 layout: product
-title : Obal na anglické sedlo
-cat_title : Koníci
-group_title : Beránci, obaly a potahy
-slug : obal-na-anglicke-sedlo
-group_slug : beranci-obaly-a-potahy
 has_image : True
-cat_slug : konici
+title : Obal na anglické sedlo
+group_slug : beranci-obaly-a-potahy
+group_title : Beránci, obaly a potahy
 image : /products/konici/beranci-obaly-a-potahy/obal-na-anglicke-sedlo.jpg
+cat_slug : konici
+slug : obal-na-anglicke-sedlo
+cat_title : Koníci
 description : Obal na sedlo je vyráběn z látky, v okrajích je všitá guma, aby obal kopíroval tvar sedla a nepadal když se na sedlo navleče.
 pricing:
   - variant : Obal na sedlo

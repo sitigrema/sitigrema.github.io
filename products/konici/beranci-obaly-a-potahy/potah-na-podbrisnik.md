@@ -1,13 +1,13 @@
 ---
 layout: product
-title : Potah na podbřišník
-cat_title : Koníci
-group_title : Beránci, obaly a potahy
-slug : potah-na-podbrisnik
-group_slug : beranci-obaly-a-potahy
 has_image : False
-cat_slug : konici
+title : Potah na podbřišník
+group_slug : beranci-obaly-a-potahy
+group_title : Beránci, obaly a potahy
 image : false
+cat_slug : konici
+slug : potah-na-podbrisnik
+cat_title : Koníci
 description : Tyto potahy jsou vhodné pro koně co se od podbřišníku odírají a nebo jako modní doplněk pro sladění barvy vašeho setu.
 pricing:
   - variant : Potah na podbřišník - fleesový

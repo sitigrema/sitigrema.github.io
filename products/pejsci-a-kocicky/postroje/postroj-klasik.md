@@ -1,13 +1,13 @@
 ---
 layout: product
-title : Postroj Klasik
-cat_title : Pejsci a kočičky
-group_title : Postroje
-slug : postroj-klasik
-group_slug : postroje
 has_image : False
-cat_slug : pejsci-a-kocicky
+title : Postroj Klasik
+group_slug : postroje
+group_title : Postroje
 image : false
+cat_slug : pejsci-a-kocicky
+slug : postroj-klasik
+cat_title : Pejsci a kočičky
 description : Klasické kšandičky, které každý zná, jsou snad nejpoužívanější a nejlevnější variantou postrojů na trhu.
 pricing:
   - variant : Postroj XS (obvod hrudníku 20-40cm)

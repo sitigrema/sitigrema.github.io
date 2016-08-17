@@ -1,13 +1,13 @@
 ---
 layout: product
-title : Pletené hračky
-cat_title : Pejsci a kočičky
-group_title : Hračky
-slug : pletene-hracky
-group_slug : hracky
 has_image : False
-cat_slug : pejsci-a-kocicky
+title : Pletené hračky
+group_slug : hracky
+group_title : Hračky
 image : false
+cat_slug : pejsci-a-kocicky
+slug : pletene-hracky
+cat_title : Pejsci a kočičky
 description : V případě zájmu vám můžeme vyrobit jakoukoliv pletenou hračku z pruhů látky nebo lan.
 ---
 

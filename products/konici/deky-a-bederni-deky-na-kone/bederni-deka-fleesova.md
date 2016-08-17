@@ -1,13 +1,13 @@
 ---
 layout: product
-title : Bederní deka fleesová
-cat_title : Koníci
-group_title : Deky a bederní deky na koně
-slug : bederni-deka-fleesova
-group_slug : deky-a-bederni-deky-na-kone
 has_image : False
-cat_slug : konici
+title : Bederní deka fleesová
+group_slug : deky-a-bederni-deky-na-kone
+group_title : Deky a bederní deky na koně
 image : false
+cat_slug : konici
+slug : bederni-deka-fleesova
+cat_title : Koníci
 description : Tato bederní deka je vyráběna z kvalitního fleesu, popřípadě se můžeme dohodnout i na jiném materiálu.
 pricing:
   - variant : Bederní deka fleesová pony

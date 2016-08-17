@@ -1,13 +1,13 @@
 ---
 layout: product
-title : Uzdečka 3 v 1 v kombinaci s bezudidlovkou a ohlávkou
-cat_title : Koníci
-group_title : Uzdečky a bezudidlovky
-slug : uzdecka-3-v-1-v-kombinaci-s-bezudidlovkou-a-ohlavkou
-group_slug : uzdecky-a-bezudidlovky
 has_image : True
-cat_slug : konici
+title : Uzdečka 3 v 1 v kombinaci s bezudidlovkou a ohlávkou
+group_slug : uzdecky-a-bezudidlovky
+group_title : Uzdečky a bezudidlovky
 image : /products/konici/uzdecky-a-bezudidlovky/uzdecka-3-v-1-v-kombinaci-s-bezudidlovkou-a-ohlavkou.jpg
+cat_slug : konici
+slug : uzdecka-3-v-1-v-kombinaci-s-bezudidlovkou-a-ohlavkou
+cat_title : Koníci
 description : Uzdečka je univerzál 3 v 1, dá se užít jako klasická uzdečka, nebo jako bezudidlovka či jako ohlávka.
 pricing:
   - variant : Uzdečka v kombinaci s ohlávkou nepodložená

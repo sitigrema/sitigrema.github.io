@@ -1,13 +1,13 @@
 ---
 layout: product
-title : Dogtreking
-cat_title : Pejsci a kočičky
-group_title : Postroje
-slug : dogtreking
-group_slug : postroje
 has_image : False
-cat_slug : pejsci-a-kocicky
+title : Dogtreking
+group_slug : postroje
+group_title : Postroje
 image : false
+cat_slug : pejsci-a-kocicky
+slug : dogtreking
+cat_title : Pejsci a kočičky
 description : Máte rádi dogtreking? V případě, že ano, vyrobíme vám cokoliv, co potřebujete v jakékoliv barvě a materiálu.
 ---
 

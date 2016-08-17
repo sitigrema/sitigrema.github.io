@@ -1,13 +1,13 @@
 ---
 layout: product
-title : Postroj Cyklo a Ski
-cat_title : Pejsci a kočičky
-group_title : Postroje
-slug : postroj-cyklo-a-ski
-group_slug : postroje
 has_image : False
-cat_slug : pejsci-a-kocicky
+title : Postroj Cyklo a Ski
+group_slug : postroje
+group_title : Postroje
 image : false
+cat_slug : pejsci-a-kocicky
+slug : postroj-cyklo-a-ski
+cat_title : Pejsci a kočičky
 description : Cyklistický postroj vám můžeme vyrobit ve variantě, kdye pejsek využije svojí sílu v tahu, a nebo v případě, že máte velké akční plemeno, co by vás mohlo uvláčet, tak ušijeme postroj klasický bez možnosti vložení veškeré energie do tahu.
 pricing:
   - variant : Postroj XS (obvod hrudníku 20-40cm)

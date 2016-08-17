@@ -1,13 +1,13 @@
 ---
 layout: product
-title : Čabraky látkové
-cat_title : Koníci
-group_title : Ohlávky, vodítka a čabraky
-slug : cabraky-latkove
-group_slug : ohlavky-voditka-a-cabraky
 has_image : False
-cat_slug : konici
+title : Čabraky látkové
+group_slug : ohlavky-voditka-a-cabraky
+group_title : Ohlávky, vodítka a čabraky
 image : false
+cat_slug : konici
+slug : cabraky-latkove
+cat_title : Koníci
 description : Čabraky látkové jsou většinou celé z bavlněné látky.
 pricing:
   - variant : Čabraka látková

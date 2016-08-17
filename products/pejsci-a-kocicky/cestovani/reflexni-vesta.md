@@ -1,13 +1,13 @@
 ---
 layout: product
-title : Reflexní vesta
-cat_title : Pejsci a kočičky
-group_title : Cestování
-slug : reflexni-vesta
-group_slug : cestovani
 has_image : False
-cat_slug : pejsci-a-kocicky
+title : Reflexní vesta
+group_slug : cestovani
+group_title : Cestování
 image : false
+cat_slug : pejsci-a-kocicky
+slug : reflexni-vesta
+cat_title : Pejsci a kočičky
 description : Reflexní vesta je dečka z klasické světle žluté nebo oranžové výrazné tenké látky s reflexními prvky. Vhodná na užití za šera a tmy.
 pricing:
   - variant : Reflexní vesta XS (obvod hrudníku 20-40cm)

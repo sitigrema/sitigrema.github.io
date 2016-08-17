@@ -1,13 +1,13 @@
 ---
 layout: product
-title : Spojka k autopásu
-cat_title : Pejsci a kočičky
-group_title : Cestování
-slug : spojka-k-autopasu
-group_slug : cestovani
 has_image : False
-cat_slug : pejsci-a-kocicky
+title : Spojka k autopásu
+group_slug : cestovani
+group_title : Cestování
 image : false
+cat_slug : pejsci-a-kocicky
+slug : spojka-k-autopasu
+cat_title : Pejsci a kočičky
 description : Spojka k autopásu je vhodná ke všem typům autopostrojů, které mají na zádech kroužek pro zapnutí karabinky spojky. Spojku jednoduše zasunete do zástrčky autopásu.
 pricing:
   - variant : Spojka nastavitelné délky 30-50cm

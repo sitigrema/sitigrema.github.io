@@ -1,13 +1,13 @@
 ---
 layout: product
-title : Ohlávka halti s obojkem
-cat_title : Pejsci a kočičky
-group_title : Výcvik
-slug : ohlavka-halti-s-obojkem
-group_slug : vycvik
 has_image : False
-cat_slug : pejsci-a-kocicky
+title : Ohlávka halti s obojkem
+group_slug : vycvik
+group_title : Výcvik
 image : false
+cat_slug : pejsci-a-kocicky
+slug : ohlavka-halti-s-obojkem
+cat_title : Pejsci a kočičky
 description : Ohlávka Halti se používá u pejsků, kteří tahají za vodítko. Tah za hlavu pejska ovlivňuje celé tělo.Tato ohlávka lze odepnout od krční části a část na krku lze využívat jako obojek.
 pricing:
   - variant : Malý pes

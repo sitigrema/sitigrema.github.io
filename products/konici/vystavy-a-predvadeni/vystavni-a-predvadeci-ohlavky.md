@@ -1,13 +1,13 @@
 ---
 layout: product
-title : Výstavní a předváděcí ohlávky
-cat_title : Koníci
-group_title : Výstavy a předvádění
-slug : vystavni-a-predvadeci-ohlavky
-group_slug : vystavy-a-predvadeni
 has_image : False
-cat_slug : konici
+title : Výstavní a předváděcí ohlávky
+group_slug : vystavy-a-predvadeni
+group_title : Výstavy a předvádění
 image : false
+cat_slug : konici
+slug : vystavni-a-predvadeci-ohlavky
+cat_title : Koníci
 description : Ohlávka je vyrobena z pevných nylonových popruhů s kováním.Předváděcí ohlávka obsahuje nátylník, který je nastavitelný a nánosník.
 pricing:
   - variant : Předváděcí ohlávka

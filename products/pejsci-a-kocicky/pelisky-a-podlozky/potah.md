@@ -1,13 +1,13 @@
 ---
 layout: product
-title : Potah
-cat_title : Pejsci a kočičky
-group_title : Pelíšky a podložky
-slug : potah
-group_slug : pelisky-a-podlozky
 has_image : False
-cat_slug : pejsci-a-kocicky
+title : Potah
+group_slug : pelisky-a-podlozky
+group_title : Pelíšky a podložky
 image : false
+cat_slug : pejsci-a-kocicky
+slug : potah
+cat_title : Pejsci a kočičky
 description : Potahy vyrábíme jak na pelíšky, tak na molitanové matce nebo třeba na sedačky či židle.
 ---
 

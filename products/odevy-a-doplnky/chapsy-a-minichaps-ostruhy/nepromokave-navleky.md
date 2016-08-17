@@ -1,13 +1,13 @@
 ---
 layout: product
-title : Nepromokavé návleky
-cat_title : Oděvy a doplňky
-group_title : Chapsy a minichaps, ostruhy
-slug : nepromokave-navleky
-group_slug : chapsy-a-minichaps-ostruhy
 has_image : False
-cat_slug : odevy-a-doplnky
+title : Nepromokavé návleky
+group_slug : chapsy-a-minichaps-ostruhy
+group_title : Chapsy a minichaps, ostruhy
 image : false
+cat_slug : odevy-a-doplnky
+slug : nepromokave-navleky
+cat_title : Oděvy a doplňky
 description : Nepromokavé návleky oceníte především v nepřízni počasí. Dají se lehce a rychle sundat, což oceníte převážně na závodech.
 pricing:
   - variant : Návleky eko

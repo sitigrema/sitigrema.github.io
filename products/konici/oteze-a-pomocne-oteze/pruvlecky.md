@@ -1,13 +1,13 @@
 ---
 layout: product
-title : Průvlečky
-cat_title : Koníci
-group_title : Otěže a pomocné otěže
-slug : pruvlecky
-group_slug : oteze-a-pomocne-oteze
 has_image : True
-cat_slug : konici
+title : Průvlečky
+group_slug : oteze-a-pomocne-oteze
+group_title : Otěže a pomocné otěže
 image : /products/konici/oteze-a-pomocne-oteze/pruvlecky.jpg
+cat_slug : konici
+slug : pruvlecky
+cat_title : Koníci
 description : Průvlečky jsou vyráběny z pevných nylonových popruhů.
 pricing:
   - variant : Průvlečky s karabinkami

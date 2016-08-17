@@ -1,13 +1,13 @@
 ---
 layout: product
-title : Náhubek "Trubička"
-cat_title : Pejsci a kočičky
-group_title : Výcvik
-slug : nahubek-trubicka
-group_slug : vycvik
 has_image : False
-cat_slug : pejsci-a-kocicky
+title : Náhubek "Trubička"
+group_slug : vycvik
+group_title : Výcvik
 image : false
+cat_slug : pejsci-a-kocicky
+slug : nahubek-trubicka
+cat_title : Pejsci a kočičky
 description : Náhubek pro pejska vám ušijeme z kvalitního nylonu a pevné technické látky.
 pricing:
   - variant : Malý pes

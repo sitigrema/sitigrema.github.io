@@ -1,13 +1,13 @@
 ---
 layout: product
-title : Bonbonek
-cat_title : Pejsci a kočičky
-group_title : Hračky
-slug : bonbonek
-group_slug : hracky
 has_image : True
-cat_slug : pejsci-a-kocicky
+title : Bonbonek
+group_slug : hracky
+group_title : Hračky
 image : /products/pejsci-a-kocicky/hracky/bonbonek.jpg
+cat_slug : pejsci-a-kocicky
+slug : bonbonek
+cat_title : Pejsci a kočičky
 description : Bonbonek je uzlík z pruhů látky. Barva dle skladové dostupnosti.
 pricing:
   - variant : Malý pes

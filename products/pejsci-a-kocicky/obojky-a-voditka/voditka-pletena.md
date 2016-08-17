@@ -1,13 +1,13 @@
 ---
 layout: product
-title : Vodítka pletená
-cat_title : Pejsci a kočičky
-group_title : Obojky a vodítka
-slug : voditka-pletena
-group_slug : obojky-a-voditka
 has_image : False
-cat_slug : pejsci-a-kocicky
+title : Vodítka pletená
+group_slug : obojky-a-voditka
+group_title : Obojky a vodítka
 image : false
+cat_slug : pejsci-a-kocicky
+slug : voditka-pletena
+cat_title : Pejsci a kočičky
 description : Tato vodítka jsou spletena z nylonových nebo bavlněných šňůr, kombinace barev je dle množství šňůr.
 ---
 

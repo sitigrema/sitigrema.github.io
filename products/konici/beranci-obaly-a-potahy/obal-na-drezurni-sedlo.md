@@ -1,13 +1,13 @@
 ---
 layout: product
-title : Obal na drezurní sedlo
-cat_title : Koníci
-group_title : Beránci, obaly a potahy
-slug : obal-na-drezurni-sedlo
-group_slug : beranci-obaly-a-potahy
 has_image : True
-cat_slug : konici
+title : Obal na drezurní sedlo
+group_slug : beranci-obaly-a-potahy
+group_title : Beránci, obaly a potahy
 image : /products/konici/beranci-obaly-a-potahy/obal-na-drezurni-sedlo.jpg
+cat_slug : konici
+slug : obal-na-drezurni-sedlo
+cat_title : Koníci
 description : Obal na sedlo je vyráběn z látky, v okrajích je všitá guma, aby obal kopíroval tvar sedla a nepadal když se na sedlo navleče.
 pricing:
   - variant : Obal na drezurní sedlo

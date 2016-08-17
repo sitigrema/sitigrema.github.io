@@ -1,13 +1,13 @@
 ---
 layout: product
-title : Obojek podložený
-cat_title : Pejsci a kočičky
-group_title : Obojky a vodítka
-slug : obojek-podlozeny
-group_slug : obojky-a-voditka
 has_image : False
-cat_slug : pejsci-a-kocicky
+title : Obojek podložený
+group_slug : obojky-a-voditka
+group_title : Obojky a vodítka
 image : false
+cat_slug : pejsci-a-kocicky
+slug : obojek-podlozeny
+cat_title : Pejsci a kočičky
 description : Obojky lze vyrobit v různé délce, barvě a šířce. Standartní provedení je nylonový popruh podšitý fleesem, kovový půlkruh a kovová přezka.
 pricing:
   - variant : XS (15-25cm)

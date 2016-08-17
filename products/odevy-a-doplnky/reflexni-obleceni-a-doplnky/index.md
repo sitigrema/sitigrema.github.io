@@ -1,11 +1,11 @@
 ---
 layout: product_group
-title : Reflexní oblečení a doplňky
-has_image : False
-slug : reflexni-obleceni-a-doplnky
-group_slug : reflexni-obleceni-a-doplnky
-cat_slug : odevy-a-doplnky
 has_index : False
+title : Reflexní oblečení a doplňky
+group_slug : reflexni-obleceni-a-doplnky
+has_image : False
+cat_slug : odevy-a-doplnky
+slug : reflexni-obleceni-a-doplnky
 products:
 ---
 

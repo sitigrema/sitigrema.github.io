@@ -1,38 +1,30 @@
 ---
 layout: product
-title : Poprsák westernový
-cat_title : Koníci
-group_title : Martingaly, poprsáky a příslušenství
-slug : poprsak-westernovy
-group_slug : martingaly-poprsaky-a-prislusenstvi
 has_image : True
-cat_slug : konici
+title : Poprsák westernový
+group_slug : martingaly-poprsaky-a-prislusenstvi
+group_title : Martingaly, poprsáky a příslušenství
 image : /products/konici/martingaly-poprsaky-a-prislusenstvi/poprsak-westernovy.jpg
-description : Poprsák je vyroben z pevných nylonových popruhů s kováním. Je nastavitelný, ale doporučuji si koníka přeměřit.
+cat_slug : konici
+slug : poprsak-westernovy
+cat_title : Koníci
+description : Poprsák je vyroben z pevných nylonových popruhů s kováním.Je nastavitelný, ale doporučuji si koníka přeměřit.
 pricing:
   - variant : Poprsák nepodložený pony
-    price   : 350
-  - variant : Poprsák nepodložený cob, full
-    price   : 400
-  - variant : Poprsák nepodložený XLfull
-    price   : 450
-  - variant : Poprsák podložený fleesem, pony
-    price   : 450
-  - variant : Poprsák podložený fleesem, cob, full
-    price   : 500
-  - variant : Poprsák podložený fleesem, XLfull
     price   : 550
+  - variant : Poprsák podložený fleesem
+    price   : 650
   - variant : Martingalová vidlice pevná k poprsáku
     price   : 150
   - variant : Martingalová vidlice nastavitelná k poprsáku
     price   : 200
 ---
 
-Poprsák je vyroben z pevných nylonových popruhů s kováním. 
+Poprsák je vyroben z pevných nylonových popruhů s kováním.
 Je nastavitelný, ale doporučuji si koníka přeměřit.
 
-Poprsák je standardně vyráběn s okem na podbříšník, v případě, 
-že chcete přidat na část vedoucí k podbřišníku karabinku k připnutí 
+Poprsák je standardně vyráběn s okem na podbříšník, v případě,
+že chcete přidat na část vedoucí k podbřišníku karabinku k připnutí
 na očko k podbřišníku, je příplatek 30&nbsp;Kč.
 
 Samostatné očko na podbřišník pro rychlé odepínání poprsáku stojí 50&nbsp;Kč.

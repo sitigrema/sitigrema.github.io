@@ -1,13 +1,13 @@
 ---
 layout: product
-title : Podložky a polštáře
-cat_title : Pejsci a kočičky
-group_title : Cestování
-slug : podlozky-a-polstare
-group_slug : cestovani
 has_image : False
-cat_slug : pejsci-a-kocicky
+title : Podložky a polštáře
+group_slug : cestovani
+group_title : Cestování
 image : false
+cat_slug : pejsci-a-kocicky
+slug : podlozky-a-polstare
+cat_title : Pejsci a kočičky
 description : Podložky a polštáře vyrábíme v rozmanitém množství velikostí. Barev a barevných kombinací je nepřeberné množství.
 pricing:
   - variant : Podložka 30 x 30cm

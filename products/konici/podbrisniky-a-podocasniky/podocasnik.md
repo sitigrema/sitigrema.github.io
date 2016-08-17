@@ -1,13 +1,13 @@
 ---
 layout: product
-title : Podocasník
-cat_title : Koníci
-group_title : Podbřišníky a podocasníky
-slug : podocasnik
-group_slug : podbrisniky-a-podocasniky
 has_image : True
-cat_slug : konici
+title : Podocasník
+group_slug : podbrisniky-a-podocasniky
+group_title : Podbřišníky a podocasníky
 image : /products/konici/podbrisniky-a-podocasniky/podocasnik.jpg
+cat_slug : konici
+slug : podocasnik
+cat_title : Koníci
 description : Podocasníky vyrábíme jak sedlům tak k postrojům do tahu.
 pricing:
   - variant : Podocasník k sedlu

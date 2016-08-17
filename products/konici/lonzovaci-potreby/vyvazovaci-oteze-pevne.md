@@ -1,13 +1,13 @@
 ---
 layout: product
-title : Vyvazovací otěže pevné
-cat_title : Koníci
-group_title : Lonžovací potřeby
-slug : vyvazovaci-oteze-pevne
-group_slug : lonzovaci-potreby
 has_image : False
-cat_slug : konici
+title : Vyvazovací otěže pevné
+group_slug : lonzovaci-potreby
+group_title : Lonžovací potřeby
 image : false
+cat_slug : konici
+slug : vyvazovaci-oteze-pevne
+cat_title : Koníci
 description : Vyvazovaní otěže jsou vyrobeny z nylonových popruhů s kováním.
 pricing:
   - variant : Vyvazovací otěže, zakončení přezky, pony

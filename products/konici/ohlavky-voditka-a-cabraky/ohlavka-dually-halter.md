@@ -1,13 +1,13 @@
 ---
 layout: product
-title : Ohlávka Dually Halter
-cat_title : Koníci
-group_title : Ohlávky, vodítka a čabraky
-slug : ohlavka-dually-halter
-group_slug : ohlavky-voditka-a-cabraky
 has_image : True
-cat_slug : konici
+title : Ohlávka Dually Halter
+group_slug : ohlavky-voditka-a-cabraky
+group_title : Ohlávky, vodítka a čabraky
 image : /products/konici/ohlavky-voditka-a-cabraky/ohlavka-dually-halter.jpg
+cat_slug : konici
+slug : ohlavka-dually-halter
+cat_title : Koníci
 description : Ohlávka je vyrobena z pevných nylonových popruhů s kováním. Podložená fleesem může a nemusí být na nátylníku a nánosníku.
 pricing:
   - variant : Ohlávka Dually Halter nepodložená

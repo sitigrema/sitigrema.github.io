@@ -1,13 +1,13 @@
 ---
 layout: product
-title : Chambon
-cat_title : Koníci
-group_title : Lonžovací potřeby
-slug : chambon
-group_slug : lonzovaci-potreby
 has_image : False
-cat_slug : konici
+title : Chambon
+group_slug : lonzovaci-potreby
+group_title : Lonžovací potřeby
 image : false
+cat_slug : konici
+slug : chambon
+cat_title : Koníci
 description : Chambon je vyráběn z nylonového popruhu a nylonového provázku zakončeného karabinkami.
 pricing:
   - variant : Chambon

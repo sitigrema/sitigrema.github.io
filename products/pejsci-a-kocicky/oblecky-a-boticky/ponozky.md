@@ -1,13 +1,13 @@
 ---
 layout: product
-title : Ponožky
-cat_title : Pejsci a kočičky
-group_title : Oblečky a botičky
-slug : ponozky
-group_slug : oblecky-a-boticky
 has_image : False
-cat_slug : pejsci-a-kocicky
+title : Ponožky
+group_slug : oblecky-a-boticky
+group_title : Oblečky a botičky
 image : false
+cat_slug : pejsci-a-kocicky
+slug : ponozky
+cat_title : Pejsci a kočičky
 description : Ponožky pro pejsky jsou vhodné buď do botiček, nebo po úraze na chození doma. V případě zájmu je můžeme ušít s protiskluzovou úpravou.
 ---
 

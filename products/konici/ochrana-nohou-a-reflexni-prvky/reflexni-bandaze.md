@@ -1,13 +1,13 @@
 ---
 layout: product
-title : Reflexní bandáže
-cat_title : Koníci
-group_title : Ochrana nohou a reflexní prvky
-slug : reflexni-bandaze
-group_slug : ochrana-nohou-a-reflexni-prvky
 has_image : True
-cat_slug : konici
+title : Reflexní bandáže
+group_slug : ochrana-nohou-a-reflexni-prvky
+group_title : Ochrana nohou a reflexní prvky
 image : /products/konici/ochrana-nohou-a-reflexni-prvky/reflexni-bandaze.jpg
+cat_slug : konici
+slug : reflexni-bandaze
+cat_title : Koníci
 description : Možnost objednání různých barevných kombinací.
 pricing:
   - variant : Reflexní bandáže, pony 4ks

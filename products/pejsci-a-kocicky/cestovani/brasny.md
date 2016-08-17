@@ -1,13 +1,13 @@
 ---
 layout: product
-title : Brašny
-cat_title : Pejsci a kočičky
-group_title : Cestování
-slug : brasny
-group_slug : cestovani
 has_image : False
-cat_slug : pejsci-a-kocicky
+title : Brašny
+group_slug : cestovani
+group_title : Cestování
 image : false
+cat_slug : pejsci-a-kocicky
+slug : brasny
+cat_title : Pejsci a kočičky
 description : Pěstujete-li se svým pejskem aktivní turistiku a máte rádi vandry jistě oceníte brašny na pejska, které si může nést on sám.
 ---
 

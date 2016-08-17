@@ -1,13 +1,13 @@
 ---
 layout: product
-title : Obojek zesílený
-cat_title : Pejsci a kočičky
-group_title : Obojky a vodítka
-slug : obojek-zesileny
-group_slug : obojky-a-voditka
 has_image : True
-cat_slug : pejsci-a-kocicky
+title : Obojek zesílený
+group_slug : obojky-a-voditka
+group_title : Obojky a vodítka
 image : /products/pejsci-a-kocicky/obojky-a-voditka/obojek-zesileny.jpg
+cat_slug : pejsci-a-kocicky
+slug : obojek-zesileny
+cat_title : Pejsci a kočičky
 description : Obojky lze vyrobit v různých barvách, šířkách a délkách. Obojek zesílený je vyroben z dvojitého nylonového popruhu, kovový půlkruh a kovová přezka.
 pricing:
   - variant : XS (15-25cm)

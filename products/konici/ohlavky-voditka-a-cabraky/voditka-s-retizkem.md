@@ -1,13 +1,13 @@
 ---
 layout: product
-title : Vodítka s řetízkem
-cat_title : Koníci
-group_title : Ohlávky, vodítka a čabraky
-slug : voditka-s-retizkem
-group_slug : ohlavky-voditka-a-cabraky
 has_image : True
-cat_slug : konici
+title : Vodítka s řetízkem
+group_slug : ohlavky-voditka-a-cabraky
+group_title : Ohlávky, vodítka a čabraky
 image : /products/konici/ohlavky-voditka-a-cabraky/voditka-s-retizkem.jpg
+cat_slug : konici
+slug : voditka-s-retizkem
+cat_title : Koníci
 description : Vodítko je vyrobeno z pevných nylonových popruhů s kováním nebo z pevného lana.
 pricing:
   - variant : Vodítko ploché 1,5m s klasickou karabinkou a řetízkem

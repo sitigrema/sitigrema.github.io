@@ -1,13 +1,13 @@
 ---
 layout: product
-title : Matrace
-cat_title : Pejsci a kočičky
-group_title : Pelíšky a podložky
-slug : matrace
-group_slug : pelisky-a-podlozky
 has_image : True
-cat_slug : pejsci-a-kocicky
+title : Matrace
+group_slug : pelisky-a-podlozky
+group_title : Pelíšky a podložky
 image : /products/pejsci-a-kocicky/pelisky-a-podlozky/matrace.jpg
+cat_slug : pejsci-a-kocicky
+slug : matrace
+cat_title : Pejsci a kočičky
 description : Matrace pro pejsky či kočičky vyrábíme v mnoha rozměrech a barvách. Barev a barevných kombinací je nepřeberné množství.
 ---
 

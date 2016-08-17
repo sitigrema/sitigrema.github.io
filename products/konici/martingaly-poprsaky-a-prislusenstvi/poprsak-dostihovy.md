@@ -1,13 +1,13 @@
 ---
 layout: product
-title : Poprsák dostihový
-cat_title : Koníci
-group_title : Martingaly, poprsáky a příslušenství
-slug : poprsak-dostihovy
-group_slug : martingaly-poprsaky-a-prislusenstvi
 has_image : False
-cat_slug : konici
+title : Poprsák dostihový
+group_slug : martingaly-poprsaky-a-prislusenstvi
+group_title : Martingaly, poprsáky a příslušenství
 image : false
+cat_slug : konici
+slug : poprsak-dostihovy
+cat_title : Koníci
 description : Poprsák je vyroben z pevných nylonových popruhů s kováním. Je nastavitelný, ale doporučuji si koníka přeměřit.
 pricing:
   - variant : Poprsák nepodložený pony

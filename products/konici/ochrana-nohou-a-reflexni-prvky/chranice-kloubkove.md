@@ -1,13 +1,13 @@
 ---
 layout: product
-title : Chrániče kloubkové
-cat_title : Koníci
-group_title : Ochrana nohou a reflexní prvky
-slug : chranice-kloubkove
-group_slug : ochrana-nohou-a-reflexni-prvky
 has_image : False
-cat_slug : konici
+title : Chrániče kloubkové
+group_slug : ochrana-nohou-a-reflexni-prvky
+group_title : Ochrana nohou a reflexní prvky
 image : false
+cat_slug : konici
+slug : chranice-kloubkove
+cat_title : Koníci
 description : Neoprenové kloubkové kamaše k ochraně nohou koně od spěnek až po karpy se zapínáním na suché zipy.
 pricing:
   - variant : Neoprenové kloubkové chrániče na přední nohy

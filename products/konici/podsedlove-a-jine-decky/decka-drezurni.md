@@ -1,13 +1,13 @@
 ---
 layout: product
-title : Dečka drezurní
-cat_title : Koníci
-group_title : Podsedlové a jiné dečky
-slug : decka-drezurni
-group_slug : podsedlove-a-jine-decky
 has_image : True
-cat_slug : konici
+title : Dečka drezurní
+group_slug : podsedlove-a-jine-decky
+group_title : Podsedlové a jiné dečky
 image : /products/konici/podsedlove-a-jine-decky/decka-drezurni.jpg
+cat_slug : konici
+slug : decka-drezurni
+cat_title : Koníci
 description : Drezurní dečka v základním provedení je vyrobena z látky, s výplní - molitan v síle 0,5cm, 1cm nebo po domluvě i silnější.
 pricing:
   - variant : Drezurní dečka

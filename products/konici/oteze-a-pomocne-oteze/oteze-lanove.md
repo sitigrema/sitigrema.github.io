@@ -1,13 +1,13 @@
 ---
 layout: product
-title : Otěže lanové
-cat_title : Koníci
-group_title : Otěže a pomocné otěže
-slug : oteze-lanove
-group_slug : oteze-a-pomocne-oteze
 has_image : True
-cat_slug : konici
+title : Otěže lanové
+group_slug : oteze-a-pomocne-oteze
+group_title : Otěže a pomocné otěže
 image : /products/konici/oteze-a-pomocne-oteze/oteze-lanove.jpg
+cat_slug : konici
+slug : oteze-lanove
+cat_title : Koníci
 description : Otěže jsou vyráběny z pevného lana.
 pricing:
   - variant : Otěže s karabinkami

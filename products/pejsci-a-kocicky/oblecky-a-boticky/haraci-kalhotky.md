@@ -1,13 +1,13 @@
 ---
 layout: product
-title : Hárací kalhotky
-cat_title : Pejsci a kočičky
-group_title : Oblečky a botičky
-slug : haraci-kalhotky
-group_slug : oblecky-a-boticky
 has_image : False
-cat_slug : pejsci-a-kocicky
+title : Hárací kalhotky
+group_slug : oblecky-a-boticky
+group_title : Oblečky a botičky
 image : false
+cat_slug : pejsci-a-kocicky
+slug : haraci-kalhotky
+cat_title : Pejsci a kočičky
 description : Hárací kalhotky máme pro fenky všech plemen.
 ---
 

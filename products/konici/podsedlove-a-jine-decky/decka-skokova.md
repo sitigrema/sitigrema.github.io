@@ -1,13 +1,13 @@
 ---
 layout: product
-title : Dečka skoková
-cat_title : Koníci
-group_title : Podsedlové a jiné dečky
-slug : decka-skokova
-group_slug : podsedlove-a-jine-decky
 has_image : True
-cat_slug : konici
+title : Dečka skoková
+group_slug : podsedlove-a-jine-decky
+group_title : Podsedlové a jiné dečky
 image : /products/konici/podsedlove-a-jine-decky/decka-skokova.jpg
+cat_slug : konici
+slug : decka-skokova
+cat_title : Koníci
 description : Uzdečka je univerzál 3 v 1, dá se užít jako klasická uzdečka, nebo jako bezudidlovka či jako bezudidlovka Bitless Bridle. Je vyrobena z kvalitních pevných nylonových popruhů s kováním a může být podložená fleesem v oblasti nátylníku, čelenky, nánosníku.
 pricing:
   - variant : Uzdečka 3 v 1 nepodložená

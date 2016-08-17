@@ -1,11 +1,11 @@
 ---
 layout: product_group
-title : Vesty
-has_image : False
-slug : vesty
-group_slug : vesty
-cat_slug : odevy-a-doplnky
 has_index : False
+title : Vesty
+group_slug : vesty
+has_image : False
+cat_slug : odevy-a-doplnky
+slug : vesty
 products:
 ---
 

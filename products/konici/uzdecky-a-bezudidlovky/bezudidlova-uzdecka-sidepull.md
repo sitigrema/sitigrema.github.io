@@ -1,13 +1,13 @@
 ---
 layout: product
-title : Bezudidlová uzdečka Sidepull
-cat_title : Koníci
-group_title : Uzdečky a bezudidlovky
-slug : bezudidlova-uzdecka-sidepull
-group_slug : uzdecky-a-bezudidlovky
 has_image : True
-cat_slug : konici
+title : Bezudidlová uzdečka Sidepull
+group_slug : uzdecky-a-bezudidlovky
+group_title : Uzdečky a bezudidlovky
 image : /products/konici/uzdecky-a-bezudidlovky/bezudidlova-uzdecka-sidepull.jpg
+cat_slug : konici
+slug : bezudidlova-uzdecka-sidepull
+cat_title : Koníci
 description : Uzdečka je vyrobena z kvalitních pevných nylonových popruhů s kováním a obsahujenátylník, lícnice, čelenku, nánosník, šikmé zpěvnění nánosníku a fixační popruh na tvářích místo podhrdelníku/
 pricing:
   - variant : Bezudidlová uzdečka Sidepull nepodložená

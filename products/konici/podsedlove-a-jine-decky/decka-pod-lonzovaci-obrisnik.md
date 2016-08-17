@@ -1,13 +1,13 @@
 ---
 layout: product
-title : Dečka pod lonžovací obřišník
-cat_title : Koníci
-group_title : Podsedlové a jiné dečky
-slug : decka-pod-lonzovaci-obrisnik
-group_slug : podsedlove-a-jine-decky
 has_image : True
-cat_slug : konici
+title : Dečka pod lonžovací obřišník
+group_slug : podsedlove-a-jine-decky
+group_title : Podsedlové a jiné dečky
 image : /products/konici/podsedlove-a-jine-decky/decka-pod-lonzovaci-obrisnik.jpg
+cat_slug : konici
+slug : decka-pod-lonzovaci-obrisnik
+cat_title : Koníci
 description : Dečka pod lonžovací obřišník je v základním provedení vyrobena z látky, s výplní - molitan v síle 0,5cm, 1cm nebo po domluvě i silnější.
 pricing:
   - variant : Dečka pod lonžovací obřišník

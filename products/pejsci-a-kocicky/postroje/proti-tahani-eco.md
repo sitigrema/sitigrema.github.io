@@ -1,13 +1,13 @@
 ---
 layout: product
-title : Proti tahání Eco
-cat_title : Pejsci a kočičky
-group_title : Postroje
-slug : proti-tahani-eco
-group_slug : postroje
 has_image : False
-cat_slug : pejsci-a-kocicky
+title : Proti tahání Eco
+group_slug : postroje
+group_title : Postroje
 image : false
+cat_slug : pejsci-a-kocicky
+slug : proti-tahani-eco
+cat_title : Pejsci a kočičky
 description : Postroj proti tahání je vhodný pro jakékoliv plemeno.
 pricing:
   - variant : Postroj XS (obvod hrudníku 20-40cm)

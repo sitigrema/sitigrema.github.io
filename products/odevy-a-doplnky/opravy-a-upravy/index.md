@@ -1,11 +1,11 @@
 ---
 layout: product_group
-title : Opravy a úpravy
-has_image : False
-slug : opravy-a-upravy
-group_slug : opravy-a-upravy
-cat_slug : odevy-a-doplnky
 has_index : False
+title : Opravy a úpravy
+group_slug : opravy-a-upravy
+has_image : False
+cat_slug : odevy-a-doplnky
+slug : opravy-a-upravy
 products:
 ---
 

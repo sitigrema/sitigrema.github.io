@@ -1,13 +1,13 @@
 ---
 layout: product
+has_image : True
 title : Ohlávka s beránkem
-cat_title : Koníci
-group_title : Ohlávky, vodítka a čabraky
-slug : ohlavka-s-berankem
 group_slug : ohlavky-voditka-a-cabraky
-has_image : False
+group_title : Ohlávky, vodítka a čabraky
+image : /products/konici/ohlavky-voditka-a-cabraky/ohlavka-s-berankem.jpg
 cat_slug : konici
-image : false
+slug : ohlavka-s-berankem
+cat_title : Koníci
 description : Ohlávka je vyrobena z pevných nylonových popruhů s kováním.Podložená umělým beránkem je na nátylníku a nánosníku.
 pricing:
   - variant : Ohlávka s beránkem

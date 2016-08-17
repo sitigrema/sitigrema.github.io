@@ -1,13 +1,13 @@
 ---
 layout: product
-title : Postroj Active
-cat_title : Pejsci a kočičky
-group_title : Postroje
-slug : postroj-active
-group_slug : postroje
 has_image : True
-cat_slug : pejsci-a-kocicky
+title : Postroj Active
+group_slug : postroje
+group_title : Postroje
 image : /products/pejsci-a-kocicky/postroje/postroj-active.jpg
+cat_slug : pejsci-a-kocicky
+slug : postroj-active
+cat_title : Pejsci a kočičky
 description : Luxusní postroj pro aktivní pejsky ideální pro luxusní pohodlí, sport a práci.
 pricing:
   - variant : Postroj XS (obvod hrudníku 20-40cm)

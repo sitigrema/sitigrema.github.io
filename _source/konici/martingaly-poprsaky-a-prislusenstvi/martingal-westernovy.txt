@@ -6,6 +6,4 @@ Samostatné očko na podbřišník pro rychlé odepínání martingalu stojí 50
 Westernový martingal neobsahuje nákrční řemen. V případě zájmu o nákrční řemen je příplatek 50&nbsp;Kč.
 Martingal je nastavitelný a můžete ho objednat v různých barvách.
 
-Martingal pony : 300
-Martingal cob, full : 350
-Martingal XLfull : 400
+Martingal westernový : 350

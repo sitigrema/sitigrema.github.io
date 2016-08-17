@@ -1,11 +1,11 @@
 ---
 layout: product_group
-title : Třmeny a třmenové řemeny
-has_image : False
-slug : trmeny-a-trmenove-remeny
-group_slug : trmeny-a-trmenove-remeny
-cat_slug : konici
 has_index : False
+title : Třmeny a třmenové řemeny
+group_slug : trmeny-a-trmenove-remeny
+has_image : False
+cat_slug : konici
+slug : trmeny-a-trmenove-remeny
 products:
   - slug: trmeny-barevne
     title: Třmeny barevné
@@ -18,7 +18,7 @@ products:
     has_image: False
   - slug: trmenovy-remen-k-damskemu-sedlu
     title: Třmenový řemen k dámskému sedlu
-    has_image: False
+    has_image: True
   - slug: trmenovy-remen-k-damskemu-sedlu-jednoremeny
     title: Třmenový řemen k dámskému sedlu jednořemený
     has_image: False

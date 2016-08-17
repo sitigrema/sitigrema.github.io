@@ -1,13 +1,13 @@
 ---
 layout: product
-title : Obal na westernové sedlo
-cat_title : Koníci
-group_title : Beránci, obaly a potahy
-slug : obal-na-westernove-sedlo
-group_slug : beranci-obaly-a-potahy
 has_image : False
-cat_slug : konici
+title : Obal na westernové sedlo
+group_slug : beranci-obaly-a-potahy
+group_title : Beránci, obaly a potahy
 image : false
+cat_slug : konici
+slug : obal-na-westernove-sedlo
+cat_title : Koníci
 description : Obal na sedlo je vyráběn z látky, v okrajích je všitá guma, aby obal kopíroval tvar sedla a nepadal když se na sedlo navleče.
 pricing:
   - variant : Obal na westernové sedlo

@@ -1,13 +1,13 @@
 ---
 layout: product
-title : Lonžovací spojka
-cat_title : Koníci
-group_title : Lonžovací potřeby
-slug : lonzovaci-spojka
-group_slug : lonzovaci-potreby
 has_image : False
-cat_slug : konici
+title : Lonžovací spojka
+group_slug : lonzovaci-potreby
+group_title : Lonžovací potřeby
 image : false
+cat_slug : konici
+slug : lonzovaci-spojka
+cat_title : Koníci
 description : Lonžovací spojka je vyráběna z nylonového popruhu s kováním.
 pricing:
   - variant : Lonžovací spojka

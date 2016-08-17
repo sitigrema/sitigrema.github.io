@@ -1,11 +1,11 @@
 ---
 layout: product_group
-title : Auto a Moto
-has_image : False
-slug : auto-a-moto
-group_slug : auto-a-moto
-cat_slug : bytovy-textil
 has_index : False
+title : Auto a Moto
+group_slug : auto-a-moto
+has_image : False
+cat_slug : bytovy-textil
+slug : auto-a-moto
 products:
 ---
 

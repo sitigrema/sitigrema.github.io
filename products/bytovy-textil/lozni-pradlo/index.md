@@ -1,11 +1,11 @@
 ---
 layout: product_group
-title : Ložní prádlo
-has_image : False
-slug : lozni-pradlo
-group_slug : lozni-pradlo
-cat_slug : bytovy-textil
 has_index : True
+title : Ložní prádlo
+group_slug : lozni-pradlo
+has_image : False
+cat_slug : bytovy-textil
+slug : lozni-pradlo
 products:
 ---
 

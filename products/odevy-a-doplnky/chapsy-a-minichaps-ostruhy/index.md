@@ -1,11 +1,11 @@
 ---
 layout: product_group
-title : Chapsy a minichaps, ostruhy
-has_image : False
-slug : chapsy-a-minichaps-ostruhy
-group_slug : chapsy-a-minichaps-ostruhy
-cat_slug : odevy-a-doplnky
 has_index : False
+title : Chapsy a minichaps, ostruhy
+group_slug : chapsy-a-minichaps-ostruhy
+has_image : False
+cat_slug : odevy-a-doplnky
+slug : chapsy-a-minichaps-ostruhy
 products:
   - slug: chapsy-western
     title: Chapsy western

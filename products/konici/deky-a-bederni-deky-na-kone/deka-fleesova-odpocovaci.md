@@ -1,13 +1,13 @@
 ---
 layout: product
-title : Deka fleesová - odpocovací
-cat_title : Koníci
-group_title : Deky a bederní deky na koně
-slug : deka-fleesova-odpocovaci
-group_slug : deky-a-bederni-deky-na-kone
 has_image : False
-cat_slug : konici
+title : Deka fleesová - odpocovací
+group_slug : deky-a-bederni-deky-na-kone
+group_title : Deky a bederní deky na koně
 image : false
+cat_slug : konici
+slug : deka-fleesova-odpocovaci
+cat_title : Koníci
 description : Odpocovací deka fleesová je vyráběna z kvalitního fleesu, popřípadě se můžeme dohodnout i na jiném materiálu.
 pricing:
   - variant : Deka odpocovací fleesová pony

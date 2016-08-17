@@ -1,13 +1,13 @@
 ---
 layout: product
-title : Náhubek "Popruh"
-cat_title : Pejsci a kočičky
-group_title : Výcvik
-slug : nahubek-popruh
-group_slug : vycvik
 has_image : False
-cat_slug : pejsci-a-kocicky
+title : Náhubek "Popruh"
+group_slug : vycvik
+group_title : Výcvik
 image : false
+cat_slug : pejsci-a-kocicky
+slug : nahubek-popruh
+cat_title : Pejsci a kočičky
 description : Náhubek z nylonových popruhů je popruh přes čumák a za hlavu, popruh přes čumák je podstatně široký a měkce podložený, tento náhubek nezabraňuje pejskovi pít ani dýchat.
 pricing:
   - variant : Malý pes

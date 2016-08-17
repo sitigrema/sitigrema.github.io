@@ -1,13 +1,13 @@
 ---
 layout: product
-title : Vodítko lanové
-cat_title : Pejsci a kočičky
-group_title : Obojky a vodítka
-slug : voditko-lanove
-group_slug : obojky-a-voditka
 has_image : True
-cat_slug : pejsci-a-kocicky
+title : Vodítko lanové
+group_slug : obojky-a-voditka
+group_title : Obojky a vodítka
 image : /products/pejsci-a-kocicky/obojky-a-voditka/voditko-lanove.jpg
+cat_slug : pejsci-a-kocicky
+slug : voditko-lanove
+cat_title : Pejsci a kočičky
 description : Vodítka lanová vyrábíme pro pejsky z lan od 0,3cm - 1,5cm, zakončeny kovovou karabinkou.
 pricing:
   - variant : Vodítko 1,5m

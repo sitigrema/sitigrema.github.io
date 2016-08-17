@@ -1,13 +1,13 @@
 ---
 layout: product
-title : Vodítka výstavní
-cat_title : Pejsci a kočičky
-group_title : Obojky a vodítka
-slug : voditka-vystavni
-group_slug : obojky-a-voditka
 has_image : False
-cat_slug : pejsci-a-kocicky
+title : Vodítka výstavní
+group_slug : obojky-a-voditka
+group_title : Obojky a vodítka
 image : false
+cat_slug : pejsci-a-kocicky
+slug : voditka-vystavni
+cat_title : Pejsci a kočičky
 description : Vodítka výstavní vyrábíme z nylonových šňůr nebo popruhů různých šířek s kovovou karabinkou.
 ---
 

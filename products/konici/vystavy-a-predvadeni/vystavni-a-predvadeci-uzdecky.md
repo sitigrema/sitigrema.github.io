@@ -1,13 +1,13 @@
 ---
 layout: product
-title : Výstavní a předváděcí uzdečky
-cat_title : Koníci
-group_title : Výstavy a předvádění
-slug : vystavni-a-predvadeci-uzdecky
-group_slug : vystavy-a-predvadeni
 has_image : True
-cat_slug : konici
+title : Výstavní a předváděcí uzdečky
+group_slug : vystavy-a-predvadeni
+group_title : Výstavy a předvádění
 image : /products/konici/vystavy-a-predvadeni/vystavni-a-predvadeci-uzdecky.jpg
+cat_slug : konici
+slug : vystavni-a-predvadeci-uzdecky
+cat_title : Koníci
 description : Všechny uzdečky jsou vyrobeny z kvalitních pevných nylonových popruhů s kováním ve velikostech pony, cob, full, XLfull.
 pricing:
   - variant : Uzdečka anglická kompletní, nepodložená

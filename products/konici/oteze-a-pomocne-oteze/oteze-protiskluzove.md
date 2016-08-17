@@ -1,13 +1,13 @@
 ---
 layout: product
-title : Otěže protiskluzové
-cat_title : Koníci
-group_title : Otěže a pomocné otěže
-slug : oteze-protiskluzove
-group_slug : oteze-a-pomocne-oteze
 has_image : True
-cat_slug : konici
+title : Otěže protiskluzové
+group_slug : oteze-a-pomocne-oteze
+group_title : Otěže a pomocné otěže
 image : /products/konici/oteze-a-pomocne-oteze/oteze-protiskluzove.jpg
+cat_slug : konici
+slug : oteze-protiskluzove
+cat_title : Koníci
 description : Otěže jsou vyráběny z pevných nylonových popruhů, které jsou protkány gumou.
 pricing:
   - variant : Otěže s přezkami s protiskluzovou úpravou

@@ -1,13 +1,13 @@
 ---
 layout: product
-title : Pamlskovníky
-cat_title : Pejsci a kočičky
-group_title : Výcvik
-slug : pamlskovniky
-group_slug : vycvik
 has_image : False
-cat_slug : pejsci-a-kocicky
+title : Pamlskovníky
+group_slug : vycvik
+group_title : Výcvik
 image : false
+cat_slug : pejsci-a-kocicky
+slug : pamlskovniky
+cat_title : Pejsci a kočičky
 description : Pamlskovníku je uzavíratelný nylonovou tkaničkou a plastovým brzdičem, případně po dohodě na gumičku.
 pricing:
   - variant : Pamlskovník 10x10cm

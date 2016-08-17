@@ -1,11 +1,11 @@
 ---
 layout: product_group
-title : Ohlávky, vodítka a čabraky
-has_image : False
-slug : ohlavky-voditka-a-cabraky
-group_slug : ohlavky-voditka-a-cabraky
-cat_slug : konici
 has_index : False
+title : Ohlávky, vodítka a čabraky
+group_slug : ohlavky-voditka-a-cabraky
+has_image : False
+cat_slug : konici
+slug : ohlavky-voditka-a-cabraky
 products:
   - slug: ohlavka
     title: Ohlávka
@@ -15,7 +15,7 @@ products:
     has_image: True
   - slug: ohlavka-s-berankem
     title: Ohlávka s beránkem
-    has_image: False
+    has_image: True
   - slug: ohlavka-dually-halter
     title: Ohlávka Dually Halter
     has_image: True

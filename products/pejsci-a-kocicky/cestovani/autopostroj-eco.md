@@ -1,13 +1,13 @@
 ---
 layout: product
-title : Autopostroj eco
-cat_title : Pejsci a kočičky
-group_title : Cestování
-slug : autopostroj-eco
-group_slug : cestovani
 has_image : False
-cat_slug : pejsci-a-kocicky
+title : Autopostroj eco
+group_slug : cestovani
+group_title : Cestování
 image : false
+cat_slug : pejsci-a-kocicky
+slug : autopostroj-eco
+cat_title : Pejsci a kočičky
 description : Autopostroj eco vyrábíme z pevných nylonových popruhů a kování. Na postroji v místě zad pejska, či kočičky je umístěn kroužek, do kterého lze zapnout spojku k zástrčce autopásu.
 pricing:
   - variant : Postroj XS (obvod hrudníku 20-40cm)

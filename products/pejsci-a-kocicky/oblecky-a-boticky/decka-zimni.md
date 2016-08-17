@@ -1,13 +1,13 @@
 ---
 layout: product
-title : Dečka zimní
-cat_title : Pejsci a kočičky
-group_title : Oblečky a botičky
-slug : decka-zimni
-group_slug : oblecky-a-boticky
 has_image : False
-cat_slug : pejsci-a-kocicky
+title : Dečka zimní
+group_slug : oblecky-a-boticky
+group_title : Oblečky a botičky
 image : false
+cat_slug : pejsci-a-kocicky
+slug : decka-zimni
+cat_title : Pejsci a kočičky
 description : Dečka zimní je vhodná do chladného počasí a nebo zimomřivé pejsky.
 ---
 

@@ -1,21 +1,17 @@
 ---
 layout: product
-title : Martingal westernový
-cat_title : Koníci
-group_title : Martingaly, poprsáky a příslušenství
-slug : martingal-westernovy
-group_slug : martingaly-poprsaky-a-prislusenstvi
 has_image : True
-cat_slug : konici
+title : Martingal westernový
+group_slug : martingaly-poprsaky-a-prislusenstvi
+group_title : Martingaly, poprsáky a příslušenství
 image : /products/konici/martingaly-poprsaky-a-prislusenstvi/martingal-westernovy.jpg
+cat_slug : konici
+slug : martingal-westernovy
+cat_title : Koníci
 description : Martingal je vyroben z pevných nylonových popruhů s kováním.
 pricing:
-  - variant : Martingal pony
-    price   : 300
-  - variant : Martingal cob, full
+  - variant : Martingal westernový
     price   : 350
-  - variant : Martingal XLfull
-    price   : 400
 ---
 
 Martingal je vyroben z pevných nylonových popruhů s kováním.

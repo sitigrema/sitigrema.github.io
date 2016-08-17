@@ -1,13 +1,13 @@
 ---
 layout: product
-title : Transportní kamaše
-cat_title : Koníci
-group_title : Ochrana nohou a reflexní prvky
-slug : transportni-kamase
-group_slug : ochrana-nohou-a-reflexni-prvky
 has_image : False
-cat_slug : konici
+title : Transportní kamaše
+group_slug : ochrana-nohou-a-reflexni-prvky
+group_title : Ochrana nohou a reflexní prvky
 image : false
+cat_slug : konici
+slug : transportni-kamase
+cat_title : Koníci
 description : Transportní kamaše vám ušiji ve velikostech pony, cob, full.Vrchní materiál na lícové straně je technická tkanina, na rubové straně je flees, vnitřní výplň molitan.
 ---
 

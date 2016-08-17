@@ -1,13 +1,13 @@
 ---
 layout: product
-title : Obojek posuvný
-cat_title : Pejsci a kočičky
-group_title : Obojky a vodítka
-slug : obojek-posuvny
-group_slug : obojky-a-voditka
 has_image : True
-cat_slug : pejsci-a-kocicky
+title : Obojek posuvný
+group_slug : obojky-a-voditka
+group_title : Obojky a vodítka
 image : /products/pejsci-a-kocicky/obojky-a-voditka/obojek-posuvny.jpg
+cat_slug : pejsci-a-kocicky
+slug : obojek-posuvny
+cat_title : Pejsci a kočičky
 description : Obojky lze vyrobit v různých délkách, šířkách a barvách. Standardní provedení je nylonový popruh, kovový půlkruh, kovová přezka a posuvná zarážka, která je většinou plastová.
 pricing:
   - variant : XS (15-25cm)

@@ -1,13 +1,13 @@
 ---
 layout: product
-title : Uzdečka bez nánosníku
-cat_title : Koníci
-group_title : Uzdečky a bezudidlovky
-slug : uzdecka-bez-nanosniku
-group_slug : uzdecky-a-bezudidlovky
 has_image : True
-cat_slug : konici
+title : Uzdečka bez nánosníku
+group_slug : uzdecky-a-bezudidlovky
+group_title : Uzdečky a bezudidlovky
 image : /products/konici/uzdecky-a-bezudidlovky/uzdecka-bez-nanosniku.jpg
+cat_slug : konici
+slug : uzdecka-bez-nanosniku
+cat_title : Koníci
 description : Uzdečka je vyrobena z kvalitních pevných nylonových popruhů s kováním.Uzdečka obsahuje nátylník, lícnice, čelenku, podhrdelník.
 pricing:
   - variant : Uzdečka bez nánosníku, nepodložená

@@ -5,7 +5,5 @@ Samostatné očko na podbřišník pro rychlé odepínání martingalu stojí 50
 
 Martingal je nastavitelný a můžete ho objednat v různých barvách.
 
-Martingal pony : 350
-Martingal cob, full : 400
-Martingal XLfull : 450
+Martingal: 400
 

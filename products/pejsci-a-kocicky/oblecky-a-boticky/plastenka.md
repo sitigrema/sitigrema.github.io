@@ -1,13 +1,13 @@
 ---
 layout: product
-title : Pláštěnka
-cat_title : Pejsci a kočičky
-group_title : Oblečky a botičky
-slug : plastenka
-group_slug : oblecky-a-boticky
 has_image : False
-cat_slug : pejsci-a-kocicky
+title : Pláštěnka
+group_slug : oblecky-a-boticky
+group_title : Oblečky a botičky
 image : false
+cat_slug : pejsci-a-kocicky
+slug : plastenka
+cat_title : Pejsci a kočičky
 description : Pláštěnku pro pejska do nepříznivého počasí vám ušijeme z technické tkaniny. Přední část může být se zapínáním na suchý zip, nebo přezku, případně i přetahovací přes hlavu.
 ---
 

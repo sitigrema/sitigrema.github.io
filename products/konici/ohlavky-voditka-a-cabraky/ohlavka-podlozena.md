@@ -1,13 +1,13 @@
 ---
 layout: product
-title : Ohlávka podložená
-cat_title : Koníci
-group_title : Ohlávky, vodítka a čabraky
-slug : ohlavka-podlozena
-group_slug : ohlavky-voditka-a-cabraky
 has_image : True
-cat_slug : konici
+title : Ohlávka podložená
+group_slug : ohlavky-voditka-a-cabraky
+group_title : Ohlávky, vodítka a čabraky
 image : /products/konici/ohlavky-voditka-a-cabraky/ohlavka-podlozena.jpg
+cat_slug : konici
+slug : ohlavka-podlozena
+cat_title : Koníci
 description : Ohlávka je vyrobena z pevných nylonových popruhů s kováním.Podložená fleesem je na nátylníku a nánosníku.
 pricing:
   - variant : Ohlávka podložená

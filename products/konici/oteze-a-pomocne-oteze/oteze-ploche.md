@@ -1,13 +1,13 @@
 ---
 layout: product
-title : Otěže ploché
-cat_title : Koníci
-group_title : Otěže a pomocné otěže
-slug : oteze-ploche
-group_slug : oteze-a-pomocne-oteze
 has_image : True
-cat_slug : konici
+title : Otěže ploché
+group_slug : oteze-a-pomocne-oteze
+group_title : Otěže a pomocné otěže
 image : /products/konici/oteze-a-pomocne-oteze/oteze-ploche.jpg
+cat_slug : konici
+slug : oteze-ploche
+cat_title : Koníci
 description : Otěže jsou vyráběny z pevných nylonových popruhů.
 pricing:
   - variant : Otěže s přezkami

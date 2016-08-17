@@ -1,13 +1,13 @@
 ---
 layout: product
-title : Chrániče neoprenové
-cat_title : Koníci
-group_title : Ochrana nohou a reflexní prvky
-slug : chranice-neoprenove
-group_slug : ochrana-nohou-a-reflexni-prvky
 has_image : False
-cat_slug : konici
+title : Chrániče neoprenové
+group_slug : ochrana-nohou-a-reflexni-prvky
+group_title : Ochrana nohou a reflexní prvky
 image : false
+cat_slug : konici
+slug : chranice-neoprenove
+cat_title : Koníci
 description : Neoprenové chrániče pro koně se zapínáním na suché zipy.V místě kde se u většiny chráničů nachází plastový výlisek našívám kůži ve tvaru výlisku.
 pricing:
   - variant : Neoprenové chrániče na přední nohy

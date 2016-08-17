@@ -1,13 +1,13 @@
 ---
 layout: product
-title : Vodítka lanová
-cat_title : Koníci
-group_title : Ohlávky, vodítka a čabraky
-slug : voditka-lanova
-group_slug : ohlavky-voditka-a-cabraky
 has_image : True
-cat_slug : konici
+title : Vodítka lanová
+group_slug : ohlavky-voditka-a-cabraky
+group_title : Ohlávky, vodítka a čabraky
 image : /products/konici/ohlavky-voditka-a-cabraky/voditka-lanova.jpg
+cat_slug : konici
+slug : voditka-lanova
+cat_title : Koníci
 description : Vodítko je vyrobeno z pevného lana.
 pricing:
   - variant : Vodítko 1,5m s klasickou karabinkou

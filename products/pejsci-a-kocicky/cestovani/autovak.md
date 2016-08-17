@@ -1,13 +1,13 @@
 ---
 layout: product
-title : Autovak
-cat_title : Pejsci a kočičky
-group_title : Cestování
-slug : autovak
-group_slug : cestovani
 has_image : False
-cat_slug : pejsci-a-kocicky
+title : Autovak
+group_slug : cestovani
+group_title : Cestování
 image : false
+cat_slug : pejsci-a-kocicky
+slug : autovak
+cat_title : Pejsci a kočičky
 description : Autovak do auta je vhodný na zadní sedačky automobilu. Vak chrání auto proti špíně a zvířecí srsti. Je opatřen úchytky, které se zapnou do opěrek hlavy.
 pricing:
   - variant : Vak malý (h. 0,65m, š. 1,2m, v.0,6m)

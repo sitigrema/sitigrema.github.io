@@ -1,13 +1,13 @@
 ---
 layout: product
-title : Obojek eko
-cat_title : Pejsci a kočičky
-group_title : Obojky a vodítka
-slug : obojek-eko
-group_slug : obojky-a-voditka
 has_image : True
-cat_slug : pejsci-a-kocicky
+title : Obojek eko
+group_slug : obojky-a-voditka
+group_title : Obojky a vodítka
 image : /products/pejsci-a-kocicky/obojky-a-voditka/obojek-eko.jpg
+cat_slug : pejsci-a-kocicky
+slug : obojek-eko
+cat_title : Pejsci a kočičky
 description : Obojky lze vyrobit v různých délkách, šířkách a barvách. Standartní provedení je nylonový popruh, kovový půlkruh a kovová přezka.
 pricing:
   - variant : XS (15-25cm)

@@ -1,13 +1,13 @@
 ---
 layout: product
-title : Dečka vykrojená
-cat_title : Koníci
-group_title : Podsedlové a jiné dečky
-slug : decka-vykrojena
-group_slug : podsedlove-a-jine-decky
 has_image : False
-cat_slug : konici
+title : Dečka vykrojená
+group_slug : podsedlove-a-jine-decky
+group_title : Podsedlové a jiné dečky
 image : false
+cat_slug : konici
+slug : decka-vykrojena
+cat_title : Koníci
 description : Vykrojená dečka v základním provedení je vyrobena z látky, s výplní - molitan v síle 0,5cm, 1cm nebo po domluvě i silnější.
 pricing:
   - variant : Dečka vykrojená

@@ -1,13 +1,13 @@
 ---
 layout: product
-title : Pelíšek eko
-cat_title : Pejsci a kočičky
-group_title : Pelíšky a podložky
-slug : pelisek-eko
-group_slug : pelisky-a-podlozky
 has_image : True
-cat_slug : pejsci-a-kocicky
+title : Pelíšek eko
+group_slug : pelisky-a-podlozky
+group_title : Pelíšky a podložky
 image : /products/pejsci-a-kocicky/pelisky-a-podlozky/pelisek-eko.jpg
+cat_slug : pejsci-a-kocicky
+slug : pelisek-eko
+cat_title : Pejsci a kočičky
 description : Pelíšky lze ušít s výplní drcený molitan či jako podložku - tedy z molitanové desky.
 pricing:
   - variant : Pelíšek 30 x 30cm

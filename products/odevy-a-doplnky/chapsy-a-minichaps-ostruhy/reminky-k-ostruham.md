@@ -1,13 +1,13 @@
 ---
 layout: product
-title : Řemínky k ostruhám
-cat_title : Oděvy a doplňky
-group_title : Chapsy a minichaps, ostruhy
-slug : reminky-k-ostruham
-group_slug : chapsy-a-minichaps-ostruhy
 has_image : False
-cat_slug : odevy-a-doplnky
+title : Řemínky k ostruhám
+group_slug : chapsy-a-minichaps-ostruhy
+group_title : Chapsy a minichaps, ostruhy
 image : false
+cat_slug : odevy-a-doplnky
+slug : reminky-k-ostruham
+cat_title : Oděvy a doplňky
 description : Řemínky k ostruhám šijeme z nylonových popruhů a kování.
 pricing:
   - variant : Řemínky k ostruhám (pár)

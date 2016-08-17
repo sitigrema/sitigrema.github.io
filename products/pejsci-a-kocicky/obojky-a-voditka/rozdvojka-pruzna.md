@@ -1,13 +1,13 @@
 ---
 layout: product
-title : Rozdvojka pružná
-cat_title : Pejsci a kočičky
-group_title : Obojky a vodítka
-slug : rozdvojka-pruzna
-group_slug : obojky-a-voditka
 has_image : False
-cat_slug : pejsci-a-kocicky
+title : Rozdvojka pružná
+group_slug : obojky-a-voditka
+group_title : Obojky a vodítka
 image : false
+cat_slug : pejsci-a-kocicky
+slug : rozdvojka-pruzna
+cat_title : Pejsci a kočičky
 description : Máte dva pejsky a nevíte si s dvěma vodítky rady? Máme pro vás jednoduché řešení.Rozdvojka pro pejsky je vhodná pro jakýkoliv typ plemen od malých po velké.
 pricing:
   - variant : Rozdvojka malý pes pružná

@@ -1,13 +1,13 @@
 ---
 layout: product
-title : Kukly
-cat_title : Oděvy a doplňky
-group_title : Bederní pásy a kukly
-slug : kukly
-group_slug : bederni-pasy-a-kukly
 has_image : False
-cat_slug : odevy-a-doplnky
+title : Kukly
+group_slug : bederni-pasy-a-kukly
+group_title : Bederní pásy a kukly
 image : false
+cat_slug : odevy-a-doplnky
+slug : kukly
+cat_title : Oděvy a doplňky
 description : V případě zájmu vám můžeme ušít pružnou kuklu na chladné zimní dny. Vhodné pro sport, v práci či volný čas.
 pricing:
   - variant : Kukla eko

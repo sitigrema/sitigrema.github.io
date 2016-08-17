@@ -1,13 +1,13 @@
 ---
 layout: product
-title : Uzdečka s Hackamore
-cat_title : Koníci
-group_title : Uzdečky a bezudidlovky
-slug : uzdecka-s-hackamore
-group_slug : uzdecky-a-bezudidlovky
 has_image : False
-cat_slug : konici
+title : Uzdečka s Hackamore
+group_slug : uzdecky-a-bezudidlovky
+group_title : Uzdečky a bezudidlovky
 image : false
+cat_slug : konici
+slug : uzdecka-s-hackamore
+cat_title : Koníci
 description : Uzdečka s Hackamore obsahuje nátylník, čelenku, lícnice, podhrdelník a hackamore ramena s nánosníkem a podbradníkem.
 pricing:
   - variant : Uzdečka s Hackamore, nepodložená, pony

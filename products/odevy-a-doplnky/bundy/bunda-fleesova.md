@@ -1,13 +1,13 @@
 ---
 layout: product
-title : Bunda fleesová
-cat_title : Oděvy a doplňky
-group_title : Bundy
-slug : bunda-fleesova
-group_slug : bundy
 has_image : False
-cat_slug : odevy-a-doplnky
+title : Bunda fleesová
+group_slug : bundy
+group_title : Bundy
 image : false
+cat_slug : odevy-a-doplnky
+slug : bunda-fleesova
+cat_title : Oděvy a doplňky
 description : Bundy fleesové vyrábíme v mnoha velikostech, barvách a barevných kombinacích. Lze ušít pouze lehkou bundu a nebo jí i za příplatek zesílit pro chladnější dny.
 pricing:
   - variant : Bunda fleesová dětská

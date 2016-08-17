@@ -1,13 +1,13 @@
 ---
 layout: product
-title : Reflexní pásky pro jezdce
-cat_title : Koníci
-group_title : Ochrana nohou a reflexní prvky
-slug : reflexni-pasky-pro-jezdce
-group_slug : ochrana-nohou-a-reflexni-prvky
 has_image : True
-cat_slug : konici
+title : Reflexní pásky pro jezdce
+group_slug : ochrana-nohou-a-reflexni-prvky
+group_title : Ochrana nohou a reflexní prvky
 image : /products/konici/ochrana-nohou-a-reflexni-prvky/reflexni-pasky-pro-jezdce.jpg
+cat_slug : konici
+slug : reflexni-pasky-pro-jezdce
+cat_title : Koníci
 description : Reflexní pásky vám mohu našít na jakoukoliv vaší výstroj a nebo vám zhotovit pásky na suchý zip na ruce, nohy.
 ---
 

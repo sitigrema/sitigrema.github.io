@@ -1,13 +1,13 @@
 ---
 layout: product
-title : Uzdečka jednouška
-cat_title : Koníci
-group_title : Uzdečky a bezudidlovky
-slug : uzdecka-jednouska
-group_slug : uzdecky-a-bezudidlovky
 has_image : False
-cat_slug : konici
+title : Uzdečka jednouška
+group_slug : uzdecky-a-bezudidlovky
+group_title : Uzdečky a bezudidlovky
 image : false
+cat_slug : konici
+slug : uzdecka-jednouska
+cat_title : Koníci
 description : Uzdečka je vyrobena z kvalitních pevných nylonových popruhů s kováním a obsahuje tyto části – nátylník, lícnice, očko na ouško.
 pricing:
   - variant : Uzdečka jednouška, nepodložená
